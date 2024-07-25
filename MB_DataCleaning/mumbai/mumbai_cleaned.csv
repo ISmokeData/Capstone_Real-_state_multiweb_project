@@ -1,0 +1,1501 @@
+BHK,Sector,price,price_persqft,SuperArea,Floor,Furnishing,facing,Car_Parking,Bathroom,Balcony,overlooking,city
+3,Wadala,4.35,39013.0,1115.0,,Unfurnished,,May be not,3,,,Mumbai
+1,others,0.67,16792.0,399.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Kandivali,2.25,20872.0,1078.0,,Unfurnished,,available,2,,,Mumbai
+2,others,1.80,28892.0,623.0,,Unfurnished,,available,2,,,Mumbai
+1,others,0.33,9116.0,362.0,,Unfurnished,,May be not,2,,,Mumbai
+1,Bhandup,1.02,23666.0,431.0,,Semi-Furnished,,May be not,2,,,Mumbai
+2,Chembur,2.30,35549.0,647.0,,Unfurnished,,May be not,2,,,Mumbai
+4,Mulund,5.20,25440.0,2044.0,,Unfurnished,,available,4+,,,Mumbai
+2,Wadala,3.34,40338.0,828.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Bandra,2.60,40248.0,646.0,,Unfurnished,,available,2,,,Mumbai
+2,Borivali,1.90,22892.0,830.0,,Unfurnished,,available,2,,,Mumbai
+2,Mulund,1.70,24709.0,688.0,,Semi-Furnished,,May be not,2,,,Mumbai
+4,Powai,8.52,53958.0,1579.0,,Unfurnished,,May be not,4,3,,Mumbai
+2,Mira Road,0.985,16444.0,599.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Wadala,2.84,31556.0,900.0,,Unfurnished,,May be not,2,1,,Mumbai
+1,Mira Road,0.691,15493.0,446.0,,Unfurnished,,May be not,2,1,,Mumbai
+2,Andheri,2.99,41877.0,714.0,,Unfurnished,,May be not,2,1,,Mumbai
+2,Kandivali,1.85,28331.0,653.0,,Unfurnished,,May be not,2,1,,Mumbai
+3,Mulund,2.75,26855.0,1024.0,,Unfurnished,,May be not,3,1,,Mumbai
+2,Wadala,1.31,27850.0,473.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Kandivali,1.70,25758.0,660.0,,Unfurnished,,May be not,2,,,Mumbai
+2,others,2.22,29839.0,744.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Malad,1.99,29051.0,685.0,,Unfurnished,,May be not,2,1,,Mumbai
+3,others,7.50,44431.0,1688.0,,Unfurnished,,May be not,3,1,,Mumbai
+2,Bandra,3.70,46658.0,793.0,,Unfurnished,,May be not,2,,,Mumbai
+3,Chembur,6.10,39103.0,1560.0,,Unfurnished,,May be not,3,2,,Mumbai
+1,Kandivali,0.78,18440.0,423.0,,Unfurnished,,May be not,2,,,Mumbai
+3,Wadala,3.90,34121.0,1143.0,,Unfurnished,,May be not,2,2,,Mumbai
+1,Mira Road,0.691,15493.0,446.0,,Unfurnished,,May be not,1,,,Mumbai
+3,others,6.77,60936.0,1111.0,,Unfurnished,,May be not,3,1,,Mumbai
+3,Malad,4.61,32905.0,1401.0,,Unfurnished,,May be not,3,1,,Mumbai
+3,Chembur,3.65,36550.0,1000.0,,Unfurnished,,May be not,3,1,,Mumbai
+1,Malad,0.63,14157.0,445.0,,Unfurnished,,May be not,1,1,,Mumbai
+1,Kandivali,1.01,20141.0,501.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Wadala,1.66,27393.0,606.0,,Unfurnished,,May be not,2,,,Mumbai
+3,Chembur,3.56,36550.0,974.0,,Unfurnished,,May be not,2,1,,Mumbai
+1,Mulund,0.6,18519.0,324.0,,Unfurnished,,available,1,1,,Mumbai
+2,others,2.80,33333.0,840.0,,Unfurnished,,May be not,2,,,Mumbai
+1,Kandivali,0.8,19851.0,403.0,,Unfurnished,,May be not,2,,,Mumbai
+3,Kandivali,4.30,26061.0,1650.0,,Unfurnished,,May be not,3,1,,Mumbai
+2,Chembur,3.30,44595.0,740.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Kandivali,2.27,29857.0,760.0,,Unfurnished,,May be not,2,,,Mumbai
+1,Andheri,1.27,29812.0,426.0,,Unfurnished,,May be not,1,1,,Mumbai
+1,Goregaon,1.16,26852.0,432.0,,Unfurnished,,May be not,1,,,Mumbai
+2,Powai,3.05,41384.0,737.0,,Unfurnished,,May be not,2,1,,Mumbai
+2,Kandivali,2.40,32000.0,750.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Kandivali,2.40,32000.0,750.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Bhandup,2.15,28705.0,749.0,,Unfurnished,,May be not,2,1,,Mumbai
+2,Ghatkopar,2.55,33641.0,758.0,,Unfurnished,,May be not,2,1,,Mumbai
+2,Borivali,2.50,34674.0,721.0,,Unfurnished,,May be not,2,,,Mumbai
+1,Santacruz,3.15,72414.0,435.0,,Unfurnished,,May be not,1,,,Mumbai
+1,Goregaon,1.43,36573.0,391.0,,Unfurnished,,May be not,2,,,Mumbai
+1,Andheri,1.27,29812.0,426.0,,Unfurnished,,May be not,1,1,,Mumbai
+2,Malad,1.49,28932.0,515.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Malad,1.22,19489.0,626.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Ghatkopar,3.49,32435.0,1076.0,,Unfurnished,,May be not,3,,,Mumbai
+3,Chembur,5.20,35495.0,1465.0,,Unfurnished,,May be not,3,1,,Mumbai
+1,Malad,1.42,29278.0,485.0,,Unfurnished,,May be not,1,,,Mumbai
+2,Chembur,3.30,44595.0,740.0,,Unfurnished,,May be not,2,,,Mumbai
+2,others,2.64,24000.0,1100.0,,Unfurnished,,May be not,2,1,,Mumbai
+3,Malad,4.07,29051.0,1401.0,,Unfurnished,,May be not,3,3,,Mumbai
+3,Bandra,5.74,57673.0,996.0,,Unfurnished,,May be not,3,1,,Mumbai
+2,Kandivali,1.81,26308.0,688.0,,Unfurnished,,May be not,2,1,,Mumbai
+1,Bhandup,0.89,20941.0,425.0,,Unfurnished,,May be not,2,,,Mumbai
+1,Mira Road,0.59,12041.0,490.0,,Unfurnished,,May be not,2,3,,Mumbai
+2,Chembur,2.34,26621.0,879.0,,Unfurnished,,May be not,3,1,,Mumbai
+2,others,2.80,33333.0,840.0,,Unfurnished,,May be not,2,1,,Mumbai
+2,Chembur,1.50,23772.0,631.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Kandivali,1.77,28365.0,624.0,,Unfurnished,,May be not,2,,,Mumbai
+1,Mira Road,0.75,17606.0,426.0,,Unfurnished,,May be not,2,3,,Mumbai
+3,Worli,9.04,60293.0,1500.0,,Unfurnished,,May be not,3,1,,Mumbai
+4+,others,6.70,40854.0,1640.0,,Unfurnished,,May be not,3,1,,Mumbai
+1,Virar,0.33,8483.0,389.0,,Unfurnished,,May be not,2,3,,Mumbai
+1,Malad,0.8,19656.0,407.0,,Unfurnished,,May be not,1,,,Mumbai
+1,Virar,0.414,8809.0,470.0,,Unfurnished,,May be not,2,3,,Mumbai
+1,Mira Road,0.7240000000000001,16995.0,426.0,,Unfurnished,,May be not,2,1,,Mumbai
+3,Powai,3.95,37981.0,1040.0,,Unfurnished,,May be not,2,2,,Mumbai
+3,Mulund,2.40,23529.0,1020.0,,Unfurnished,,May be not,3,1,,Mumbai
+2,others,3.19,33579.0,950.0,,Unfurnished,,May be not,2,1,,Mumbai
+1,others,0.39,7400.0,527.0,,Unfurnished,,May be not,2,3,,Mumbai
+1,others,1.15,27123.0,424.0,,Unfurnished,,May be not,1,1,,Mumbai
+2,Borivali,1.90,24675.0,770.0,,Unfurnished,,May be not,2,,,Mumbai
+1,others,0.7000000000000001,13752.0,509.0,,Unfurnished,,May be not,2,2,,Mumbai
+4,Bandra,3.92,34236.0,1145.0,,Unfurnished,,May be not,3,2,,Mumbai
+2,Mulund,1.45,23463.0,618.0,,Unfurnished,,May be not,2,1,,Mumbai
+1,Malad,0.9740000000000001,25632.0,380.0,,Unfurnished,,May be not,1,1,,Mumbai
+3,Kandivali,3.10,26980.0,1149.0,,Unfurnished,,available,3,,,Mumbai
+2,Mulund,1.51,19921.0,758.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Mulund,2.49,30292.0,822.0,,Unfurnished,,available,2,,,Mumbai
+2,Ghatkopar,1.35,20769.0,650.0,,Unfurnished,,available,2,,,Mumbai
+3,others,7.29,48600.0,1500.0,,Unfurnished,,May be not,3,,,Mumbai
+2,others,2.55,41262.0,618.0,,Unfurnished,,available,2,,,Mumbai
+2,others,3.99,48305.0,826.0,,Unfurnished,,available,2,,,Mumbai
+2,Virar,0.7709999999999999,11953.0,645.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Chembur,3.10,40052.0,774.0,,Semi-Furnished,,available,2,,,Mumbai
+3,Prabhadevi,8,51613.0,1550.0,,Unfurnished,,May be not,3,,,Mumbai
+2,Wadala,2.71,35379.0,766.0,,Unfurnished,,available,2,,,Mumbai
+3,Bandra,6.93,73333.0,945.0,,Unfurnished,,available,3,,,Mumbai
+2,Mulund,1.96,24500.0,800.0,,Semi-Furnished,,available,2,,,Mumbai
+1,Kanjurmarg,0.888,20748.0,428.0,,Unfurnished,,available,2,,,Mumbai
+2,Chembur,2.30,35938.0,640.0,,Unfurnished,,available,2,,,Mumbai
+3,others,6.29,46975.0,1339.0,,Unfurnished,,May be not,3,,,Mumbai
+2,Santacruz,3.12,46154.0,676.0,,Unfurnished,,May be not,2,,,Mumbai
+3,Wadala,2.98,30502.0,977.0,,Unfurnished,,available,3,,,Mumbai
+3,Kandivali,3.25,31832.0,1021.0,10+,Unfurnished,East,available,3,,Main Road,Mumbai
+2,Kandivali,1.45,23732.0,611.0,,Unfurnished,,May be not,2,,,Mumbai
+3,Andheri,2.72,24840.0,1095.0,,Unfurnished,,available,3,,,Mumbai
+2,Powai,2.40,19200.0,1250.0,,Semi-Furnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+3,Prabhadevi,8.10,45000.0,1800.0,10+,Semi-Furnished,North - East,available,3,,Pool,Mumbai
+2,Goregaon,1.86,29904.0,622.0,,Unfurnished,,May be not,2,,,Mumbai
+1,Andheri,1.04,28108.0,370.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Bandra,2.63,32345.0,813.0,10+,Unfurnished,,available,2,,,Mumbai
+2,Bhandup,1.35,21429.0,630.0,,Unfurnished,,available,2,,,Mumbai
+1,Ghatkopar,0.96,22912.0,419.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Malad,2.10,29248.0,718.0,,Unfurnished,,May be not,2,,,Mumbai
+2,others,1.71,22065.0,775.0,,Unfurnished,,available,2,,,Mumbai
+2,Ghatkopar,1.76,27630.0,637.0,10+,Unfurnished,,available,2,,,Mumbai
+2,others,1.35,23810.0,567.0,,Unfurnished,,May be not,2,,,Mumbai
+1,others,1.03,25122.0,410.0,,Semi-Furnished,,available,1,,,Mumbai
+3,Prabhadevi,8,59925.0,1335.0,10+,Semi-Furnished,North - East,available,3,,Garden/Park,Mumbai
+2,others,4.50,58442.0,770.0,,Unfurnished,,available,2,,,Mumbai
+3,Mulund,3.15,23333.0,1350.0,10+,Semi-Furnished,East,available,3,1,Garden/Park,Mumbai
+3,others,6.80,37281.0,1824.0,8,Semi-Furnished,East,available,3,,Main Road,Mumbai
+2,Mulund,1.75,25000.0,700.0,10,Unfurnished,North,available,2,,Main Road,Mumbai
+4+,Borivali,10,30303.0,3300.0,10+,Unfurnished,East,available,4+,,Garden/Park,Mumbai
+4,Vile Parle,7.25,46774.0,1550.0,10+,Unfurnished,East,available,4,,Main Road,Mumbai
+2,Andheri,1.90,25000.0,760.0,,Unfurnished,North,available,2,,Pool,Mumbai
+2,others,4.93,55854.0,883.0,,Unfurnished,,May be not,2,,,Mumbai
+4+,Borivali,10.50,33333.0,3150.0,10+,Unfurnished,West,May be not,4+,2,"Pool, Main Road, Garden/Park",Mumbai
+3,Kanjurmarg,2.90,18710.0,1550.0,10+,Semi-Furnished,East,available,3,1,Main Road,Mumbai
+4,Andheri,3.75,20833.0,1800.0,4,Semi-Furnished,West,available,3,,Garden/Park,Mumbai
+4,Goregaon,6.04,17223.0,3507.0,,Unfurnished,East,available,4,3,Garden/Park,Mumbai
+2,Kanjurmarg,2.30,30667.0,750.0,10+,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+2,Wadala,2.70,27000.0,1000.0,,Furnished,East,May be not,2,1,"Garden/Park, Pool, Main Road",Mumbai
+3,Goregaon,3.50,25926.0,1350.0,10+,Semi-Furnished,North - East,May be not,3,3,Main Road,Mumbai
+3,Chembur,6.50,27660.0,2350.0,6,Unfurnished,East,available,3,,Garden/Park,Mumbai
+3,Worli,6.30,42000.0,1500.0,10+,Semi-Furnished,East,available,3,,"Garden/Park, Pool, Main Road",Mumbai
+1,Powai,1.60,24615.0,650.0,10+,Semi-Furnished,North - East,available,1,,"Garden/Park, Pool, Main Road",Mumbai
+2,Chembur,3.10,40052.0,774.0,,Semi-Furnished,,available,2,,,Mumbai
+3,Mulund,2.20,23158.0,950.0,10+,Unfurnished,North - East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+4,Santacruz,15.50,40789.0,3800.0,10,Unfurnished,North - West,available,4+,4,Main Road,Mumbai
+2,Mira Road,0.98,9333.0,1050.0,10+,Semi-Furnished,East,available,2,4,"Garden/Park, Main Road",Mumbai
+4,Mulund,3.35,17914.0,1870.0,,Unfurnished,,available,3,,,Mumbai
+2,others,4.30,55844.0,770.0,,Unfurnished,,May be not,2,,,Mumbai
+2,Borivali,1.95,16738.0,1165.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+1,Mira Road,0.6900000000000001,9583.0,720.0,10+,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+2,Powai,2.45,23333.0,1050.0,10,Unfurnished,East,available,2,,Garden/Park,Mumbai
+2,Santacruz,2.20,27500.0,800.0,6,Unfurnished,East,available,2,,Main Road,Mumbai
+3,Chembur,3.40,18671.0,1821.0,7,Semi-Furnished,East,available,4,,"Garden/Park, Main Road",Mumbai
+2,Santacruz,2.25,20680.0,1088.0,6,Semi-Furnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+4+,Santacruz,13.25,41772.0,3172.0,10,Unfurnished,East,available,4+,4+,Garden/Park,Mumbai
+2,Mulund,1.75,15909.0,1100.0,9,Unfurnished,North - East,available,2,,Garden/Park,Mumbai
+1,others,1.16,16571.0,700.0,10+,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+3,Malad,2.61,27974.0,933.0,,Semi-Furnished,East,available,3,,Main Road,Mumbai
+2,Powai,2.75,27555.0,998.0,10+,Semi-Furnished,North - East,available,2,1,"Garden/Park, Pool",Mumbai
+2,Chembur,2.46,26452.0,930.0,5,Unfurnished,East,available,2,,Garden/Park,Mumbai
+3,Wadala,3.50,36458.0,960.0,10+,Semi-Furnished,East,available,4,2,"Garden/Park, Pool, Main Road",Mumbai
+2,Andheri,4.10,30370.0,1350.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+2,Malad,1.99,23495.0,847.0,,Unfurnished,,available,2,,,Mumbai
+3,Andheri,6.50,30233.0,2150.0,7,Unfurnished,East,available,3,2,Main Road,Mumbai
+2,Kandivali,1.49,17529.0,850.0,10,Unfurnished,North - East,available,2,1,Garden/Park,Mumbai
+2,others,4.50,38894.0,1157.0,10,Unfurnished,East,available,2,1,"Pool, Main Road",Mumbai
+3,Powai,3.90,26000.0,1500.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Pool, Main Road",Mumbai
+1,others,1.10,27431.0,401.0,10+,Unfurnished,West,May be not,2,,Main Road,Mumbai
+3,Andheri,3.90,26000.0,1500.0,,Unfurnished,West,available,3,,"Garden/Park, Main Road",Mumbai
+2,Borivali,1.99,20947.0,950.0,1,Unfurnished,East,available,2,1,Main Road,Mumbai
+1,Wadala,1.65,35106.0,470.0,,Unfurnished,East,available,1,1,"Garden/Park, Pool, Main Road",Mumbai
+3,Mira Road,1.43,9863.0,1450.0,8,Unfurnished,East,May be not,3,2,"Garden/Park, Main Road",Mumbai
+2,Andheri,3.40,23448.0,1450.0,10+,Unfurnished,East,available,2,3,"Garden/Park, Pool, Main Road",Mumbai
+3,Mira Road,1.30,9455.0,1375.0,10+,Semi-Furnished,East,available,3,,"Main Road, Garden/Park, Pool",Mumbai
+1,Mira Road,0.6,9009.0,666.0,10+,Unfurnished,West,available,2,2,Main Road,Mumbai
+1,Andheri,1.49,27190.0,548.0,10+,Unfurnished,East,available,2,,Garden/Park,Mumbai
+2,Mulund,1.60,19394.0,825.0,2,Unfurnished,North - East,available,2,1,,Mumbai
+3,Bandra,6.07,53527.0,1134.0,,Unfurnished,,May be not,3,,,Mumbai
+4+,others,10.50,37500.0,2800.0,10+,Semi-Furnished,North - East,May be not,4+,1,"Main Road, Garden/Park",Mumbai
+3,Andheri,6.96,23593.0,2950.0,10,Unfurnished,East,available,3,,"Garden/Park, Main Road",Mumbai
+2,Mulund,1.70,16190.0,1050.0,3,Unfurnished,North,available,2,,Main Road,Mumbai
+2,Ghatkopar,1.25,20833.0,600.0,10+,Unfurnished,North - East,May be not,2,,,Mumbai
+3,Kanjurmarg,2.42,17286.0,1400.0,10+,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+2,Kandivali,1.65,15865.0,1040.0,7,Semi-Furnished,West,available,2,,Main Road,Mumbai
+3,others,6.45,36550.0,1765.0,10,Unfurnished,East,available,4,1,"Garden/Park, Main Road",Mumbai
+3,Borivali,5.35,47220.0,1133.0,,Unfurnished,North - West,available,3,1,Main Road,Mumbai
+2,Kandivali,3.39,27833.0,1218.0,,Unfurnished,,available,2,,,Mumbai
+3,Andheri,4.60,35385.0,1300.0,4,Unfurnished,East,available,3,,"Garden/Park, Main Road",Mumbai
+1,Vile Parle,1.70,48571.0,350.0,6,Furnished,East,May be not,1,1,Main Road,Mumbai
+1,Mira Road,0.628,8099.0,775.0,5,Semi-Furnished,North - East,available,2,3,"Garden/Park, Main Road",Mumbai
+1,Virar,0.38,5846.0,650.0,,Unfurnished,East,available,2,3,"Garden/Park, Pool, Main Road",Mumbai
+3,Kanjurmarg,3.45,25368.0,1360.0,10,Semi-Furnished,East,available,3,1,Garden/Park,Mumbai
+3,others,7.25,65909.0,1100.0,5,Semi-Furnished,East,available,3,,Main Road,Mumbai
+3,others,4.51,28188.0,1600.0,10+,Semi-Furnished,East,available,3,1,Garden/Park,Mumbai
+1,Bandra,3,50000.0,600.0,6,Semi-Furnished,West,May be not,2,,"Pool, Garden/Park, Main Road",Mumbai
+2,others,3.70,29600.0,1250.0,,Unfurnished,North - East,available,2,,"Garden/Park, Main Road",Mumbai
+3,Worli,5.50,34548.0,1592.0,10+,Semi-Furnished,East,available,3,,"Garden/Park, Pool",Mumbai
+2,Borivali,1.64,27000.0,607.0,10,Unfurnished,East,available,2,,Main Road,Mumbai
+2,Santacruz,4.41,49000.0,900.0,8,Semi-Furnished,East,May be not,2,,Main Road,Mumbai
+2,Virar,0.45,4918.0,915.0,,Unfurnished,North - West,available,2,2,"Garden/Park, Main Road",Mumbai
+3,Powai,3.40,22667.0,1500.0,10+,Unfurnished,East,available,3,,"Garden/Park, Pool, Main Road",Mumbai
+4+,Worli,35,96260.0,3636.0,10+,Unfurnished,West,May be not,4+,2,Main Road,Mumbai
+2,Borivali,1.72,20117.0,855.0,,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+2,Wadala,2.30,34277.0,671.0,5,Unfurnished,North - East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,others,7.99,61132.0,1307.0,10+,Unfurnished,East,available,4,1,"Garden/Park, Pool, Main Road",Mumbai
+3,Powai,5.05,45743.0,1104.0,10+,Semi-Furnished,East,available,3,1,"Garden/Park, Main Road",Mumbai
+2,Kandivali,1.48,16629.0,890.0,4,Furnished,East,May be not,2,,,Mumbai
+2,Kandivali,1.97,17625.0,1118.0,2,Unfurnished,,available,2,1,"Pool, Garden/Park, Main Road",Mumbai
+3,Prabhadevi,8.20,61423.0,1335.0,,Unfurnished,North - East,May be not,3,,Main Road,Mumbai
+2,others,2.25,22059.0,1020.0,10+,Semi-Furnished,East,available,2,1,Garden/Park,Mumbai
+2,Santacruz,1.85,23125.0,800.0,7,Unfurnished,East,May be not,2,,Main Road,Mumbai
+3,others,2.72,27309.0,996.0,1,Unfurnished,East,available,3,1,"Garden/Park, Pool, Main Road",Mumbai
+2,Chembur,1.50,18987.0,790.0,10,Unfurnished,East,May be not,2,,Main Road,Mumbai
+2,Kandivali,2.45,21267.0,1152.0,10+,Unfurnished,North - East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+3,Kandivali,2.90,22308.0,1300.0,10+,Unfurnished,East,available,3,1,"Pool, Garden/Park",Mumbai
+2,Andheri,2.55,25148.0,1014.0,10+,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,Mulund,2.95,28365.0,1040.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Pool, Main Road",Mumbai
+4,others,12.50,41667.0,3000.0,10+,Unfurnished,West,available,4,1,Garden/Park,Mumbai
+2,others,1.75,26923.0,650.0,,Unfurnished,West,May be not,2,,"Garden/Park, Pool",Mumbai
+3,Andheri,2.85,19115.0,1491.0,10+,Unfurnished,East,available,3,1,Garden/Park,Mumbai
+1,others,1.07,17833.0,600.0,8,Unfurnished,North,available,2,,,Mumbai
+2,others,2.09,32300.0,647.0,4,Unfurnished,East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+3,Andheri,5.36,29564.0,1813.0,7,Unfurnished,East,available,3,1,"Garden/Park, Pool, Main Road",Mumbai
+2,others,1.99,18952.0,1050.0,10+,Unfurnished,East,available,2,2,"Garden/Park, Pool, Main Road",Mumbai
+2,Malad,1.29,15176.0,850.0,10,Unfurnished,East,May be not,2,2,"Garden/Park, Main Road",Mumbai
+2,Kandivali,2,25608.0,781.0,,Semi-Furnished,,available,2,,,Mumbai
+2,Kandivali,2,21053.0,950.0,6,Semi-Furnished,East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+3,Borivali,4.25,18575.0,2288.0,10+,Semi-Furnished,East,available,4,1,Garden/Park,Mumbai
+3,Kandivali,3.50,21212.0,1650.0,10+,Unfurnished,East,available,3,,Garden/Park,Mumbai
+1,Malad,1.25,16026.0,780.0,,Unfurnished,East,available,2,,Main Road,Mumbai
+3,others,7.50,52011.0,1442.0,0,Semi-Furnished,North - East,available,3,1,"Garden/Park, Pool, Main Road",Mumbai
+2,others,2.55,28333.0,900.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Pool",Mumbai
+2,others,1.70,14809.0,1148.0,4,Unfurnished,East,available,2,,Garden/Park,Mumbai
+1,others,2.35,42727.0,550.0,2,Unfurnished,North,May be not,1,,Main Road,Mumbai
+2,Bhandup,1.33,22146.0,601.0,5,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+2,Kandivali,1.40,14141.0,990.0,10,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+2,others,0.96,9600.0,1000.0,10,Unfurnished,East,available,2,3,"Garden/Park, Pool, Main Road",Mumbai
+4,Wadala,4.85,19269.0,2517.0,10+,Unfurnished,East,available,4,2,Garden/Park,Mumbai
+2,Mira Road,1.06,13168.0,805.0,10+,Unfurnished,North,available,2,2,"Garden/Park, Pool, Main Road",Mumbai
+2,Mira Road,1.20,9600.0,1250.0,10+,Semi-Furnished,North - East,available,2,3,"Garden/Park, Pool, Main Road",Mumbai
+3,others,3.60,36548.0,985.0,7,Semi-Furnished,East,available,3,,Main Road,Mumbai
+4+,others,14.17,39284.0,3607.0,10+,Unfurnished,East,available,4+,1,Main Road,Mumbai
+4,Prabhadevi,16,57041.0,2805.0,10+,Unfurnished,East,available,4,3,"Garden/Park, Pool",Mumbai
+3,Mulund,2.51,27889.0,900.0,10+,Unfurnished,North - East,available,3,1,Garden/Park,Mumbai
+3,others,10.11,67580.0,1496.0,10+,Unfurnished,South -West,May be not,4+,1,"Garden/Park, Pool, Main Road",Mumbai
+1,Kandivali,1.20,17391.0,690.0,10+,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+2,Chembur,2.25,22500.0,1000.0,,Semi-Furnished,East,available,2,1,"Pool, Garden/Park",Mumbai
+2,others,4.20,34091.0,1232.0,10+,Unfurnished,North - East,available,2,1,"Pool, Main Road",Mumbai
+2,Malad,2.40,21818.0,1100.0,10+,Unfurnished,East,available,2,,Garden/Park,Mumbai
+3,Borivali,2.45,17500.0,1400.0,5,Unfurnished,East,available,3,,Main Road,Mumbai
+3,Borivali,4.35,23514.0,1850.0,10+,Unfurnished,East,available,3,,"Garden/Park, Pool, Main Road",Mumbai
+3,others,2.22,13455.0,1650.0,10+,Unfurnished,North - East,available,3,,,Mumbai
+3,others,5.73,38124.0,1503.0,10+,Unfurnished,East,available,3,1,Garden/Park,Mumbai
+2,others,2.20,33846.0,650.0,10,Unfurnished,East,May be not,2,,"Pool, Garden/Park, Main Road",Mumbai
+2,Powai,3.39,43295.0,783.0,10+,Unfurnished,North - East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+1,Malad,0.88,14125.0,623.0,10+,Unfurnished,East,May be not,2,,Main Road,Mumbai
+3,Ghatkopar,3.25,34984.0,929.0,10+,Unfurnished,North - West,available,3,1,Main Road,Mumbai
+2,Chembur,1.95,15000.0,1300.0,7,Semi-Furnished,East,May be not,2,1,Garden/Park,Mumbai
+3,Worli,8.70,45407.0,1916.0,10+,Unfurnished,East,available,4,,Garden/Park,Mumbai
+1,others,0.687,9541.0,720.0,10+,Unfurnished,North - East,available,2,1,"Garden/Park, Main Road",Mumbai
+3,Mira Road,1.50,11111.0,1350.0,10+,Unfurnished,North - East,May be not,3,1,"Garden/Park, Pool, Main Road",Mumbai
+4,Kandivali,4.05,18000.0,2250.0,9,Unfurnished,East,available,4,3,"Garden/Park, Pool, Main Road",Mumbai
+2,others,1.97,31122.0,633.0,10,Unfurnished,East,May be not,2,,Garden/Park,Mumbai
+2,others,2.10,25579.0,821.0,9,Unfurnished,East,May be not,2,,Main Road,Mumbai
+1,others,0.9400000000000001,12533.0,750.0,5,Unfurnished,East,May be not,2,,Garden/Park,Mumbai
+4+,Andheri,49,49000.0,10000.0,10+,Unfurnished,East,available,4+,4+,Garden/Park,Mumbai
+3,Prabhadevi,7,52122.0,1343.0,10+,Unfurnished,West,available,4,,,Mumbai
+3,Worli,8.69,75500.0,1151.0,10+,Semi-Furnished,North - East,available,4,1,"Garden/Park, Pool, Main Road",Mumbai
+1,Chembur,1.18,20850.0,566.0,10+,Unfurnished,North - East,available,1,1,"Garden/Park, Pool",Mumbai
+1,Goregaon,0.9500000000000001,15200.0,625.0,5,Semi-Furnished,North - East,May be not,2,,Main Road,Mumbai
+4+,others,18,40000.0,4500.0,7,Semi-Furnished,East,available,4+,2,Garden/Park,Mumbai
+4,Goregaon,6.50,36111.0,1800.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Pool",Mumbai
+2,Kandivali,2.45,24500.0,1000.0,10+,Semi-Furnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+1,Ghatkopar,0.92,24932.0,369.0,2,Unfurnished,East,May be not,2,,Main Road,Mumbai
+2,Kanjurmarg,1.20,16327.0,735.0,10+,Unfurnished,North - East,available,2,,Garden/Park,Mumbai
+3,Mulund,3.17,20733.0,1529.0,5,Semi-Furnished,East,available,2,2,Main Road,Mumbai
+2,Powai,2.45,21304.0,1150.0,10+,Unfurnished,East,available,2,,Main Road,Mumbai
+2,Kanjurmarg,1.88,24967.0,753.0,10+,Semi-Furnished,North - West,available,2,,Garden/Park,Mumbai
+2,others,1.68,19200.0,875.0,10+,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,Bandra,5.48,27425.0,2000.0,10+,Semi-Furnished,East,available,3,2,"Garden/Park, Pool",Mumbai
+2,Worli,4.35,34800.0,1250.0,10+,Semi-Furnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+1,Mulund,1.23,17472.0,704.0,10+,Unfurnished,North - East,May be not,2,,Garden/Park,Mumbai
+3,others,1.08,8700.0,1241.0,5,Semi-Furnished,West,available,3,3,Main Road,Mumbai
+3,Mira Road,2.38,9493.0,2507.0,3,Semi-Furnished,East,available,4,4+,"Garden/Park, Pool, Main Road",Mumbai
+1,Malad,0.905,17680.0,512.0,10,Unfurnished,North,May be not,2,,"Garden/Park, Pool, Main Road",Mumbai
+2,Mulund,1.79,15633.0,1145.0,10+,Unfurnished,West,available,2,,"Garden/Park, Main Road",Mumbai
+3,Prabhadevi,7.40,37949.0,1950.0,10+,Unfurnished,West,available,4,,"Garden/Park, Pool, Main Road",Mumbai
+3,others,6.60,26400.0,2500.0,1,Unfurnished,North,available,4,2,"Garden/Park, Main Road",Mumbai
+3,Chembur,3.99,24938.0,1600.0,10+,Unfurnished,East,available,1,,"Garden/Park, Main Road",Mumbai
+3,others,5.95,52193.0,1140.0,10+,Semi-Furnished,East,available,3,,Garden/Park,Mumbai
+2,Chembur,2.10,16154.0,1300.0,,Unfurnished,North,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+2,others,1.20,20305.0,591.0,8,Unfurnished,East,available,2,,Main Road,Mumbai
+3,others,2.94,14500.0,2028.0,10+,Unfurnished,East,available,3,3,"Garden/Park, Pool, Main Road",Mumbai
+3,Kandivali,2.25,20089.0,1120.0,10+,Unfurnished,East,available,3,2,"Garden/Park, Pool, Main Road",Mumbai
+3,others,5.85,40881.0,1431.0,10+,Semi-Furnished,East,available,3,,Garden/Park,Mumbai
+2,Mulund,1.45,15263.0,950.0,10+,Semi-Furnished,South - East,available,2,,Pool,Mumbai
+3,others,2.55,18889.0,1350.0,10,Unfurnished,East,available,3,2,"Garden/Park, Pool, Main Road",Mumbai
+2,others,1,21739.0,460.0,0,Furnished,East,May be not,2,,Garden/Park,Mumbai
+2,others,3.90,27857.0,1400.0,10+,Unfurnished,West,May be not,2,2,"Garden/Park, Pool, Main Road",Mumbai
+3,Powai,4.30,26875.0,1600.0,10+,Unfurnished,East,available,3,,"Pool, Garden/Park, Main Road",Mumbai
+2,Mulund,1.56,14871.0,1049.0,10,Unfurnished,East,May be not,2,,"Garden/Park, Pool, Main Road",Mumbai
+1,others,0.715,9931.0,720.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+3,Kandivali,2.20,21073.0,1044.0,10+,Semi-Furnished,East,available,3,1,"Garden/Park, Pool, Main Road",Mumbai
+3,Bhandup,1.58,11286.0,1400.0,10+,Unfurnished,East,available,3,1,"Pool, Main Road",Mumbai
+2,Kandivali,1.25,20525.0,609.0,9,Unfurnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+1,Bhandup,0.68,12594.0,540.0,8,Unfurnished,East,May be not,2,,,Mumbai
+2,others,2.10,20588.0,1020.0,10+,Unfurnished,North - East,available,2,,"Garden/Park, Pool",Mumbai
+2,Mulund,1.40,24561.0,570.0,10,Unfurnished,East,May be not,2,,Garden/Park,Mumbai
+3,Powai,7.05,42727.0,1650.0,10+,Semi-Furnished,West,available,3,1,"Garden/Park, Main Road",Mumbai
+2,others,3.36,36285.0,926.0,10,Unfurnished,East,available,2,,Garden/Park,Mumbai
+1,Mulund,1.10,25114.0,438.0,10,Unfurnished,North - East,available,2,,Main Road,Mumbai
+2,Goregaon,2.10,30435.0,690.0,10+,Unfurnished,East,May be not,2,,"Pool, Garden/Park, Main Road",Mumbai
+3,Powai,4.12,39015.0,1056.0,10+,Unfurnished,North - East,May be not,3,1,"Garden/Park, Pool, Main Road",Mumbai
+4,others,11,48867.0,2251.0,10+,Unfurnished,East,available,4,1,"Garden/Park, Pool",Mumbai
+3,others,3.30,20625.0,1600.0,10+,Semi-Furnished,East,May be not,3,1,"Garden/Park, Pool, Main Road",Mumbai
+1,others,0.91,12639.0,720.0,5,Unfurnished,West,available,2,,Main Road,Mumbai
+4,others,18.85,84872.0,2221.0,10+,Unfurnished,East,available,4,1,"Garden/Park, Pool, Main Road",Mumbai
+1,Mulund,1.16,20714.0,560.0,10+,Unfurnished,East,May be not,2,,Main Road,Mumbai
+2,Kandivali,1.85,19474.0,950.0,8,Unfurnished,East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+2,Borivali,2.42,30828.0,785.0,10+,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+3,Wadala,4.46,40000.0,1115.0,10+,Semi-Furnished,East,available,2,2,,Mumbai
+3,others,8.50,44737.0,1900.0,10,Unfurnished,East,available,3,1,Garden/Park,Mumbai
+4,others,16.67,88000.0,1894.0,10+,Semi-Furnished,North - East,available,4,3,"Garden/Park, Pool",Mumbai
+3,Andheri,4.30,26380.0,1630.0,10+,Unfurnished,North - East,available,3,1,Garden/Park,Mumbai
+3,Powai,6.69,35250.0,1898.0,10+,Unfurnished,East,available,3,3,Garden/Park,Mumbai
+3,others,8.24,55007.0,1498.0,2,Unfurnished,East,available,3,1,Garden/Park,Mumbai
+2,Kandivali,1.39,16382.0,848.0,10,Unfurnished,West,available,2,1,Main Road,Mumbai
+3,others,3.01,24392.0,1234.0,,Unfurnished,East,available,3,1,"Garden/Park, Pool, Main Road",Mumbai
+2,others,1.15,14375.0,800.0,10+,Unfurnished,East,available,2,,"Garden/Park, Pool",Mumbai
+2,Santacruz,4.88,56744.0,860.0,4,Unfurnished,East,available,2,2,Main Road,Mumbai
+2,Mulund,1.96,26133.0,750.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+2,Mulund,2.34,27517.0,850.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+1,Goregaon,1.21,16923.0,715.0,7,Unfurnished,East,available,2,,Main Road,Mumbai
+3,others,5.30,42130.0,1258.0,2,Semi-Furnished,East,available,4,2,"Garden/Park, Pool",Mumbai
+3,Borivali,4.25,24011.0,1770.0,10+,Unfurnished,North - East,available,3,1,Garden/Park,Mumbai
+4,others,14,56000.0,2500.0,1,Furnished,East,available,4+,1,"Garden/Park, Main Road",Mumbai
+2,Chembur,4.50,25168.0,1788.0,1,Semi-Furnished,East,available,2,,Main Road,Mumbai
+2,others,1.76,23881.0,737.0,10,Unfurnished,,May be not,2,1,,Mumbai
+2,others,1.55,17280.0,897.0,,Unfurnished,East,available,2,,Main Road,Mumbai
+3,Kandivali,3.60,24828.0,1450.0,10+,Unfurnished,East,available,3,,"Garden/Park, Pool, Main Road",Mumbai
+2,others,1.78,15034.0,1184.0,10+,Semi-Furnished,East,available,2,,Garden/Park,Mumbai
+3,Andheri,4.90,22273.0,2200.0,3,Semi-Furnished,East,available,4,1,Main Road,Mumbai
+2,Powai,2.99,20621.0,1450.0,10,Semi-Furnished,East,available,2,2,Garden/Park,Mumbai
+2,others,5.19,44102.0,1177.0,10+,Unfurnished,East,available,2,,Main Road,Mumbai
+2,Malad,1.74,25626.0,679.0,10+,Unfurnished,East,available,2,,Main Road,Mumbai
+2,Borivali,2,27778.0,720.0,10+,Unfurnished,East,May be not,2,,Main Road,Mumbai
+2,Andheri,2.40,21295.0,1127.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+2,others,3.98,52231.0,762.0,10+,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,Mira Road,1.60,12800.0,1250.0,2,Unfurnished,East,available,3,3,"Garden/Park, Main Road",Mumbai
+4,Prabhadevi,15,42135.0,3560.0,10+,Unfurnished,North,available,4+,,"Garden/Park, Pool, Main Road",Mumbai
+2,Mira Road,1.05,14000.0,750.0,10+,Unfurnished,North - East,May be not,2,4,"Garden/Park, Pool, Main Road",Mumbai
+3,others,4.43,40273.0,1100.0,10+,Semi-Furnished,North - East,available,3,2,"Garden/Park, Pool, Main Road",Mumbai
+1,Borivali,1.53,34076.0,449.0,7,Unfurnished,East,available,1,,Garden/Park,Mumbai
+2,others,3.40,31481.0,1080.0,10+,Unfurnished,North - East,available,2,3,"Garden/Park, Main Road",Mumbai
+1,others,1.08,15084.0,716.0,10+,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+3,Borivali,2.89,29000.0,997.0,10,Unfurnished,East,available,4,,Garden/Park,Mumbai
+3,Powai,6.62,51041.0,1297.0,0,Semi-Furnished,North - East,available,3,2,"Garden/Park, Pool, Main Road",Mumbai
+4+,Prabhadevi,21.75,45455.0,4785.0,10+,Unfurnished,North - East,available,4+,,Garden/Park,Mumbai
+4,Prabhadevi,14.75,70238.0,2100.0,10+,Semi-Furnished,East,available,4,,"Garden/Park, Main Road",Mumbai
+2,others,2.80,26667.0,1050.0,7,Semi-Furnished,East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+3,Prabhadevi,9.80,73408.0,1335.0,10+,Unfurnished,East,available,4,,Garden/Park,Mumbai
+2,Kandivali,1.60,16000.0,1000.0,,Semi-Furnished,East,available,2,,,Mumbai
+1,others,1.94,45000.0,431.0,3,Unfurnished,East,available,2,,Main Road,Mumbai
+1,Malad,0.8200000000000001,16907.0,485.0,9,Semi-Furnished,North - East,available,1,,"Garden/Park, Main Road",Mumbai
+4,Prabhadevi,11,64706.0,1700.0,10+,Unfurnished,West,available,3,,Garden/Park,Mumbai
+4,Bandra,29.74,92938.0,3200.0,10+,Semi-Furnished,East,available,4+,1,Main Road,Mumbai
+4,Worli,20,44444.0,4500.0,1,Semi-Furnished,West,available,4+,1,,Mumbai
+2,Kandivali,1.80,17143.0,1050.0,6,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,Goregaon,2.76,22080.0,1250.0,10,Unfurnished,East,available,3,,Main Road,Mumbai
+3,others,5.50,44000.0,1250.0,10+,Semi-Furnished,East,May be not,3,1,"Garden/Park, Main Road",Mumbai
+1,Virar,0.33,5739.0,575.0,10+,Unfurnished,East,May be not,1,,Garden/Park,Mumbai
+1,others,0.9500000000000001,15833.0,600.0,7,Semi-Furnished,North - East,May be not,2,2,"Main Road, Garden/Park",Mumbai
+3,Mulund,2.50,25589.0,977.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Pool",Mumbai
+3,Kandivali,2.90,17586.0,1649.0,10+,Unfurnished,East,available,3,1,Main Road,Mumbai
+1,Kandivali,0.78,18440.0,423.0,10+,Semi-Furnished,North - East,May be not,1,1,"Garden/Park, Pool",Mumbai
+2,others,3.76,44235.0,850.0,8,Semi-Furnished,North - East,May be not,2,1,"Pool, Garden/Park, Main Road",Mumbai
+3,Bandra,3.31,23679.0,1398.0,10+,Semi-Furnished,East,available,3,,Main Road,Mumbai
+1,Andheri,1.22,27727.0,440.0,10+,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+1,Kandivali,0.92,22010.0,418.0,,Unfurnished,West,May be not,2,,Garden/Park,Mumbai
+3,others,17.49,96312.0,1817.0,10+,Unfurnished,East,available,4,1,Main Road,Mumbai
+3,Andheri,5.26,29222.0,1800.0,10+,Unfurnished,West,available,4,1,Main Road,Mumbai
+3,others,5.65,45200.0,1250.0,10,Unfurnished,,May be not,4,2,"Garden/Park, Main Road",Mumbai
+3,Kandivali,3.90,21081.0,1850.0,10+,Semi-Furnished,South -West,available,3,1,"Pool, Garden/Park, Main Road",Mumbai
+2,others,2.90,20055.0,1446.0,10+,Unfurnished,East,available,3,,"Garden/Park, Main Road",Mumbai
+3,Worli,7.75,40811.0,1899.0,10+,Semi-Furnished,North - East,available,3,,Garden/Park,Mumbai
+1,Chembur,1.15,25442.0,452.0,10+,Unfurnished,North - East,available,2,,Garden/Park,Mumbai
+3,others,7.80,41467.0,1881.0,10+,Unfurnished,North,available,3,,Main Road,Mumbai
+2,others,0.74,7048.0,1050.0,5,Unfurnished,North - East,May be not,2,2,"Garden/Park, Main Road",Mumbai
+3,Goregaon,2.10,20290.0,1035.0,10+,Semi-Furnished,East,available,2,,Main Road,Mumbai
+3,others,4.20,24000.0,1750.0,10,Unfurnished,East,available,3,3,"Garden/Park, Pool",Mumbai
+3,others,6.49,54219.0,1197.0,10+,Unfurnished,East,May be not,3,,"Main Road, Garden/Park, Pool",Mumbai
+2,others,1.99,26747.0,744.0,9,Furnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+4,others,12.50,67568.0,1850.0,10+,Semi-Furnished,West,available,4,1,"Pool, Garden/Park, Main Road",Mumbai
+1,Bhandup,0.74,11212.0,660.0,10,Semi-Furnished,East,May be not,2,,"Garden/Park, Pool, Main Road",Mumbai
+2,Wadala,3.50,31334.0,1117.0,10+,Semi-Furnished,East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+3,Kandivali,2.99,28476.0,1050.0,10,Unfurnished,West,May be not,3,1,"Garden/Park, Main Road",Mumbai
+2,others,2.26,19700.0,1147.0,10+,Unfurnished,West,available,2,,Garden/Park,Mumbai
+2,others,2.50,35261.0,709.0,10+,Unfurnished,East,available,2,1,Garden/Park,Mumbai
+3,others,5.30,29185.0,1816.0,10+,Semi-Furnished,West,available,4,1,"Garden/Park, Pool",Mumbai
+3,Wadala,6.73,45565.0,1477.0,10+,Unfurnished,East,May be not,4+,1,Pool,Mumbai
+1,others,0.66,10312.0,640.0,9,Unfurnished,East,May be not,2,,Garden/Park,Mumbai
+2,others,2.10,16854.0,1246.0,10+,Unfurnished,East,available,2,1,Garden/Park,Mumbai
+1,Malad,0.75,14286.0,525.0,10+,Unfurnished,East,available,2,,Main Road,Mumbai
+1,Mira Road,0.6,8392.0,715.0,10+,Semi-Furnished,East,available,2,4,"Garden/Park, Main Road",Mumbai
+4,others,15.84,72000.0,2200.0,10+,Unfurnished,North - East,available,4,4,"Garden/Park, Main Road",Mumbai
+3,others,6.75,46552.0,1450.0,10+,Unfurnished,East,May be not,3,2,"Garden/Park, Pool",Mumbai
+1,Mira Road,0.663,16100.0,412.0,4,Unfurnished,North - East,May be not,2,3,"Garden/Park, Main Road",Mumbai
+3,Bandra,9,58939.0,1527.0,10+,Unfurnished,East,available,3,1,Garden/Park,Mumbai
+4,Chembur,9,47368.0,1900.0,10,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Mumbai
+4,others,25,62500.0,4000.0,10+,Unfurnished,North - East,May be not,4+,3,"Garden/Park, Pool, Main Road",Mumbai
+1,others,1.39,32500.0,428.0,10,Unfurnished,East,available,2,,Main Road,Mumbai
+1,others,0.45,8539.0,527.0,6,Unfurnished,East,available,2,3,Garden/Park,Mumbai
+2,others,2.72,21233.0,1281.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+3,others,5.87,40502.0,1449.0,10+,Unfurnished,,available,4,2,,Mumbai
+4,Worli,33,55743.0,5920.0,10+,Unfurnished,East,available,4+,4,"Garden/Park, Pool, Main Road",Mumbai
+2,Mulund,1.65,23571.0,700.0,6,Unfurnished,East,available,2,1,Main Road,Mumbai
+3,others,4.62,44211.0,1045.0,10+,Unfurnished,East,available,1,1,"Garden/Park, Pool, Main Road",Mumbai
+2,others,2.25,21845.0,1030.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Pool",Mumbai
+2,Mulund,1.38,20721.0,666.0,5,Unfurnished,North - East,available,2,2,"Garden/Park, Pool, Main Road",Mumbai
+1,others,0.6,8208.0,731.0,10+,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+2,Borivali,1.95,22000.0,886.0,10+,Unfurnished,,May be not,2,2,,Mumbai
+4,Worli,32.10,106011.0,3028.0,10+,Unfurnished,North - East,May be not,4+,3,"Pool, Garden/Park, Main Road",Mumbai
+1,Goregaon,1.10,17054.0,645.0,10+,Unfurnished,East,available,2,,"Garden/Park, Pool",Mumbai
+1,Kanjurmarg,0.99,23571.0,420.0,10,Unfurnished,North - East,available,1,,"Garden/Park, Pool, Main Road",Mumbai
+3,Borivali,2.44,22182.0,1100.0,5,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+1,others,1.16,26067.0,445.0,5,Semi-Furnished,East,May be not,2,2,,Mumbai
+2,Kandivali,1.90,17273.0,1100.0,,Unfurnished,East,available,2,,Garden/Park,Mumbai
+2,Borivali,1.87,27529.0,679.0,10+,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,Andheri,4.83,31735.0,1522.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Pool, Main Road",Mumbai
+3,others,9.26,41156.0,2250.0,10+,Unfurnished,East,May be not,3,2,Garden/Park,Mumbai
+2,Andheri,2.45,22962.0,1067.0,4,Semi-Furnished,North - East,available,2,,Main Road,Mumbai
+3,Powai,4.52,25450.0,1776.0,10+,Semi-Furnished,East,available,3,,"Garden/Park, Main Road",Mumbai
+2,others,1.55,18720.0,828.0,5,Unfurnished,North - East,available,2,2,"Garden/Park, Pool, Main Road",Mumbai
+4+,Prabhadevi,33,47143.0,7000.0,10+,Semi-Furnished,South,available,4+,4+,"Garden/Park, Pool, Main Road",Mumbai
+3,others,4.50,25641.0,1755.0,10+,Unfurnished,East,available,3,,Pool,Mumbai
+1,others,1,22624.0,442.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+3,others,5.50,37931.0,1450.0,10+,Furnished,South -West,available,3,1,"Garden/Park, Pool, Main Road",Mumbai
+3,Powai,4.75,31667.0,1500.0,10+,Furnished,East,available,3,2,"Garden/Park, Pool, Main Road",Mumbai
+2,Kandivali,2.38,20877.0,1140.0,10+,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road",Mumbai
+1,Goregaon,1.09,17810.0,612.0,10+,Unfurnished,North - East,available,2,,"Garden/Park, Main Road",Mumbai
+2,Kandivali,1.70,25373.0,670.0,10+,Unfurnished,East,May be not,2,,"Pool, Garden/Park, Main Road",Mumbai
+3,others,3.31,17249.0,1919.0,10+,Unfurnished,North - East,May be not,2,1,Main Road,Mumbai
+1,Ghatkopar,1.05,22199.0,473.0,10+,Unfurnished,North - East,available,2,1,Garden/Park,Mumbai
+2,Wadala,1.70,28053.0,606.0,7,Semi-Furnished,East,available,2,1,,Mumbai
+4+,others,16.19,70300.0,2303.0,10+,Semi-Furnished,South,available,4+,,"Garden/Park, Pool, Main Road",Mumbai
+3,others,7.50,35327.0,2123.0,10+,Unfurnished,West,available,3,3,"Garden/Park, Main Road",Mumbai
+3,Andheri,5.50,36667.0,1500.0,10+,Unfurnished,East,available,3,3,Garden/Park,Mumbai
+2,others,1.99,18952.0,1050.0,10+,Unfurnished,East,available,3,1,Main Road,Mumbai
+2,Mulund,1.47,19600.0,750.0,10+,Unfurnished,East,available,2,2,"Garden/Park, Pool, Main Road",Mumbai
+2,others,1.39,16353.0,850.0,1,Unfurnished,East,available,2,,Main Road,Mumbai
+2,Kandivali,2,20000.0,1000.0,4,Furnished,South,May be not,2,,Main Road,Mumbai
+4+,Worli,37.76,100000.0,3776.0,10+,Unfurnished,South -West,May be not,4+,,,Mumbai
+3,Goregaon,2.30,18139.0,1268.0,10+,Unfurnished,West,May be not,3,,"Garden/Park, Pool, Main Road",Mumbai
+3,Bandra,5.50,41667.0,1320.0,3,Semi-Furnished,North - East,available,3,,Main Road,Mumbai
+2,Goregaon,2.30,25358.0,907.0,5,Unfurnished,East,available,2,,,Mumbai
+3,Malad,4.05,18409.0,2200.0,10+,Unfurnished,East,available,4,3,"Garden/Park, Pool, Main Road",Mumbai
+3,Santacruz,6.40,55172.0,1160.0,,Unfurnished,North - East,available,3,1,Garden/Park,Mumbai
+2,others,1.80,20000.0,900.0,10,Unfurnished,East,available,2,,Main Road,Mumbai
+3,Malad,3.20,17778.0,1800.0,10+,Semi-Furnished,West,May be not,3,3,Garden/Park,Mumbai
+3,Wadala,4.64,39931.0,1162.0,10+,Unfurnished,West,available,3,1,Main Road,Mumbai
+3,Bandra,5.99,41310.0,1450.0,,Semi-Furnished,East,available,3,1,"Main Road, Garden/Park",Mumbai
+2,Goregaon,2.20,20952.0,1050.0,5,Unfurnished,East,available,2,3,Main Road,Mumbai
+3,others,4.21,31185.0,1350.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Mumbai
+3,others,14.60,69524.0,2100.0,2,Semi-Furnished,East,available,3,1,,Mumbai
+3,Malad,2.44,18769.0,1300.0,10+,Semi-Furnished,East,May be not,3,,"Pool, Garden/Park, Main Road",Mumbai
+2,Wadala,2.32,19366.0,1198.0,10+,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+1,Bhandup,0.85,12143.0,700.0,7,Unfurnished,North,available,2,,"Garden/Park, Main Road",Mumbai
+3,others,6.50,50000.0,1300.0,8,Unfurnished,East,May be not,4,1,Main Road,Mumbai
+3,Kanjurmarg,2.65,22083.0,1200.0,10+,Unfurnished,East,May be not,3,,Main Road,Mumbai
+1,others,0.4,8696.0,460.0,10+,Unfurnished,North - East,May be not,2,2,,Mumbai
+1,others,1.90,55072.0,345.0,1,Unfurnished,East,available,1,1,"Garden/Park, Main Road",Mumbai
+3,Kandivali,2.95,27962.0,1055.0,6,Furnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+3,Bandra,6.68,50301.0,1328.0,3,Unfurnished,,available,4,,Pool,Mumbai
+2,others,1.60,21333.0,750.0,10+,Unfurnished,,May be not,2,,Main Road,Mumbai
+1,others,0.42,6462.0,650.0,10+,Unfurnished,East,May be not,1,,"Garden/Park, Main Road",Mumbai
+2,Ghatkopar,1.83,17429.0,1050.0,10+,Semi-Furnished,North - East,available,2,,Pool,Mumbai
+3,Malad,3.40,20606.0,1650.0,3,Unfurnished,East,May be not,3,,Main Road,Mumbai
+3,Borivali,5.80,52727.0,1100.0,10+,Unfurnished,North - West,May be not,3,1,"Pool, Garden/Park, Main Road",Mumbai
+2,others,1.63,23286.0,700.0,4,Unfurnished,East,available,2,,Garden/Park,Mumbai
+1,others,0.89,14614.0,609.0,10+,Unfurnished,North,May be not,2,1,"Garden/Park, Main Road",Mumbai
+3,others,5,20964.0,2385.0,10+,Semi-Furnished,West,available,4+,4+,"Garden/Park, Main Road",Mumbai
+2,others,1.70,18889.0,900.0,4,Semi-Furnished,East,available,2,3,Main Road,Mumbai
+2,others,1.55,13478.0,1150.0,7,Unfurnished,North - East,available,2,,Garden/Park,Mumbai
+4,Andheri,7.70,43750.0,1760.0,4,Furnished,South,available,4,,,Mumbai
+3,others,3.24,16400.0,1976.0,10+,Semi-Furnished,North - East,available,3,2,"Garden/Park, Main Road",Mumbai
+3,others,4.65,33214.0,1400.0,10+,Semi-Furnished,North - East,available,3,1,"Garden/Park, Pool, Main Road",Mumbai
+3,Chembur,2.60,26000.0,1000.0,6,Unfurnished,North - West,available,2,,Main Road,Mumbai
+1,Mulund,1,21277.0,470.0,5,Unfurnished,East,available,2,,Garden/Park,Mumbai
+3,Kandivali,2.90,23200.0,1250.0,10,Unfurnished,East,available,3,,"Garden/Park, Pool, Main Road",Mumbai
+3,Andheri,6.50,36111.0,1800.0,10+,Semi-Furnished,West,available,4,4+,Garden/Park,Mumbai
+1,Goregaon,0.9500000000000001,22093.0,430.0,0,Furnished,,available,1,,,Mumbai
+1,Malad,0.98,9800.0,1000.0,4,Furnished,East,available,1,,,Mumbai
+2,Chembur,3.12,36497.0,855.0,5,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+2,others,2.74,20296.0,1350.0,10+,Semi-Furnished,North - East,available,3,3,Main Road,Mumbai
+1,Vile Parle,0.85,38636.0,220.0,0,Unfurnished,North,available,1,,,Mumbai
+4,others,9.49,55110.0,1722.0,10+,Unfurnished,,May be not,4,,,Mumbai
+3,Borivali,3.75,28846.0,1300.0,10+,Unfurnished,East,available,3,,Garden/Park,Mumbai
+3,Borivali,4.20,27944.0,1503.0,3,Semi-Furnished,East,available,3,,Main Road,Mumbai
+3,Bandra,9.85,36481.0,2700.0,9,Furnished,West,available,4,1,Main Road,Mumbai
+2,Goregaon,3.85,33478.0,1150.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+2,Goregaon,2.55,17586.0,1450.0,2,Unfurnished,North - West,available,2,3,"Pool, Garden/Park",Mumbai
+1,others,0.72,15824.0,455.0,4,Semi-Furnished,East,available,2,,Garden/Park,Mumbai
+1,others,0.96,15484.0,620.0,5,Semi-Furnished,East,available,2,,Main Road,Mumbai
+2,others,1.15,17424.0,660.0,1,Furnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+2,Worli,4.66,40277.0,1157.0,10,Semi-Furnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,others,7,51852.0,1350.0,5,Semi-Furnished,,available,3,,Main Road,Mumbai
+3,Malad,2.99,19228.0,1555.0,10+,Unfurnished,East,May be not,3,1,"Garden/Park, Pool, Main Road",Mumbai
+2,Ghatkopar,1.55,24800.0,625.0,10,Unfurnished,East,available,2,,Main Road,Mumbai
+3,Kandivali,2.79,21379.0,1305.0,3,Semi-Furnished,East,available,2,3,"Garden/Park, Pool",Mumbai
+1,Mira Road,0.5,8333.0,600.0,2,Semi-Furnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+1,others,0.9,21951.0,410.0,10+,Furnished,North - East,May be not,2,,"Garden/Park, Main Road",Mumbai
+1,others,0.255,5100.0,500.0,4,Unfurnished,East,May be not,1,3,"Garden/Park, Main Road",Mumbai
+3,Powai,5.75,35960.0,1599.0,10+,Semi-Furnished,East,available,3,1,"Garden/Park, Pool",Mumbai
+2,Bhandup,0.88,21053.0,418.0,1,Semi-Furnished,East,available,1,,Main Road,Mumbai
+2,Kanjurmarg,2.10,18584.0,1130.0,10+,Semi-Furnished,North,May be not,2,2,"Pool, Garden/Park, Main Road",Mumbai
+2,Goregaon,1.60,14787.0,1082.0,9,Semi-Furnished,East,available,2,,Garden/Park,Mumbai
+2,Kanjurmarg,1.80,15000.0,1200.0,2,Semi-Furnished,East,available,2,,,Mumbai
+2,Prabhadevi,3.50,33333.0,1050.0,5,Furnished,East,available,2,,Main Road,Mumbai
+3,Kanjurmarg,3.50,17500.0,2000.0,10+,Furnished,East,available,3,1,"Pool, Garden/Park, Main Road",Mumbai
+3,Powai,9,45000.0,2000.0,10+,Semi-Furnished,North - East,available,4,1,"Pool, Garden/Park, Main Road",Mumbai
+3,others,4.75,20652.0,2300.0,10+,Semi-Furnished,North - East,available,3,3,Garden/Park,Mumbai
+3,Andheri,6,38217.0,1570.0,1,Semi-Furnished,East,available,3,,Main Road,Mumbai
+2,Malad,1.40,12174.0,1150.0,2,Semi-Furnished,East,available,3,,"Garden/Park, Main Road",Mumbai
+2,Vile Parle,2.99,31944.0,936.0,6,Semi-Furnished,West,available,3,,Main Road,Mumbai
+2,Chembur,1.80,25714.0,700.0,10+,Unfurnished,South,May be not,2,,"Garden/Park, Main Road",Mumbai
+2,Vile Parle,2.85,36076.0,790.0,3,Semi-Furnished,East,May be not,3,,Main Road,Mumbai
+2,Santacruz,2.20,31884.0,690.0,5,Unfurnished,East,available,2,3,,Mumbai
+4,Mulund,5.35,35244.0,1518.0,10+,Unfurnished,West,available,4,1,"Garden/Park, Pool, Main Road",Mumbai
+1,others,1.10,15559.0,707.0,,Unfurnished,West,May be not,2,,Main Road,Mumbai
+4,others,11,47312.0,2325.0,10+,Semi-Furnished,West,May be not,4+,,Main Road,Mumbai
+1,others,0.31,10197.0,304.0,3,Unfurnished,East,May be not,1,1,Garden/Park,Mumbai
+2,others,1.80,17647.0,1020.0,1,Furnished,East,available,2,,Main Road,Mumbai
+2,Goregaon,2.50,18519.0,1350.0,10+,Semi-Furnished,North,available,2,4,"Garden/Park, Main Road",Mumbai
+2,others,2,24010.0,833.0,5,Semi-Furnished,West,available,2,2,"Garden/Park, Main Road",Mumbai
+3,others,1.71,17100.0,1000.0,2,Semi-Furnished,North,available,3,1,"Garden/Park, Main Road",Mumbai
+2,Virar,0.75,6250.0,1200.0,0,Semi-Furnished,,May be not,2,,,Mumbai
+1,Borivali,1,15385.0,650.0,1,Semi-Furnished,North,available,2,,Main Road,Mumbai
+1,Ghatkopar,0.9,12857.0,700.0,4,Semi-Furnished,West,available,1,,"Garden/Park, Main Road",Mumbai
+2,others,2.70,31765.0,850.0,3,Semi-Furnished,West,available,2,1,Main Road,Mumbai
+2,Kandivali,1.60,20513.0,780.0,5,Furnished,East,available,2,,Garden/Park,Mumbai
+3,others,2.20,20952.0,1050.0,1,Furnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+2,Andheri,2.52,25200.0,1000.0,8,Semi-Furnished,South -West,available,2,4+,Main Road,Mumbai
+1,Virar,0.16,2133.0,750.0,1,Semi-Furnished,East,available,1,,Garden/Park,Mumbai
+1,Bhandup,1.25,16404.0,762.0,4,Semi-Furnished,East,available,2,2,"Garden/Park, Main Road",Mumbai
+1,Santacruz,1.25,30488.0,410.0,1,Unfurnished,East,May be not,1,1,Main Road,Mumbai
+2,others,6.10,48800.0,1250.0,7,Semi-Furnished,North - East,May be not,3,2,"Pool, Garden/Park, Main Road",Mumbai
+2,Goregaon,2.35,18077.0,1300.0,10+,Semi-Furnished,East,available,2,4,"Garden/Park, Main Road",Mumbai
+3,Bandra,8.25,43651.0,1890.0,7,Unfurnished,East,available,3,,Main Road,Mumbai
+3,Goregaon,3,26178.0,1146.0,10+,Unfurnished,West,available,3,,Pool,Mumbai
+3,Kandivali,3.90,38883.0,1003.0,10+,Furnished,North - East,available,3,,"Garden/Park, Pool",Mumbai
+1,Virar,0.42,11831.0,355.0,10+,Unfurnished,,May be not,1,,,Mumbai
+1,Virar,0.165,4714.0,350.0,2,Semi-Furnished,East,available,1,,Main Road,Mumbai
+1,Borivali,1.48,34023.0,435.0,8,Unfurnished,,May be not,1,,Main Road,Mumbai
+2,others,3,25000.0,1200.0,10+,Semi-Furnished,,May be not,2,,,Mumbai
+2,others,0.9,15000.0,600.0,3,Furnished,,May be not,2,,,Mumbai
+3,Borivali,2.90,25893.0,1120.0,4,Unfurnished,East,May be not,3,4+,"Garden/Park, Main Road",Mumbai
+2,Kanjurmarg,1.80,27231.0,661.0,8,Semi-Furnished,North,available,2,1,Garden/Park,Mumbai
+1,Borivali,0.9500000000000001,18269.0,520.0,3,Semi-Furnished,East,May be not,2,,Main Road,Mumbai
+3,Kanjurmarg,2.95,19032.0,1550.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+3,Powai,3.75,28846.0,1300.0,10+,Semi-Furnished,East,available,3,,"Garden/Park, Pool",Mumbai
+2,Goregaon,2.55,19767.0,1290.0,10+,Unfurnished,North,May be not,2,2,Main Road,Mumbai
+2,Malad,2.15,18696.0,1150.0,1,Unfurnished,North - East,available,2,3,"Garden/Park, Pool, Main Road",Mumbai
+1,others,2.29,35231.0,650.0,,Furnished,West,available,2,,Garden/Park,Mumbai
+3,Goregaon,3.35,23103.0,1450.0,10+,Unfurnished,North,available,3,4,Main Road,Mumbai
+3,others,3.80,28148.0,1350.0,9,Unfurnished,East,available,3,,Main Road,Mumbai
+3,others,2.95,35864.0,823.0,10,Semi-Furnished,East,available,3,,Main Road,Mumbai
+3,others,9.50,57057.0,1665.0,2,Furnished,East,May be not,4,1,Garden/Park,Mumbai
+2,Mira Road,1.27,12095.0,1050.0,10+,Unfurnished,North,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+2,Andheri,2.55,25500.0,1000.0,7,Unfurnished,East,available,2,1,Main Road,Mumbai
+2,Mulund,1.98,30000.0,660.0,10+,Semi-Furnished,East,May be not,2,1,"Garden/Park, Main Road, Pool",Mumbai
+2,Mulund,2.49,19920.0,1250.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+3,others,3.52,26667.0,1320.0,9,Furnished,East,available,4,4,Main Road,Mumbai
+3,Mulund,2.87,17186.0,1670.0,10+,Semi-Furnished,North,May be not,3,,Main Road,Mumbai
+4,Borivali,6.50,47935.0,1356.0,10+,Semi-Furnished,North,available,3,,Main Road,Mumbai
+2,others,9.75,65000.0,1500.0,4,Unfurnished,North,May be not,2,2,"Pool, Garden/Park, Main Road",Mumbai
+3,others,3.20,26667.0,1200.0,10+,Unfurnished,West,May be not,3,1,Garden/Park,Mumbai
+1,Chembur,1.40,21705.0,645.0,,Unfurnished,East,May be not,2,1,"Garden/Park, Main Road",Mumbai
+2,others,3.90,48750.0,800.0,5,Semi-Furnished,East,May be not,2,1,Garden/Park,Mumbai
+3,Andheri,4.50,30000.0,1500.0,10+,Unfurnished,North - East,May be not,3,,"Garden/Park, Main Road",Mumbai
+3,Chembur,2.95,18438.0,1600.0,8,Unfurnished,East,available,3,,"Garden/Park, Pool",Mumbai
+1,others,1.27,30825.0,412.0,7,Unfurnished,North - East,available,1,,Main Road,Mumbai
+3,Malad,2.10,12844.0,1635.0,9,Semi-Furnished,North - East,available,3,,"Garden/Park, Pool",Mumbai
+4,Chembur,7.25,30208.0,2400.0,4,Unfurnished,East,available,4,1,"Garden/Park, Main Road",Mumbai
+2,others,3.50,43750.0,800.0,8,Furnished,North - West,May be not,2,1,Main Road,Mumbai
+2,Kanjurmarg,1.85,18500.0,1000.0,10+,Semi-Furnished,North - West,available,2,2,Garden/Park,Mumbai
+3,others,3,30000.0,1000.0,10,Semi-Furnished,North - East,available,3,,Garden/Park,Mumbai
+2,Kanjurmarg,2.15,19545.0,1100.0,10+,Unfurnished,East,May be not,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,Borivali,4.29,26812.0,1600.0,,Unfurnished,North - East,available,3,,Pool,Mumbai
+1,Powai,1.45,29000.0,500.0,7,Semi-Furnished,East,available,2,,"Garden/Park, Main Road, Pool",Mumbai
+4,Powai,7.79,29067.0,2680.0,10+,Semi-Furnished,East,available,4+,3,"Garden/Park, Pool",Mumbai
+3,others,3.25,20062.0,1620.0,7,Unfurnished,West,available,3,,Main Road,Mumbai
+4+,Prabhadevi,38,69091.0,5500.0,,Unfurnished,West,available,4+,,Garden/Park,Mumbai
+3,others,16,64000.0,2500.0,2,Furnished,South -West,available,3,,Main Road,Mumbai
+2,Kanjurmarg,1.25,16667.0,750.0,10+,Unfurnished,West,May be not,2,1,Garden/Park,Mumbai
+3,Worli,5.50,34548.0,1592.0,9,Semi-Furnished,North - East,May be not,3,,"Pool, Garden/Park, Main Road",Mumbai
+3,Ghatkopar,2.80,21538.0,1300.0,2,Semi-Furnished,West,available,3,3,Main Road,Mumbai
+3,Borivali,4.50,40909.0,1100.0,10+,Unfurnished,East,available,3,2,Main Road,Mumbai
+2,Malad,2.20,19130.0,1150.0,8,Semi-Furnished,East,available,2,4,"Garden/Park, Pool, Main Road",Mumbai
+1,Malad,0.99,15231.0,650.0,4,Unfurnished,East,available,2,,Main Road,Mumbai
+1,Mira Road,0.74,10408.0,711.0,10+,Unfurnished,North - West,May be not,2,2,Garden/Park,Mumbai
+1,Mulund,0.65,13000.0,500.0,9,Furnished,,May be not,2,,,Mumbai
+2,Mulund,2.49,23714.0,1050.0,10+,Unfurnished,,available,2,,Garden/Park,Mumbai
+3,Goregaon,3.40,22310.0,1524.0,,Semi-Furnished,North - East,available,3,4,"Pool, Garden/Park, Main Road",Mumbai
+3,others,11.50,63889.0,1800.0,10+,Unfurnished,East,available,4,3,"Garden/Park, Pool, Main Road",Mumbai
+2,others,1.65,27500.0,600.0,,Semi-Furnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+3,others,10.26,68583.0,1496.0,10+,Semi-Furnished,North - East,available,3,2,"Garden/Park, Main Road",Mumbai
+2,Andheri,2.60,38235.0,680.0,3,Furnished,South,available,3,,Garden/Park,Mumbai
+1,others,0.38,6333.0,600.0,10+,Unfurnished,East,available,1,1,"Garden/Park, Main Road",Mumbai
+1,Malad,1.10,15363.0,716.0,2,Unfurnished,West,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,others,2.25,19565.0,1150.0,10+,Unfurnished,East,available,3,,"Garden/Park, Main Road",Mumbai
+2,others,2.15,17200.0,1250.0,7,Semi-Furnished,East,available,2,3,Garden/Park,Mumbai
+4,Borivali,6.66,44400.0,1500.0,,Unfurnished,East,May be not,4,,"Garden/Park, Pool",Mumbai
+3,Wadala,4,33333.0,1200.0,4,Unfurnished,East,available,3,,"Garden/Park, Pool, Main Road",Mumbai
+2,Malad,2.11,20106.0,1049.0,4,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+1,Ghatkopar,0.62,16230.0,382.0,0,Semi-Furnished,West,May be not,1,,"Garden/Park, Main Road",Mumbai
+1,others,0.55,9322.0,590.0,,Unfurnished,,May be not,2,2,Garden/Park,Mumbai
+2,others,1.85,18878.0,980.0,10+,Furnished,East,May be not,2,,Main Road,Mumbai
+1,Santacruz,1.75,26923.0,650.0,2,Furnished,North,available,2,3,Main Road,Mumbai
+2,others,3.25,37791.0,860.0,4,Semi-Furnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+2,others,2.86,23347.0,1225.0,,Unfurnished,West,available,3,,"Garden/Park, Pool, Main Road",Mumbai
+3,others,3,18750.0,1600.0,1,Furnished,East,available,2,3,,Mumbai
+3,Andheri,4.50,32143.0,1400.0,10,Semi-Furnished,East,available,3,1,Garden/Park,Mumbai
+2,Mulund,1.85,16518.0,1120.0,10+,Semi-Furnished,East,available,2,,Pool,Mumbai
+2,Borivali,2.20,18487.0,1190.0,1,Semi-Furnished,West,available,2,,Garden/Park,Mumbai
+2,others,5.25,48837.0,1075.0,7,Furnished,,May be not,2,2,Main Road,Mumbai
+1,others,0.61,10083.0,605.0,1,Semi-Furnished,East,May be not,2,1,"Garden/Park, Main Road",Mumbai
+1,Kandivali,0.9,14876.0,605.0,3,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+2,others,1.05,12500.0,840.0,7,Furnished,East,May be not,2,3,Garden/Park,Mumbai
+1,others,2.20,30220.0,728.0,10+,Semi-Furnished,East,available,2,,Main Road,Mumbai
+1,others,0.96,23529.0,408.0,5,Semi-Furnished,West,available,2,,Main Road,Mumbai
+3,others,3.50,20000.0,1750.0,,Semi-Furnished,,May be not,3,,Garden/Park,Mumbai
+2,Virar,0.365,7019.0,520.0,10+,Unfurnished,East,May be not,2,2,Main Road,Mumbai
+1,others,0.64,18286.0,350.0,1,Unfurnished,East,May be not,1,,"Garden/Park, Main Road",Mumbai
+2,Mira Road,1.90,15625.0,1216.0,8,Semi-Furnished,North - East,available,2,,Main Road,Mumbai
+3,others,5.75,38333.0,1500.0,3,Unfurnished,East,May be not,3,1,Garden/Park,Mumbai
+3,others,3.70,33636.0,1100.0,4,Furnished,North,available,2,1,Garden/Park,Mumbai
+1,others,0.9500000000000001,18411.0,516.0,5,Semi-Furnished,East,May be not,1,,"Garden/Park, Main Road",Mumbai
+2,Mira Road,0.85,12319.0,690.0,0,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+2,Mira Road,0.97,10211.0,950.0,10+,Semi-Furnished,,May be not,2,3,,Mumbai
+2,others,2.10,30882.0,680.0,10+,Semi-Furnished,,available,2,,Garden/Park,Mumbai
+1,Virar,0.43,8415.0,511.0,9,Unfurnished,East,May be not,2,2,Garden/Park,Mumbai
+4,Prabhadevi,15.50,38750.0,4000.0,10+,Unfurnished,,May be not,4,,,Mumbai
+1,Bhandup,0.6,12121.0,495.0,9,Unfurnished,,May be not,1,,Garden/Park,Mumbai
+2,Powai,2.60,28889.0,900.0,7,Unfurnished,East,May be not,2,,Garden/Park,Mumbai
+2,others,0.6,9494.0,632.0,10+,Semi-Furnished,East,May be not,1,,Main Road,Mumbai
+2,others,0.77,7476.0,1030.0,3,Furnished,East,May be not,2,3,Garden/Park,Mumbai
+1,others,0.365,7652.0,477.0,0,Unfurnished,North - East,May be not,1,,,Mumbai
+1,others,1.65,18333.0,900.0,2,Semi-Furnished,South,available,2,,,Mumbai
+2,Bhandup,0.9500000000000001,20000.0,475.0,5,Semi-Furnished,South - East,May be not,1,,Main Road,Mumbai
+3,Chembur,7.50,41667.0,1800.0,5,Unfurnished,East,May be not,3,3,Pool,Mumbai
+1,Kandivali,1.15,19828.0,580.0,5,Unfurnished,,May be not,2,1,,Mumbai
+2,others,3.50,35000.0,1000.0,1,Furnished,East,May be not,1,1,"Garden/Park, Main Road",Mumbai
+4,Borivali,6.75,48214.0,1400.0,10+,Furnished,East,available,4,,Garden/Park,Mumbai
+3,Kandivali,3.90,26000.0,1500.0,10+,Unfurnished,West,May be not,3,,Garden/Park,Mumbai
+1,Worli,2.80,40000.0,700.0,3,Furnished,,May be not,2,,Garden/Park,Mumbai
+3,others,5.95,53993.0,1102.0,9,Semi-Furnished,West,May be not,4,1,Garden/Park,Mumbai
+1,Bhandup,0.72,12000.0,600.0,4,Unfurnished,,May be not,2,1,,Mumbai
+4,Kanjurmarg,3.80,30620.0,1241.0,1,Unfurnished,North,May be not,3,1,Garden/Park,Mumbai
+2,Kandivali,2.30,31812.0,723.0,10+,Unfurnished,East,May be not,2,,Main Road,Mumbai
+4,Borivali,6.66,31714.0,2100.0,10+,Unfurnished,East,available,4,,Pool,Mumbai
+1,Andheri,1.35,22500.0,600.0,2,Unfurnished,,May be not,2,,Main Road,Mumbai
+2,others,1.05,19444.0,540.0,5,Furnished,,May be not,1,,,Mumbai
+4,Borivali,3.96,25320.0,1564.0,10+,Unfurnished,East,available,4,,"Garden/Park, Main Road",Mumbai
+2,Powai,2.44,22182.0,1100.0,10+,Unfurnished,East,May be not,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,others,5.50,43965.0,1251.0,4,Semi-Furnished,East,May be not,3,,"Garden/Park, Pool, Main Road",Mumbai
+3,Chembur,2.70,20455.0,1320.0,6,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road",Mumbai
+3,Bandra,5.90,36875.0,1600.0,10+,Semi-Furnished,West,available,3,1,"Garden/Park, Main Road",Mumbai
+3,Malad,3.05,27477.0,1110.0,9,Unfurnished,East,May be not,3,1,Garden/Park,Mumbai
+3,others,3.40,20606.0,1650.0,5,Semi-Furnished,East,available,3,1,Garden/Park,Mumbai
+1,others,1.50,33333.0,450.0,10,Unfurnished,,May be not,1,,,Mumbai
+1,others,0.373,10501.0,355.2,1,Semi-Furnished,East,available,2,3,"Garden/Park, Main Road",Mumbai
+1,others,1.16,28019.0,414.0,4,Semi-Furnished,,May be not,2,,,Mumbai
+2,Malad,2.35,22381.0,1050.0,10+,Unfurnished,,available,2,,Main Road,Mumbai
+2,others,5,56818.0,880.0,1,Unfurnished,North - West,May be not,2,,Garden/Park,Mumbai
+1,others,1.62,25000.0,648.0,8,Unfurnished,,May be not,2,,,Mumbai
+4+,Mulund,6.50,22968.0,2830.0,6,Unfurnished,North - West,May be not,4+,4+,Garden/Park,Mumbai
+2,Bhandup,1.40,15730.0,890.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Pool",Mumbai
+3,others,2.80,18692.0,1498.0,8,Semi-Furnished,East,available,3,,"Garden/Park, Main Road",Mumbai
+3,Ghatkopar,3.75,20961.0,1789.0,4,Semi-Furnished,North - East,May be not,3,1,"Garden/Park, Main Road",Mumbai
+1,others,1.05,14384.0,730.0,4,Semi-Furnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+3,others,3.20,22069.0,1450.0,10+,Semi-Furnished,North - East,available,3,1,"Garden/Park, Main Road",Mumbai
+1,Mira Road,0.65,11712.0,555.0,6,Semi-Furnished,North - East,available,2,1,"Garden/Park, Main Road",Mumbai
+2,others,3.65,45625.0,800.0,4,Unfurnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+2,others,1.75,23302.0,751.0,8,Semi-Furnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+1,others,1,16807.0,595.0,5,Furnished,East,available,2,,Garden/Park,Mumbai
+2,others,1.50,20690.0,725.0,10+,Unfurnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+2,others,1.60,20000.0,800.0,1,Unfurnished,,May be not,2,,"Garden/Park, Main Road",Mumbai
+1,Malad,0.85,13710.0,620.0,1,Semi-Furnished,,May be not,2,,Garden/Park,Mumbai
+1,Mira Road,0.7000000000000001,10145.0,690.0,10+,Unfurnished,North,available,2,2,"Garden/Park, Main Road",Mumbai
+3,Borivali,2.30,25556.0,900.0,6,Semi-Furnished,East,available,3,,Main Road,Mumbai
+2,others,2.75,32353.0,850.0,2,Semi-Furnished,East,May be not,2,,Main Road,Mumbai
+1,others,0.45,6618.0,680.0,7,Semi-Furnished,East,available,2,3,Main Road,Mumbai
+1,Mulund,0.91,23636.0,385.0,0,Semi-Furnished,,May be not,1,1,,Mumbai
+2,Goregaon,2.60,17391.0,1495.0,4,Unfurnished,,May be not,2,3,,Mumbai
+1,Malad,0.51,15455.0,330.0,3,Semi-Furnished,South - East,May be not,2,,Garden/Park,Mumbai
+3,Kanjurmarg,3.50,29167.0,1200.0,10+,Semi-Furnished,North - East,available,3,,"Garden/Park, Pool, Main Road",Mumbai
+2,Kandivali,1.52,15200.0,1000.0,6,Semi-Furnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+2,others,1.80,22500.0,800.0,3,Furnished,East,available,2,,Main Road,Mumbai
+3,others,2.70,17881.0,1510.0,4,Semi-Furnished,East,available,3,,"Garden/Park, Main Road",Mumbai
+1,Ghatkopar,1.45,23770.0,610.0,1,Furnished,West,available,2,1,"Garden/Park, Main Road",Mumbai
+1,others,1.49,23000.0,648.0,4,Semi-Furnished,North,available,1,,,Mumbai
+2,others,2.15,30714.0,700.0,10+,Unfurnished,East,May be not,2,,Main Road,Mumbai
+1,Andheri,1.25,21186.0,590.0,4,Semi-Furnished,East,available,2,,Main Road,Mumbai
+3,others,10.50,61765.0,1700.0,3,Furnished,North - West,available,4,,"Garden/Park, Main Road",Mumbai
+2,Kanjurmarg,1.98,23294.0,850.0,10+,Unfurnished,North,May be not,2,1,"Garden/Park, Pool, Main Road",Mumbai
+1,others,0.6,13100.0,458.0,10+,Furnished,East,May be not,2,,Main Road,Mumbai
+1,others,1.90,40426.0,470.0,9,Semi-Furnished,North - East,May be not,2,,,Mumbai
+2,others,3.56,33905.0,1050.0,6,Unfurnished,South -West,May be not,2,,Main Road,Mumbai
+3,others,6.10,37082.0,1645.0,5,Semi-Furnished,,available,4,3,"Garden/Park, Pool",Mumbai
+3,others,2,15625.0,1280.0,2,Semi-Furnished,North - East,May be not,2,,"Garden/Park, Main Road",Mumbai
+1,others,0.35000000000000003,5645.0,620.0,2,Unfurnished,North,May be not,2,2,"Garden/Park, Main Road",Mumbai
+1,Goregaon,1.12,21132.0,530.0,2,Unfurnished,South,May be not,1,,Main Road,Mumbai
+3,others,2.99,27918.0,1071.0,10+,Unfurnished,North - East,available,3,,"Garden/Park, Pool, Main Road",Mumbai
+2,Kandivali,2.50,18519.0,1350.0,10+,Unfurnished,South -West,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+1,Malad,0.24,11765.0,204.0,0,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+3,Virar,0.85,6538.0,1300.0,6,Furnished,East,May be not,3,4+,"Garden/Park, Main Road",Mumbai
+1,Bandra,2,50000.0,400.0,2,Unfurnished,East,available,1,,Main Road,Mumbai
+2,others,2.30,35385.0,650.0,1,Unfurnished,West,available,2,,Main Road,Mumbai
+2,others,1.79,29833.0,600.0,10,Unfurnished,East,May be not,2,,,Mumbai
+3,others,2.40,16000.0,1500.0,6,Unfurnished,East,available,2,3,"Garden/Park, Main Road",Mumbai
+2,others,3.80,29231.0,1300.0,10+,Semi-Furnished,East,May be not,2,1,"Garden/Park, Pool, Main Road",Mumbai
+3,Andheri,3.90,19500.0,2000.0,3,Furnished,South,available,3,,Garden/Park,Mumbai
+1,Malad,0.87,20139.0,432.0,3,Semi-Furnished,East,May be not,1,,Garden/Park,Mumbai
+1,others,1,22222.0,450.0,1,Semi-Furnished,West,May be not,1,1,Main Road,Mumbai
+2,others,2.35,21267.0,1105.0,10+,Furnished,West,May be not,2,3,"Garden/Park, Pool, Main Road",Mumbai
+2,Kanjurmarg,1.25,17241.0,725.0,5,Unfurnished,West,May be not,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,Mulund,2.85,23750.0,1200.0,4,Unfurnished,South -West,available,3,,"Garden/Park, Pool, Main Road",Mumbai
+1,Bhandup,1,24213.0,413.0,10+,Furnished,West,available,2,,"Garden/Park, Main Road",Mumbai
+2,Virar,0.42,5600.0,750.0,1,Semi-Furnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,Andheri,5.50,30556.0,1800.0,3,Unfurnished,,May be not,3,,,Mumbai
+3,Mulund,2.20,14986.0,1468.0,7,Unfurnished,East,May be not,3,,"Garden/Park, Main Road",Mumbai
+2,others,0.5,6993.0,715.0,5,Semi-Furnished,,May be not,2,,,Mumbai
+1,Virar,0.34500000000000003,4825.0,715.0,4,Unfurnished,East,available,2,2,"Garden/Park, Main Road",Mumbai
+3,Vile Parle,4.75,35185.0,1350.0,6,Semi-Furnished,East,May be not,3,,,Mumbai
+3,others,0.66,5500.0,1200.0,4,Semi-Furnished,East,May be not,3,2,"Garden/Park, Main Road",Mumbai
+2,Malad,2,16529.0,1210.0,6,Unfurnished,North,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+2,Goregaon,1.05,9722.0,1080.0,0,Furnished,East,May be not,2,1,,Mumbai
+2,Andheri,1.80,26393.0,682.0,0,Semi-Furnished,,May be not,1,,,Mumbai
+3,others,7.25,43939.0,1650.0,4,Furnished,,May be not,3,,,Mumbai
+2,others,1.25,16779.0,745.0,7,Unfurnished,North,May be not,3,,Main Road,Mumbai
+1,others,2.50,45455.0,550.0,5,Furnished,East,May be not,2,,,Mumbai
+4,Goregaon,4.25,31481.0,1350.0,10+,Unfurnished,,May be not,3,,,Mumbai
+1,others,0.3,6000.0,500.0,0,Semi-Furnished,,May be not,1,,,Mumbai
+1,Bandra,0.35000000000000003,25000.0,140.0,2,Semi-Furnished,,May be not,1,,,Mumbai
+2,Mira Road,1.10,11340.0,970.0,10+,Unfurnished,,May be not,2,,,Mumbai
+3,Mulund,5,31348.0,1595.0,10+,Unfurnished,,available,4,,Main Road,Mumbai
+1,Malad,0.7000000000000001,21277.0,329.0,0,Semi-Furnished,,available,1,,,Mumbai
+2,Mulund,1.40,13672.0,1024.0,10+,Unfurnished,East,May be not,2,,Main Road,Mumbai
+1,Mulund,0.75,16667.0,450.0,4,Semi-Furnished,,May be not,1,,,Mumbai
+1,others,0.64,18338.0,349.0,4,Unfurnished,West,May be not,1,1,Main Road,Mumbai
+2,Malad,2,30303.0,660.0,6,Furnished,,May be not,2,,,Mumbai
+1,Mulund,0.7000000000000001,21875.0,320.0,1,Semi-Furnished,East,available,1,,,Mumbai
+1,others,0.305,8069.0,378.0,0,Unfurnished,,May be not,1,,,Mumbai
+2,others,2.10,17872.0,1175.0,7,Unfurnished,,May be not,2,,,Mumbai
+1,others,1.40,25455.0,550.0,2,Unfurnished,East,May be not,1,,,Mumbai
+2,others,4.50,53828.0,836.0,5,Unfurnished,,May be not,2,1,,Mumbai
+2,Kandivali,1.50,16129.0,930.0,6,Semi-Furnished,,available,2,,,Mumbai
+1,Virar,0.12,3692.0,325.0,3,Unfurnished,,May be not,1,,,Mumbai
+2,others,1.50,26316.0,570.0,4,Semi-Furnished,,May be not,2,,,Mumbai
+2,others,0.85,17000.0,500.0,2,Semi-Furnished,,May be not,2,,,Mumbai
+3,others,10.50,58333.0,1800.0,10+,Furnished,,May be not,3,,,Mumbai
+1,others,1.70,53968.0,315.0,3,Furnished,,May be not,1,,Main Road,Mumbai
+1,Bhandup,0.68,17895.0,380.0,2,Unfurnished,,May be not,1,,,Mumbai
+3,Malad,2.80,23333.0,1200.0,10+,Unfurnished,West,May be not,4,,"Garden/Park, Pool, Main Road",Mumbai
+4+,Malad,9.95,19900.0,5000.0,3,Semi-Furnished,West,May be not,4+,3,"Garden/Park, Pool, Main Road",Mumbai
+4,others,15,58117.0,2581.0,3,Semi-Furnished,North - East,available,4,,,Mumbai
+1,Santacruz,1.35,22500.0,600.0,0,Unfurnished,East,May be not,2,,Main Road,Mumbai
+2,others,3.13,31939.0,980.0,5,Semi-Furnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+4,Borivali,4.56,25166.0,1812.0,10+,Unfurnished,,available,3,2,Main Road,Mumbai
+2,others,1.37,21077.0,650.0,2,Semi-Furnished,South,available,2,1,"Garden/Park, Main Road",Mumbai
+4,others,5.10,20400.0,2500.0,5,Semi-Furnished,North,available,4,,Main Road,Mumbai
+3,Prabhadevi,10.09,54000.0,1869.0,10+,Unfurnished,East,available,3,1,,Mumbai
+1,others,0.89,15893.0,560.0,5,Unfurnished,,May be not,1,2,"Garden/Park, Main Road",Mumbai
+2,Chembur,1.70,18889.0,900.0,3,Unfurnished,North,available,2,,Garden/Park,Mumbai
+1,others,1,20408.0,490.0,6,Furnished,West,available,2,1,Main Road,Mumbai
+3,Chembur,3.90,33191.0,1175.0,1,Semi-Furnished,North - East,available,3,,"Garden/Park, Main Road",Mumbai
+2,Mira Road,1.26,14157.0,890.0,10+,Unfurnished,East,May be not,2,2,"Garden/Park, Main Road",Mumbai
+3,others,5.66,50945.0,1111.0,10+,Unfurnished,,available,2,1,,Mumbai
+2,others,2.50,20833.0,1200.0,10+,Unfurnished,East,May be not,2,1,"Garden/Park, Main Road",Mumbai
+2,others,4.50,37815.0,1190.0,10+,Unfurnished,North - East,available,2,2,"Garden/Park, Pool, Main Road",Mumbai
+4,others,9,56250.0,1600.0,3,Unfurnished,West,May be not,4,,Main Road,Mumbai
+2,Kandivali,1.90,18812.0,1010.0,10,Furnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+2,Powai,2.89,36675.0,788.0,6,Unfurnished,North - East,available,2,,Main Road,Mumbai
+3,others,3.10,22143.0,1400.0,10+,Unfurnished,North - East,available,3,1,Garden/Park,Mumbai
+4,Bandra,11.50,50000.0,2300.0,3,Unfurnished,West,available,4,1,"Garden/Park, Main Road",Mumbai
+3,Borivali,3.53,30696.0,1150.0,10+,Unfurnished,East,available,3,,Main Road,Mumbai
+3,Kanjurmarg,2.45,16678.0,1469.0,10+,Unfurnished,East,available,3,,"Garden/Park, Main Road",Mumbai
+3,Malad,2.88,19200.0,1500.0,10+,Furnished,East,May be not,3,,Main Road,Mumbai
+2,others,5.30,58889.0,900.0,9,Semi-Furnished,East,May be not,2,1,"Garden/Park, Main Road",Mumbai
+2,others,1.50,15789.0,950.0,0,Furnished,North,available,2,,"Garden/Park, Main Road",Mumbai
+1,others,1.05,16154.0,650.0,7,Unfurnished,,May be not,2,,,Mumbai
+2,Borivali,2,20000.0,1000.0,,Unfurnished,South -West,May be not,2,1,Garden/Park,Mumbai
+2,others,2.25,22500.0,1000.0,4,Unfurnished,West,available,2,,Main Road,Mumbai
+2,Ghatkopar,1.70,17436.0,975.0,4,Unfurnished,East,May be not,3,1,"Garden/Park, Main Road",Mumbai
+2,others,2.70,33750.0,800.0,,,,May be not,,,,Mumbai
+2,Goregaon,2.14,16336.0,1310.0,10+,Unfurnished,East,available,2,,Garden/Park,Mumbai
+3,others,7,41176.0,1700.0,10+,Unfurnished,East,available,3,2,,Mumbai
+4,Bandra,12.50,52083.0,2400.0,1,Furnished,East,May be not,4+,1,"Pool, Garden/Park, Main Road",Mumbai
+2,others,1.30,21667.0,600.0,3,Furnished,East,available,1,,,Mumbai
+2,others,1.35,16875.0,800.0,1,Semi-Furnished,South,May be not,2,,,Mumbai
+4+,Chembur,11.50,42971.0,2676.0,10+,Unfurnished,East,available,4+,2,"Garden/Park, Main Road",Mumbai
+3,Borivali,3.50,26316.0,1330.0,10+,Unfurnished,East,available,3,,Main Road,Mumbai
+1,Goregaon,0.9,18000.0,500.0,3,Furnished,North,May be not,2,1,Garden/Park,Mumbai
+2,Santacruz,3,35294.0,850.0,4,Unfurnished,North,May be not,2,1,Main Road,Mumbai
+1,Kandivali,1.33,18219.0,730.0,1,Semi-Furnished,East,available,2,1,Main Road,Mumbai
+3,Powai,5.40,24545.0,2200.0,10+,Semi-Furnished,North - East,May be not,4,1,Garden/Park,Mumbai
+2,others,1.95,22995.0,848.0,10+,Unfurnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+2,Ghatkopar,1.77,18612.0,951.0,6,Semi-Furnished,South - East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+4,others,31.83,109986.0,2894.0,10+,Unfurnished,,available,4+,4+,"Garden/Park, Main Road",Mumbai
+2,Malad,2.09,28106.0,744.0,10+,Unfurnished,West,available,2,1,"Garden/Park, Main Road",Mumbai
+4,others,14.60,48829.0,2990.0,5,Furnished,West,available,3,,Main Road,Mumbai
+4,Bandra,25,54113.0,4620.0,4,Unfurnished,,May be not,4+,1,"Garden/Park, Main Road",Mumbai
+2,Andheri,2.16,22737.0,950.0,1,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+2,others,2.10,22727.0,924.0,3,Furnished,West,available,2,1,"Garden/Park, Main Road",Mumbai
+1,Mira Road,0.7000000000000001,10370.0,675.0,2,Unfurnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+2,Vile Parle,3.60,48000.0,750.0,2,Unfurnished,East,May be not,2,,Main Road,Mumbai
+2,others,5,55804.0,896.0,3,Semi-Furnished,South -West,available,2,,"Garden/Park, Main Road",Mumbai
+4,Bandra,5.75,38333.0,1500.0,3,Furnished,East,May be not,4,,Main Road,Mumbai
+2,Mira Road,1,14124.0,708.0,9,Semi-Furnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+1,others,0.9990000000000001,18983.0,526.0,1,Semi-Furnished,East,available,2,,Main Road,Mumbai
+3,Goregaon,2.75,30055.0,915.0,1,Furnished,West,available,2,2,"Garden/Park, Main Road",Mumbai
+2,Ghatkopar,2.35,40870.0,575.0,4,Unfurnished,East,May be not,2,,Main Road,Mumbai
+2,Virar,0.425,4474.0,950.0,10+,Unfurnished,East,available,2,2,Main Road,Mumbai
+2,Andheri,1.70,16190.0,1050.0,6,Unfurnished,North,May be not,2,,,Mumbai
+2,Bhandup,1.45,17100.0,848.0,10,Unfurnished,North - East,available,2,1,"Garden/Park, Main Road",Mumbai
+2,Malad,1.60,22857.0,700.0,5,Unfurnished,,available,2,1,Garden/Park,Mumbai
+2,Mira Road,0.835,7804.0,1070.0,2,Semi-Furnished,East,May be not,2,4,Garden/Park,Mumbai
+2,others,3.01,44925.0,670.0,5,Unfurnished,East,May be not,2,1,Garden/Park,Mumbai
+2,others,3.50,35354.0,990.0,5,Unfurnished,East,May be not,2,1,Main Road,Mumbai
+3,others,6.21,33032.0,1880.0,9,Semi-Furnished,East,available,4,,"Garden/Park, Main Road",Mumbai
+1,Chembur,1.20,18868.0,636.0,,Semi-Furnished,North - East,available,1,,"Garden/Park, Main Road",Mumbai
+1,others,0.43,6825.0,630.0,10+,Furnished,East,May be not,1,1,Main Road,Mumbai
+3,Borivali,3.25,24074.0,1350.0,10+,Unfurnished,West,May be not,3,1,Main Road,Mumbai
+2,others,1.70,21795.0,780.0,10+,Unfurnished,East,available,2,,Main Road,Mumbai
+2,others,3.49,34900.0,1000.0,3,Unfurnished,North,May be not,2,,Garden/Park,Mumbai
+2,Malad,2.40,20601.0,1165.0,6,Unfurnished,North,available,2,3,"Garden/Park, Main Road",Mumbai
+2,Kandivali,2.11,24535.0,860.0,10,Unfurnished,East,available,2,1,"Garden/Park, Pool",Mumbai
+1,Mira Road,0.65,9028.0,720.0,10+,Semi-Furnished,East,available,2,,"Pool, Garden/Park, Main Road",Mumbai
+3,Ghatkopar,2.25,23684.0,950.0,9,Unfurnished,East,available,2,,Main Road,Mumbai
+3,others,3.60,27692.0,1300.0,10+,Unfurnished,East,available,3,,"Garden/Park, Main Road",Mumbai
+1,others,0.55,9167.0,600.0,4,Semi-Furnished,East,available,2,3,"Pool, Garden/Park, Main Road",Mumbai
+2,Goregaon,0.73,8848.0,825.0,10+,Unfurnished,East,May be not,2,1,Garden/Park,Mumbai
+4,Bandra,12,60000.0,2000.0,10+,Semi-Furnished,,available,4,3,Main Road,Mumbai
+1,Virar,0.4,5882.0,680.0,,Unfurnished,North,available,2,2,"Garden/Park, Pool, Main Road",Mumbai
+3,others,4.52,43300.0,1044.0,1,Unfurnished,East,available,4,2,"Garden/Park, Pool, Main Road",Mumbai
+2,others,2.60,36061.0,721.0,10+,Unfurnished,West,May be not,2,,Garden/Park,Mumbai
+3,others,6.75,54000.0,1250.0,10,Furnished,West,available,4,,Main Road,Mumbai
+2,Kandivali,1.50,24194.0,620.0,4,Semi-Furnished,East,available,2,1,Main Road,Mumbai
+1,others,0.51,13077.0,390.0,2,Unfurnished,East,May be not,2,2,"Garden/Park, Main Road",Mumbai
+3,others,2.03,13500.0,1504.0,1,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Mumbai
+2,Andheri,2.50,21626.0,1156.0,10+,Unfurnished,East,May be not,2,1,Garden/Park,Mumbai
+2,Mira Road,0.85,8586.0,990.0,3,Unfurnished,East,May be not,2,1,"Garden/Park, Main Road",Mumbai
+3,Bandra,8.50,73913.0,1150.0,10,Furnished,East,available,3,,,Mumbai
+4,Chembur,9,33333.0,2700.0,10,Semi-Furnished,East,available,4,2,Garden/Park,Mumbai
+2,Kandivali,1.95,15234.0,1280.0,10+,Unfurnished,East,May be not,2,3,Main Road,Mumbai
+2,others,2.35,28905.0,813.0,10+,Unfurnished,East,available,2,3,Garden/Park,Mumbai
+2,others,1.85,27407.0,675.0,2,Furnished,East,available,2,,Main Road,Mumbai
+3,others,4.35,24786.0,1755.0,10+,Unfurnished,North,available,3,,Garden/Park,Mumbai
+3,Chembur,2.50,25934.0,964.0,10+,Semi-Furnished,East,available,3,,Main Road,Mumbai
+2,others,3.50,43641.0,802.0,5,Furnished,West,May be not,2,,Main Road,Mumbai
+2,others,2.20,23158.0,950.0,8,Semi-Furnished,North - East,available,2,,Main Road,Mumbai
+4,Vile Parle,8.80,49438.0,1780.0,5,Unfurnished,East,May be not,4,,Main Road,Mumbai
+1,others,0.43700000000000006,6467.0,676.0,10+,Semi-Furnished,East,available,1,,Main Road,Mumbai
+1,others,1.35,24545.0,550.0,10+,Unfurnished,East,May be not,2,3,Main Road,Mumbai
+1,Goregaon,1.25,29762.0,420.0,3,Furnished,East,available,2,,Main Road,Mumbai
+2,others,4.23,33840.0,1250.0,1,Unfurnished,North - East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+3,others,10.21,72411.0,1410.0,10+,Unfurnished,South -West,available,3,2,"Garden/Park, Pool",Mumbai
+1,Andheri,1.16,27000.0,430.0,10+,Unfurnished,East,May be not,2,,Main Road,Mumbai
+2,Andheri,3,22222.0,1350.0,,Unfurnished,East,May be not,2,,"Garden/Park, Pool, Main Road",Mumbai
+2,Worli,4.50,38894.0,1157.0,10+,Unfurnished,East,May be not,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,others,4.25,38636.0,1100.0,10+,Semi-Furnished,North - East,available,3,,Garden/Park,Mumbai
+2,Vile Parle,2.51,31375.0,800.0,5,Semi-Furnished,East,available,2,4,Main Road,Mumbai
+3,others,9.99,62438.0,1600.0,10+,Unfurnished,East,available,4,1,Main Road,Mumbai
+2,others,2.50,20000.0,1250.0,9,Semi-Furnished,East,available,2,1,"Garden/Park, Pool",Mumbai
+2,Powai,2.60,25743.0,1010.0,10+,Unfurnished,North - East,May be not,2,1,"Garden/Park, Pool",Mumbai
+2,others,2.90,26364.0,1100.0,5,Semi-Furnished,East,available,2,1,Garden/Park,Mumbai
+2,Borivali,1.65,20625.0,800.0,5,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+1,Mulund,1.34,30524.0,439.0,5,Furnished,East,available,1,1,"Garden/Park, Main Road",Mumbai
+3,Borivali,4.45,41473.0,1073.0,10+,Semi-Furnished,South -West,May be not,3,,Garden/Park,Mumbai
+3,Malad,3.51,29847.0,1176.0,1,Furnished,East,available,3,3,Main Road,Mumbai
+3,Ghatkopar,3.03,32616.0,929.0,10+,Unfurnished,North - West,available,3,,"Garden/Park, Main Road",Mumbai
+3,others,2.80,20000.0,1400.0,6,Unfurnished,East,available,3,,Garden/Park,Mumbai
+3,others,3.15,24231.0,1300.0,10+,Unfurnished,South -West,May be not,3,1,"Garden/Park, Pool, Main Road",Mumbai
+4,others,5.25,29167.0,1800.0,7,Unfurnished,North - East,May be not,4,1,"Garden/Park, Main Road",Mumbai
+4,Ghatkopar,7.29,30000.0,2430.0,3,Unfurnished,North,available,4+,2,Main Road,Mumbai
+3,Malad,5.05,19945.0,2532.0,2,Semi-Furnished,North - East,May be not,4+,3,"Garden/Park, Pool, Main Road",Mumbai
+2,others,3.50,31818.0,1100.0,4,Furnished,,May be not,2,1,,Mumbai
+4,Andheri,6.85,27400.0,2500.0,10+,Unfurnished,East,available,4,,"Garden/Park, Main Road",Mumbai
+1,Goregaon,1.32,25385.0,520.0,5,Semi-Furnished,East,available,2,,Garden/Park,Mumbai
+2,others,2.45,35000.0,700.0,6,Semi-Furnished,East,available,2,,Garden/Park,Mumbai
+1,Andheri,1.20,26087.0,460.0,10+,Semi-Furnished,East,May be not,2,1,Garden/Park,Mumbai
+1,Kandivali,1.23,28406.0,433.0,1,Unfurnished,West,available,2,,"Garden/Park, Main Road",Mumbai
+1,others,0.449,9163.0,490.0,10+,Semi-Furnished,West,May be not,2,3,"Pool, Garden/Park, Main Road",Mumbai
+3,Prabhadevi,9.63,71973.0,1338.0,10+,Semi-Furnished,West,available,4+,,Garden/Park,Mumbai
+3,Malad,2.70,15169.0,1780.0,10+,Semi-Furnished,East,available,3,3,"Garden/Park, Main Road",Mumbai
+2,others,2.30,30667.0,750.0,4,Unfurnished,North - West,available,2,,Garden/Park,Mumbai
+2,others,3.02,27455.0,1100.0,10,Semi-Furnished,East,available,2,1,Garden/Park,Mumbai
+2,Malad,1.95,30469.0,640.0,4,Semi-Furnished,North,May be not,2,,Main Road,Mumbai
+3,Chembur,6.75,33750.0,2000.0,9,Semi-Furnished,North - East,available,3,3,"Garden/Park, Main Road",Mumbai
+2,others,1,15385.0,650.0,1,Unfurnished,North - East,May be not,2,,Main Road,Mumbai
+2,Wadala,2.80,28000.0,1000.0,9,Semi-Furnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+2,others,2.26,25111.0,900.0,1,Unfurnished,East,May be not,2,,Garden/Park,Mumbai
+1,others,0.99,18000.0,550.0,10+,Unfurnished,North,May be not,2,,Main Road,Mumbai
+3,Worli,5.99,34465.0,1738.0,,Semi-Furnished,East,available,4,,"Garden/Park, Pool, Main Road",Mumbai
+4,Borivali,6.50,30162.0,2155.0,10+,Unfurnished,West,available,4,,"Garden/Park, Main Road",Mumbai
+1,others,1.24,28538.0,435.0,10,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+3,Vile Parle,5,48309.0,1035.0,5,Unfurnished,East,May be not,3,,Main Road,Mumbai
+4,Santacruz,7,31818.0,2200.0,7,Furnished,North,available,3,3,,Mumbai
+4+,Worli,10.95,30116.0,3636.0,10+,Semi-Furnished,,May be not,4+,,"Pool, Garden/Park, Main Road",Mumbai
+1,others,0.45,6667.0,675.0,1,Unfurnished,North,available,2,1,,Mumbai
+4+,Prabhadevi,23.80,56000.0,4250.0,10+,Unfurnished,East,available,4+,4,"Garden/Park, Pool",Mumbai
+3,others,2.42,30633.0,790.0,1,Unfurnished,East,available,3,,Garden/Park,Mumbai
+1,others,1.15,16429.0,700.0,4,Unfurnished,North,May be not,1,,Garden/Park,Mumbai
+1,Ghatkopar,0.9500000000000001,13571.0,700.0,,Unfurnished,East,May be not,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,Goregaon,5.70,31844.0,1790.0,10+,Semi-Furnished,North - East,available,3,2,Garden/Park,Mumbai
+1,Bhandup,0.9,22222.0,405.0,8,Unfurnished,North - West,available,2,,"Garden/Park, Main Road",Mumbai
+2,others,3.70,41111.0,900.0,4,Semi-Furnished,East,available,2,2,Garden/Park,Mumbai
+3,Chembur,5,29412.0,1700.0,5,Unfurnished,East,available,4,1,,Mumbai
+2,others,3.40,45333.0,750.0,7,Semi-Furnished,East,available,2,,,Mumbai
+1,others,1.04,14857.0,700.0,6,Unfurnished,East,available,1,,Main Road,Mumbai
+4,Borivali,7.25,34524.0,2100.0,10+,Unfurnished,South -West,available,4,2,Garden/Park,Mumbai
+3,others,9,52941.0,1700.0,6,Furnished,East,available,3,3,"Garden/Park, Main Road",Mumbai
+3,others,4.50,31034.0,1450.0,10+,Semi-Furnished,East,available,3,2,Garden/Park,Mumbai
+4,others,12.50,62500.0,2000.0,5,Semi-Furnished,East,available,4,,,Mumbai
+3,others,6.48,37029.0,1750.0,10,Unfurnished,East,May be not,4,1,Garden/Park,Mumbai
+2,others,3.75,37425.0,1002.0,10+,Unfurnished,North - East,available,2,1,Garden/Park,Mumbai
+1,others,2.10,32308.0,650.0,10+,Unfurnished,East,available,2,,Main Road,Mumbai
+3,others,9.25,61667.0,1500.0,10+,Semi-Furnished,West,available,4,,Garden/Park,Mumbai
+2,Kandivali,1.30,14130.0,920.0,,Furnished,East,May be not,2,,Main Road,Mumbai
+2,others,1.80,28125.0,640.0,9,Unfurnished,South -West,May be not,2,,Main Road,Mumbai
+3,Borivali,5.10,33775.0,1510.0,10+,Semi-Furnished,South - East,May be not,3,,"Pool, Garden/Park",Mumbai
+2,others,2.90,23482.0,1235.0,8,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+2,others,2.29,19147.0,1196.0,10+,Unfurnished,West,available,2,,"Garden/Park, Main Road",Mumbai
+2,others,4,37700.0,1061.0,2,Unfurnished,West,available,2,1,,Mumbai
+2,others,6.25,67568.0,925.0,9,Furnished,,May be not,2,,"Main Road, Garden/Park",Mumbai
+2,others,3.75,41667.0,900.0,2,Semi-Furnished,South,available,3,,Main Road,Mumbai
+2,Ghatkopar,1.75,23333.0,750.0,,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,others,5.50,35484.0,1550.0,10+,Furnished,East,May be not,3,,"Garden/Park, Main Road",Mumbai
+3,Goregaon,6.25,52083.0,1200.0,10+,Furnished,East,May be not,3,,Garden/Park,Mumbai
+3,others,9,58065.0,1550.0,1,Unfurnished,East,May be not,4,1,Main Road,Mumbai
+3,others,4.30,31273.0,1375.0,,Unfurnished,East,available,3,1,"Garden/Park, Pool",Mumbai
+2,others,2.85,23750.0,1200.0,9,Unfurnished,East,May be not,2,1,"Main Road, Garden/Park",Mumbai
+3,others,6.75,48214.0,1400.0,10+,Unfurnished,East,available,3,1,,Mumbai
+2,Malad,1.90,18095.0,1050.0,10+,Unfurnished,North,May be not,2,,Main Road,Mumbai
+3,others,2.45,24500.0,1000.0,10,Furnished,North - East,May be not,3,,Main Road,Mumbai
+1,Mira Road,0.63,8434.0,747.0,10+,Semi-Furnished,East,available,1,3,"Garden/Park, Pool, Main Road",Mumbai
+4,Prabhadevi,14.75,49167.0,3000.0,10+,Semi-Furnished,North - West,available,4+,,,Mumbai
+2,Kanjurmarg,1.50,18750.0,800.0,10+,Semi-Furnished,North,available,2,,"Garden/Park, Main Road",Mumbai
+2,Chembur,2.09,32353.0,646.0,10,Unfurnished,East,available,2,1,Main Road,Mumbai
+1,others,1.60,21333.0,750.0,0,Unfurnished,,available,1,2,Main Road,Mumbai
+3,Chembur,3.25,33163.0,980.0,10+,Semi-Furnished,East,May be not,3,1,Garden/Park,Mumbai
+3,Mulund,3,28571.0,1050.0,10+,Unfurnished,North,May be not,3,,,Mumbai
+2,others,6.50,70270.0,925.0,5,Furnished,,available,3,,"Garden/Park, Main Road",Mumbai
+2,others,2.80,25455.0,1100.0,1,Unfurnished,West,available,2,1,Main Road,Mumbai
+3,others,10.50,65625.0,1600.0,3,,East,available,4,,Garden/Park,Mumbai
+2,Andheri,1.95,19006.0,1026.0,3,Unfurnished,East,May be not,2,2,Main Road,Mumbai
+3,others,3.50,25000.0,1400.0,1,Semi-Furnished,North - East,May be not,4,,Main Road,Mumbai
+2,others,1.95,22941.0,850.0,6,Unfurnished,West,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+1,Mulund,0.98,23059.0,425.0,1,Semi-Furnished,West,available,1,,"Garden/Park, Main Road",Mumbai
+1,others,0.9,15000.0,600.0,4,Semi-Furnished,East,May be not,1,1,Main Road,Mumbai
+2,Malad,1.89,22235.0,850.0,10,Unfurnished,East,available,2,,Main Road,Mumbai
+2,Kandivali,2.06,23000.0,896.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Pool, Main Road",Mumbai
+4+,others,35,70000.0,5000.0,10+,Semi-Furnished,North - East,available,4+,2,Main Road,Mumbai
+1,others,1.90,45783.0,415.0,0,Unfurnished,West,May be not,1,,Main Road,Mumbai
+1,others,1.60,22857.0,700.0,0,Unfurnished,East,available,1,1,Main Road,Mumbai
+3,others,12,77419.0,1550.0,10+,Furnished,West,May be not,3,1,Garden/Park,Mumbai
+3,Prabhadevi,10.48,75971.0,1379.0,10+,Semi-Furnished,West,available,4,,"Garden/Park, Pool, Main Road",Mumbai
+3,others,8.01,54938.0,1458.0,10+,Unfurnished,East,May be not,3,,"Garden/Park, Main Road",Mumbai
+4+,Bandra,26,52000.0,5000.0,10+,Unfurnished,East,available,4+,,Pool,Mumbai
+2,others,3,41667.0,720.0,10+,Furnished,South - East,May be not,2,,,Mumbai
+2,others,3.85,27500.0,1400.0,10+,Semi-Furnished,East,May be not,2,3,,Mumbai
+4,others,11,36667.0,3000.0,7,Unfurnished,North - East,available,4,1,,Mumbai
+2,others,1.90,26912.0,706.0,7,Unfurnished,East,available,2,,Garden/Park,Mumbai
+1,others,0.6920000000000001,11438.0,605.0,10+,Unfurnished,East,available,1,,"Garden/Park, Main Road",Mumbai
+3,Bandra,13.75,68750.0,2000.0,2,Unfurnished,West,May be not,3,1,Garden/Park,Mumbai
+2,Andheri,1.60,17778.0,900.0,1,Unfurnished,North,May be not,2,,Main Road,Mumbai
+3,Malad,3.20,18391.0,1740.0,4,Unfurnished,North,available,3,3,"Garden/Park, Main Road",Mumbai
+3,Worli,9.50,57057.0,1665.0,3,Furnished,East,available,3,1,Main Road,Mumbai
+1,Mulund,1.05,28767.0,365.0,9,Unfurnished,West,May be not,1,,"Garden/Park, Pool, Main Road",Mumbai
+2,others,1.70,21250.0,800.0,4,Semi-Furnished,East,available,2,1,Main Road,Mumbai
+2,others,2.10,23204.0,905.0,10+,Furnished,North - East,available,2,2,Pool,Mumbai
+2,Kandivali,1.95,26000.0,750.0,10+,Unfurnished,East,available,2,1,"Pool, Main Road",Mumbai
+1,others,0.4,7547.0,530.0,3,Semi-Furnished,East,available,1,3,Main Road,Mumbai
+2,Vile Parle,2.60,23423.0,1110.0,2,Unfurnished,East,available,2,,Main Road,Mumbai
+1,others,0.85,28333.0,300.0,4,Semi-Furnished,East,May be not,1,,Main Road,Mumbai
+2,others,2.50,21570.0,1159.0,10+,Semi-Furnished,East,available,3,,"Garden/Park, Pool, Main Road",Mumbai
+4,Andheri,8.67,28040.0,3092.0,10+,Unfurnished,North - East,available,4+,1,,Mumbai
+2,others,2.50,23810.0,1050.0,5,Furnished,East,available,2,,Main Road,Mumbai
+2,Powai,1.55,15500.0,1000.0,10+,Unfurnished,North - East,available,2,,Garden/Park,Mumbai
+2,Mulund,1.80,15280.0,1178.0,1,Unfurnished,East,available,2,2,"Pool, Garden/Park, Main Road",Mumbai
+2,Ghatkopar,1.60,16000.0,1000.0,1,Furnished,East,May be not,2,,Main Road,Mumbai
+2,Ghatkopar,2.10,28966.0,725.0,6,Unfurnished,East,May be not,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,others,2.60,21667.0,1200.0,5,Unfurnished,East,available,3,1,Main Road,Mumbai
+2,Kanjurmarg,2.70,23478.0,1150.0,10,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+4,others,8,29630.0,2700.0,10+,Unfurnished,,available,4,1,Main Road,Mumbai
+2,others,4.10,39048.0,1050.0,2,Furnished,,May be not,2,,,Mumbai
+2,Chembur,1.65,21711.0,760.0,6,Furnished,North - East,available,2,,"Garden/Park, Main Road",Mumbai
+1,others,2.50,38462.0,650.0,10+,Unfurnished,,May be not,2,,,Mumbai
+1,others,1.08,19459.0,555.0,2,Furnished,,May be not,1,,,Mumbai
+4,Wadala,5,29412.0,1700.0,2,Unfurnished,East,May be not,4,,"Pool, Main Road",Mumbai
+1,Virar,0.37,7327.0,505.0,4,Unfurnished,,May be not,1,1,,Mumbai
+1,Mira Road,0.32,7111.0,450.0,1,Semi-Furnished,East,available,2,,Main Road,Mumbai
+3,Andheri,10,41667.0,2400.0,1,Furnished,East,available,3,,Garden/Park,Mumbai
+1,others,1.40,22047.0,635.0,9,Semi-Furnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+2,Ghatkopar,1.54,17111.0,900.0,2,Semi-Furnished,West,May be not,2,,Main Road,Mumbai
+2,Vile Parle,2,25000.0,800.0,1,Furnished,South - East,May be not,2,3,Main Road,Mumbai
+3,Wadala,3.80,20596.0,1845.0,,Semi-Furnished,North - East,available,4,2,"Garden/Park, Pool, Main Road",Mumbai
+3,Borivali,4.60,42870.0,1073.0,10,Unfurnished,East,May be not,3,,"Garden/Park, Pool, Main Road",Mumbai
+1,Chembur,1.35,19286.0,700.0,7,Unfurnished,North - East,May be not,2,,"Garden/Park, Main Road",Mumbai
+2,others,2.05,19524.0,1050.0,3,Semi-Furnished,South,available,3,,"Garden/Park, Main Road",Mumbai
+1,Kandivali,0.76,19000.0,400.0,0,Unfurnished,East,May be not,2,,Garden/Park,Mumbai
+3,others,7,43887.0,1595.0,8,Furnished,North - East,available,3,,"Garden/Park, Main Road",Mumbai
+2,others,1.40,16279.0,860.0,7,Unfurnished,South - East,May be not,2,,,Mumbai
+2,Borivali,2.80,29474.0,950.0,10+,Semi-Furnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+1,others,0.75,8824.0,850.0,7,Furnished,East,available,2,,Main Road,Mumbai
+3,Mira Road,1.70,17895.0,950.0,4,Semi-Furnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+1,Goregaon,0.935,22000.0,425.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+1,Mulund,1.04,21488.0,484.0,1,Semi-Furnished,,May be not,1,,Main Road,Mumbai
+1,others,1.20,24000.0,500.0,1,Unfurnished,,available,1,,,Mumbai
+2,others,1.70,25298.0,672.0,10+,Unfurnished,South - East,May be not,2,,Main Road,Mumbai
+1,others,1.32,31807.0,415.0,4,Furnished,East,May be not,1,,Main Road,Mumbai
+1,others,1.15,23000.0,500.0,5,Semi-Furnished,East,available,2,1,Main Road,Mumbai
+2,others,1.40,14000.0,1000.0,0,Semi-Furnished,West,May be not,2,,Main Road,Mumbai
+1,others,0.42,7636.0,550.0,2,Unfurnished,East,available,1,3,"Garden/Park, Pool, Main Road",Mumbai
+2,Santacruz,1.55,21498.0,721.0,1,Semi-Furnished,East,available,2,,,Mumbai
+1,Andheri,1.30,22414.0,580.0,4,Unfurnished,East,available,2,,Main Road,Mumbai
+3,others,0.65,6311.0,1030.0,4,Unfurnished,West,May be not,2,2,Garden/Park,Mumbai
+1,others,0.7000000000000001,10687.0,655.0,2,Unfurnished,North,May be not,2,,Garden/Park,Mumbai
+2,others,0.7000000000000001,9409.0,744.0,10+,Semi-Furnished,North,May be not,2,1,Main Road,Mumbai
+2,Malad,1.85,21765.0,850.0,8,Unfurnished,West,May be not,2,1,Main Road,Mumbai
+1,others,1.40,21538.0,650.0,5,Semi-Furnished,West,available,2,2,Main Road,Mumbai
+3,Vile Parle,4.15,24910.0,1666.0,7,Furnished,West,May be not,3,,Main Road,Mumbai
+4,others,1.85,8409.0,2200.0,2,Unfurnished,South -West,May be not,4,2,Garden/Park,Mumbai
+2,others,2.35,27647.0,850.0,2,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+1,Andheri,1.50,20000.0,750.0,9,Unfurnished,East,available,2,2,Main Road,Mumbai
+1,others,0.35000000000000003,5738.0,610.0,,Semi-Furnished,East,May be not,1,2,Main Road,Mumbai
+2,others,1.70,18889.0,900.0,1,Unfurnished,South - East,available,2,,Main Road,Mumbai
+3,Kanjurmarg,2.45,18148.0,1350.0,10+,Unfurnished,East,May be not,3,,"Garden/Park, Pool, Main Road",Mumbai
+1,others,0.23,8042.0,286.0,4,Unfurnished,,May be not,1,,,Mumbai
+3,Chembur,3,29644.0,1012.0,10,Furnished,,May be not,3,,,Mumbai
+3,others,8.74,34960.0,2500.0,10+,Unfurnished,,May be not,4+,1,"Garden/Park, Pool",Mumbai
+3,others,3.75,22059.0,1700.0,2,Furnished,,May be not,2,3,,Mumbai
+3,Mira Road,1.95,14079.0,1385.0,7,Unfurnished,South - East,May be not,2,4,"Garden/Park, Main Road",Mumbai
+1,others,0.7000000000000001,31111.0,225.0,10+,Unfurnished,,May be not,1,,,Mumbai
+1,Kandivali,1.15,28395.0,405.0,10+,Semi-Furnished,North,May be not,2,,,Mumbai
+1,others,1.49,18395.0,810.0,4,Semi-Furnished,East,May be not,2,1,Garden/Park,Mumbai
+3,others,6,50000.0,1200.0,9,Unfurnished,East,May be not,3,1,Garden/Park,Mumbai
+2,others,2.25,27641.0,814.0,1,Unfurnished,,May be not,1,1,,Mumbai
+3,Mulund,4,30769.0,1300.0,10+,Unfurnished,East,available,4,,Main Road,Mumbai
+2,Andheri,4.20,40000.0,1050.0,10+,Unfurnished,East,May be not,2,1,"Pool, Garden/Park, Main Road",Mumbai
+2,others,0.97,8276.0,1172.0,9,Unfurnished,East,May be not,2,2,"Garden/Park, Main Road",Mumbai
+1,others,1,16667.0,600.0,10+,Semi-Furnished,West,May be not,1,,"Garden/Park, Main Road",Mumbai
+1,Wadala,1.86,19724.0,943.0,10+,Unfurnished,East,available,1,2,"Garden/Park, Pool, Main Road",Mumbai
+1,Chembur,0.66,10645.0,620.0,4,Unfurnished,North - East,May be not,1,,"Garden/Park, Main Road",Mumbai
+2,others,1.43,20464.0,699.0,4,Unfurnished,East,available,2,1,Garden/Park,Mumbai
+4+,Prabhadevi,17,42500.0,4000.0,10+,Semi-Furnished,West,available,4+,1,Main Road,Mumbai
+3,Andheri,3.60,21176.0,1700.0,2,Semi-Furnished,East,May be not,3,2,"Pool, Garden/Park, Main Road",Mumbai
+3,Chembur,5,35714.0,1400.0,6,Unfurnished,East,May be not,3,,Main Road,Mumbai
+3,Powai,3.50,35105.0,997.0,10+,Unfurnished,,May be not,2,1,Garden/Park,Mumbai
+3,Borivali,4.50,25641.0,1755.0,10+,Unfurnished,North - East,May be not,3,,"Garden/Park, Main Road",Mumbai
+2,others,1.95,35455.0,550.0,5,Semi-Furnished,North,available,2,3,Main Road,Mumbai
+3,others,1.90,19588.0,970.0,6,Unfurnished,North,available,3,1,,Mumbai
+1,others,1.10,23355.0,471.0,7,Unfurnished,East,available,2,,Main Road,Mumbai
+2,Mulund,1.35,16544.0,816.0,10+,Unfurnished,North - East,available,2,,Main Road,Mumbai
+3,Andheri,4.50,30000.0,1500.0,10,Semi-Furnished,East,available,3,1,Main Road,Mumbai
+2,others,1.80,18000.0,1000.0,7,Unfurnished,South - East,available,2,,"Garden/Park, Main Road",Mumbai
+1,others,0.8,32000.0,250.0,6,Furnished,North - West,May be not,1,,Main Road,Mumbai
+2,Wadala,3.65,40556.0,900.0,5,Furnished,North - West,May be not,3,2,Main Road,Mumbai
+4+,Goregaon,15.50,42582.0,3640.0,10+,Unfurnished,East,May be not,4+,2,"Garden/Park, Pool, Main Road",Mumbai
+2,others,1.48,18272.0,810.0,7,Unfurnished,East,available,2,,Main Road,Mumbai
+1,others,0.46,14286.0,322.0,10+,Unfurnished,,available,1,,Main Road,Mumbai
+2,others,1.55,17222.0,900.0,2,Unfurnished,East,available,2,,Garden/Park,Mumbai
+1,Borivali,0.86,27302.0,315.0,6,Unfurnished,North,available,1,,Garden/Park,Mumbai
+3,others,13,59091.0,2200.0,4,Furnished,West,May be not,4,1,Garden/Park,Mumbai
+2,Chembur,2.20,29333.0,750.0,9,Unfurnished,East,available,2,3,"Garden/Park, Main Road",Mumbai
+3,others,6.50,36111.0,1800.0,10+,Unfurnished,West,available,3,3,"Garden/Park, Pool, Main Road",Mumbai
+2,others,1.55,14762.0,1050.0,9,Semi-Furnished,East,available,2,,Garden/Park,Mumbai
+2,Andheri,2.50,26042.0,960.0,10,Unfurnished,East,available,2,,Main Road,Mumbai
+3,others,7.50,48387.0,1550.0,10+,Unfurnished,East,May be not,4,4,Main Road,Mumbai
+2,others,1.65,27500.0,600.0,9,Semi-Furnished,,May be not,2,,,Mumbai
+3,others,1.52,9993.0,1521.0,10+,Unfurnished,East,available,3,4+,Main Road,Mumbai
+1,Virar,0.35000000000000003,5385.0,650.0,,Unfurnished,East,available,2,2,"Garden/Park, Main Road",Mumbai
+2,others,0.9500000000000001,11995.0,792.0,4,Semi-Furnished,West,May be not,2,2,"Garden/Park, Pool",Mumbai
+4,others,3.50,21538.0,1625.0,2,Unfurnished,East,available,4,,Main Road,Mumbai
+2,Santacruz,3,37500.0,800.0,10,Unfurnished,,May be not,2,2,,Mumbai
+1,Kandivali,0.5700000000000001,14250.0,400.0,5,Furnished,East,May be not,2,,Garden/Park,Mumbai
+3,Andheri,4.75,32759.0,1450.0,5,Unfurnished,East,May be not,3,,Garden/Park,Mumbai
+2,others,2.25,22500.0,1000.0,3,Semi-Furnished,North - East,May be not,2,1,Main Road,Mumbai
+2,others,1.75,20588.0,850.0,3,Unfurnished,East,available,2,1,,Mumbai
+2,others,4,42105.0,950.0,2,Furnished,East,available,2,,Main Road,Mumbai
+2,Andheri,3,30000.0,1000.0,3,Semi-Furnished,North,available,2,2,Main Road,Mumbai
+3,Vile Parle,3.75,28846.0,1300.0,3,Semi-Furnished,East,available,3,,Main Road,Mumbai
+2,Mulund,2.50,19231.0,1300.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+3,Andheri,7,30973.0,2260.0,10,Unfurnished,East,May be not,3,1,"Garden/Park, Pool",Mumbai
+2,Borivali,1.28,23486.0,545.0,10,Unfurnished,East,May be not,2,,Main Road,Mumbai
+2,Malad,2.25,15000.0,1500.0,10+,Unfurnished,East,May be not,2,2,"Pool, Garden/Park",Mumbai
+2,Malad,2.05,17826.0,1150.0,10+,Unfurnished,East,available,2,2,,Mumbai
+1,others,1.20,29777.0,403.0,9,Semi-Furnished,East,May be not,2,,Main Road,Mumbai
+1,Kanjurmarg,0.86,13231.0,650.0,10+,Semi-Furnished,East,available,2,,Main Road,Mumbai
+2,others,1.25,16234.0,770.0,2,Unfurnished,South,May be not,2,2,Main Road,Mumbai
+4,Borivali,5.98,32324.0,1850.0,10+,Unfurnished,East,May be not,4,1,Garden/Park,Mumbai
+3,others,2.55,21250.0,1200.0,10+,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+3,others,2.80,26415.0,1060.0,,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+1,others,2,40000.0,500.0,3,Semi-Furnished,West,May be not,2,1,Main Road,Mumbai
+2,Kandivali,1.50,18750.0,800.0,10+,Semi-Furnished,East,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+3,Borivali,2.25,22500.0,1000.0,5,Unfurnished,East,available,3,,Main Road,Mumbai
+2,Chembur,1.85,20330.0,910.0,10,Unfurnished,East,available,2,,Main Road,Mumbai
+1,Borivali,0.97,17636.0,550.0,4,Unfurnished,East,May be not,2,2,"Garden/Park, Main Road",Mumbai
+2,Kandivali,1.45,17059.0,850.0,10,Unfurnished,East,available,2,1,Garden/Park,Mumbai
+1,Powai,1.65,26400.0,625.0,10+,Semi-Furnished,East,available,2,,Main Road,Mumbai
+1,others,0.42,10500.0,400.0,3,Semi-Furnished,East,May be not,1,,,Mumbai
+2,Vile Parle,3.10,45926.0,675.0,10,Semi-Furnished,,May be not,2,,,Mumbai
+3,others,5.51,54717.0,1007.0,10+,Unfurnished,East,available,4,1,Main Road,Mumbai
+2,Kandivali,2.10,20388.0,1030.0,5,Unfurnished,East,May be not,2,2,Garden/Park,Mumbai
+3,others,6.21,29073.0,2136.0,10+,Unfurnished,East,available,3,,Main Road,Mumbai
+4,others,27,77143.0,3500.0,10+,Semi-Furnished,South - East,available,4+,1,,Mumbai
+2,others,1.67,16700.0,1000.0,10+,Unfurnished,South - East,available,2,,Garden/Park,Mumbai
+2,Andheri,3.30,24444.0,1350.0,9,Semi-Furnished,East,available,2,3,Garden/Park,Mumbai
+4,Malad,6.50,26860.0,2420.0,10+,Semi-Furnished,East,May be not,4,4+,"Garden/Park, Pool, Main Road",Mumbai
+3,Andheri,4.25,29310.0,1450.0,10+,Furnished,East,available,3,2,"Garden/Park, Pool, Main Road",Mumbai
+2,Mira Road,0.9309999999999999,9500.0,980.0,2,Unfurnished,North,May be not,2,4,Garden/Park,Mumbai
+2,others,3.29,48958.0,672.0,10+,Unfurnished,East,available,2,,Garden/Park,Mumbai
+2,others,2.30,19167.0,1200.0,10+,Unfurnished,North,available,2,,"Garden/Park, Pool, Main Road",Mumbai
+4,Powai,8.50,24286.0,3500.0,10+,Semi-Furnished,East,May be not,4+,3,"Garden/Park, Main Road",Mumbai
+1,others,2,30769.0,650.0,10+,Unfurnished,East,May be not,2,,"Garden/Park, Pool",Mumbai
+3,Wadala,3.86,40083.0,963.0,10,Semi-Furnished,East,available,3,3,"Garden/Park, Pool, Main Road",Mumbai
+3,others,2.65,16562.0,1600.0,10,Unfurnished,North,May be not,3,1,Garden/Park,Mumbai
+4+,Bandra,22,74576.0,2950.0,10+,Semi-Furnished,East,May be not,4+,,"Garden/Park, Main Road",Mumbai
+4,Prabhadevi,14,65116.0,2150.0,10+,Semi-Furnished,North - East,available,4,,Main Road,Mumbai
+1,others,0.68,10462.0,650.0,10+,Unfurnished,East,May be not,2,3,"Garden/Park, Pool, Main Road",Mumbai
+1,Prabhadevi,0.8200000000000001,32800.0,250.0,2,Semi-Furnished,East,May be not,1,,Main Road,Mumbai
+2,Andheri,3,27273.0,1100.0,1,Furnished,East,May be not,2,,Main Road,Mumbai
+2,Mulund,1.75,21605.0,810.0,10+,Unfurnished,East,May be not,2,1,"Garden/Park, Pool, Main Road",Mumbai
+3,Mulund,2.78,23660.0,1175.0,10+,Unfurnished,East,available,3,3,"Garden/Park, Main Road",Mumbai
+2,others,2.62,42000.0,624.0,10,Unfurnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+1,others,0.5,14286.0,350.0,10,Semi-Furnished,West,May be not,1,,Main Road,Mumbai
+1,Ghatkopar,1,15385.0,650.0,4,Semi-Furnished,East,May be not,2,3,Garden/Park,Mumbai
+2,others,1.10,18966.0,580.0,7,Furnished,East,May be not,2,,Main Road,Mumbai
+2,Andheri,2.80,32941.0,850.0,9,Unfurnished,East,May be not,2,1,"Garden/Park, Pool, Main Road",Mumbai
+2,others,1.18,11238.0,1050.0,10+,Unfurnished,North,available,2,4,"Garden/Park, Pool, Main Road",Mumbai
+2,Mira Road,0.72,8000.0,900.0,10+,Unfurnished,East,May be not,2,3,"Garden/Park, Main Road",Mumbai
+3,others,5,41667.0,1200.0,4,Furnished,East,available,3,,Main Road,Mumbai
+2,others,0.74,10574.0,700.0,2,Unfurnished,East,May be not,1,2,Main Road,Mumbai
+3,others,7.90,60769.0,1300.0,6,Semi-Furnished,East,May be not,3,1,Main Road,Mumbai
+1,others,0.9,20000.0,450.0,8,Semi-Furnished,,May be not,2,1,,Mumbai
+1,others,0.5700000000000001,11875.0,480.0,10+,Unfurnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+2,Andheri,1.90,18095.0,1050.0,8,Unfurnished,East,available,2,1,Garden/Park,Mumbai
+2,others,1.47,18375.0,800.0,4,Furnished,North - East,May be not,2,,Main Road,Mumbai
+2,others,1.45,17059.0,850.0,4,Semi-Furnished,South -West,available,2,,Main Road,Mumbai
+3,others,4.49,40818.0,1100.0,10+,Semi-Furnished,East,available,3,2,Garden/Park,Mumbai
+3,Andheri,2.51,25744.0,975.0,1,Furnished,East,available,2,2,Main Road,Mumbai
+2,Mulund,1.75,16572.0,1056.0,10+,Unfurnished,,May be not,2,,"Garden/Park, Main Road",Mumbai
+2,others,2.48,19840.0,1250.0,10+,Semi-Furnished,East,available,2,2,Garden/Park,Mumbai
+1,Ghatkopar,1,24390.0,410.0,10+,Semi-Furnished,East,May be not,2,2,"Garden/Park, Main Road",Mumbai
+3,Kandivali,1.85,18500.0,1000.0,,Semi-Furnished,South,available,3,,Main Road,Mumbai
+3,Goregaon,5.20,27719.0,1876.0,10+,Furnished,East,available,3,1,"Garden/Park, Main Road",Mumbai
+1,others,0.75,25000.0,300.0,0,Semi-Furnished,East,May be not,1,,Main Road,Mumbai
+1,others,0.87,18913.0,460.0,1,Furnished,North,available,1,,,Mumbai
+2,Andheri,2.90,25939.0,1118.0,9,Unfurnished,East,available,2,4,"Pool, Main Road",Mumbai
+2,Virar,0.395,4247.0,930.0,10,Unfurnished,East,May be not,2,2,"Garden/Park, Main Road",Mumbai
+2,Malad,0.88,11000.0,800.0,2,Unfurnished,North,May be not,2,1,Garden/Park,Mumbai
+2,Borivali,1.85,23125.0,800.0,5,Semi-Furnished,East,May be not,2,,Main Road,Mumbai
+1,others,1,18519.0,540.0,8,Semi-Furnished,North,May be not,1,1,"Pool, Garden/Park, Main Road",Mumbai
+1,Virar,0.24,4364.0,550.0,1,Unfurnished,East,available,1,3,Main Road,Mumbai
+1,Ghatkopar,1,21882.0,457.0,10,Semi-Furnished,,May be not,2,1,"Garden/Park, Main Road",Mumbai
+2,Bandra,2.70,29412.0,918.0,1,Unfurnished,East,May be not,2,1,Garden/Park,Mumbai
+4,Santacruz,10,41667.0,2400.0,6,Semi-Furnished,East,available,4,4,Main Road,Mumbai
+1,others,1.09,19818.0,550.0,9,Unfurnished,East,May be not,2,,Garden/Park,Mumbai
+4+,others,12,50000.0,2400.0,9,Semi-Furnished,West,available,4,,Main Road,Mumbai
+2,Malad,1.80,18750.0,960.0,4,Unfurnished,West,May be not,2,,Garden/Park,Mumbai
+2,others,0.59,10172.0,580.0,1,Unfurnished,East,May be not,2,4,"Garden/Park, Pool, Main Road",Mumbai
+3,Virar,0.8250000000000001,9016.0,915.0,10,Unfurnished,East,available,3,2,Garden/Park,Mumbai
+2,Malad,2.30,20000.0,1150.0,9,Unfurnished,East,May be not,2,,Garden/Park,Mumbai
+1,others,0.75,13465.0,557.0,10,Unfurnished,,May be not,1,3,,Mumbai
+1,Ghatkopar,0.9,18367.0,490.0,8,Unfurnished,North - West,available,2,,Garden/Park,Mumbai
+3,others,10.44,78202.0,1335.0,10+,Semi-Furnished,East,available,4,,"Garden/Park, Main Road",Mumbai
+2,Bandra,4.25,42500.0,1000.0,7,Semi-Furnished,,May be not,2,2,,Mumbai
+2,others,0.58,7117.0,815.0,3,Semi-Furnished,East,May be not,2,,Garden/Park,Mumbai
+1,Bhandup,1.10,17600.0,625.0,10+,Semi-Furnished,,May be not,2,2,,Mumbai
+2,Bhandup,1.40,25926.0,540.0,9,Unfurnished,East,May be not,2,,,Mumbai
+2,Virar,0.8,8421.0,950.0,8,Semi-Furnished,East,available,2,2,"Garden/Park, Pool, Main Road",Mumbai
+1,others,1.15,20721.0,555.0,4,Semi-Furnished,,May be not,1,,,Mumbai
+1,others,0.35000000000000003,15909.0,220.0,0,Unfurnished,,May be not,1,,,Mumbai
+1,Borivali,1.25,25000.0,500.0,5,Unfurnished,,May be not,1,,,Mumbai
+1,Malad,0.27,9000.0,300.0,0,Semi-Furnished,,May be not,1,,,Mumbai
+1,Virar,0.15,5000.0,300.0,0,Unfurnished,,May be not,1,,Garden/Park,Mumbai
+2,Kandivali,2.25,17308.0,1300.0,10+,Unfurnished,North - East,May be not,2,,"Garden/Park, Main Road",Mumbai
+2,others,1,17241.0,580.0,2,Unfurnished,East,May be not,1,,,Mumbai
+2,Santacruz,4,44444.0,900.0,0,Furnished,South,available,3,,Main Road,Mumbai
+1,others,1.70,34000.0,500.0,1,,,May be not,1,,,Mumbai
+2,Bhandup,1.10,20110.0,547.0,3,Semi-Furnished,,May be not,2,,Garden/Park,Mumbai
+3,Andheri,2.76,25964.0,1063.0,,Unfurnished,,available,3,,,Mumbai
+1,Vile Parle,1.99,43261.0,460.0,,Unfurnished,,available,1,,,Mumbai
+4,Bandra,22,64973.0,3386.0,,Unfurnished,,available,4,,,Mumbai
+4,others,20.60,57694.0,3571.0,,Unfurnished,,May be not,4,,,Mumbai
+2,others,1.35,7550.0,1788.0,,Unfurnished,,available,2,,,Mumbai
+2,Mulund,1.49,25823.0,577.0,,Unfurnished,,available,2,,,Mumbai
+1,Virar,0.16,2462.0,650.0,2,Semi-Furnished,North,available,2,,Main Road,Mumbai
+1,others,0.8890000000000001,20771.0,428.0,,Unfurnished,,May be not,2,,,Mumbai
+1,Malad,0.547,21706.0,252.0,,Semi-Furnished,,May be not,1,,,Mumbai
+1,Ghatkopar,0.9500000000000001,14571.0,652.0,4,Furnished,East,May be not,1,,Main Road,Mumbai
+2,Goregaon,1.71,29585.0,578.0,8,Unfurnished,,available,2,,,Mumbai
+1,Andheri,1,22624.0,442.0,10,Furnished,East,available,1,,"Pool, Main Road",Mumbai
+2,others,0.45,5000.0,900.0,7,Unfurnished,East,available,2,4,"Garden/Park, Main Road",Mumbai
+1,Kandivali,0.7000000000000001,20000.0,350.0,3,Furnished,North - East,May be not,1,,Garden/Park,Mumbai
+2,Malad,1.10,14550.0,756.0,2,Semi-Furnished,,May be not,1,,,Mumbai
+1,others,1.10,18644.0,590.0,4,Unfurnished,East,May be not,1,,Garden/Park,Mumbai
+1,others,0.47000000000000003,6714.0,700.0,10,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+1,others,0.65,10000.0,650.0,1,Semi-Furnished,West,available,2,,Main Road,Mumbai
+1,Virar,0.42,5600.0,750.0,4,Semi-Furnished,East,available,2,,Main Road,Mumbai
+1,Kanjurmarg,1.15,27316.0,421.0,4,Furnished,East,May be not,1,,Main Road,Mumbai
+1,others,0.46,19167.0,240.0,2,Semi-Furnished,,May be not,1,,,Mumbai
+1,Ghatkopar,1.10,22000.0,500.0,1,Unfurnished,East,May be not,2,1,Main Road,Mumbai
+2,Mulund,2,23529.0,850.0,5,Semi-Furnished,,May be not,2,,,Mumbai
+2,others,3.51,40345.0,870.0,3,Furnished,,May be not,2,,Main Road,Mumbai
+2,Bandra,7.50,50000.0,1500.0,3,Furnished,,May be not,2,,,Mumbai
+3,Mulund,2.40,23529.0,1020.0,10,Semi-Furnished,,May be not,3,,,Mumbai
+1,others,0.85,25758.0,330.0,2,Furnished,,May be not,1,,,Mumbai
+1,others,1,22222.0,450.0,2,Furnished,West,May be not,1,,Garden/Park,Mumbai
+3,Borivali,2.35,29747.0,790.0,5,Furnished,,May be not,3,,,Mumbai
+1,others,0.21,9130.0,230.0,0,Unfurnished,,May be not,1,,,Mumbai
+1,Bhandup,0.72,13091.0,550.0,2,Unfurnished,,May be not,1,,,Mumbai
+1,others,0.6,17143.0,350.0,2,Semi-Furnished,,May be not,1,,,Mumbai
+1,others,0.23,6571.0,350.0,3,Unfurnished,,May be not,1,,,Mumbai
+1,others,0.9500000000000001,18269.0,520.0,6,Furnished,West,May be not,2,,Main Road,Mumbai
+3,Bhandup,1.92,23558.0,815.0,10+,Unfurnished,West,May be not,3,,Main Road,Mumbai
+3,others,0.75,6383.0,1175.0,2,Furnished,East,available,2,3,"Garden/Park, Main Road",Mumbai
+2,others,2.35,19583.0,1200.0,6,Furnished,North,May be not,2,,,Mumbai
+2,others,1.85,20647.0,896.0,6,Semi-Furnished,,May be not,2,,,Mumbai
+2,others,2.80,29474.0,950.0,1,Semi-Furnished,North - West,May be not,2,,,Mumbai
+1,Goregaon,1.10,22869.0,481.0,1,Furnished,,May be not,1,,,Mumbai
+1,others,0.7000000000000001,11966.0,585.0,3,Furnished,,May be not,1,1,"Garden/Park, Main Road",Mumbai
+2,Santacruz,2,23529.0,850.0,3,Furnished,North - West,May be not,2,1,,Mumbai
+2,Andheri,4.50,35714.0,1260.0,1,Furnished,East,available,2,1,,Mumbai
+2,others,0.54,7200.0,750.0,3,Semi-Furnished,,May be not,2,,,Mumbai
+1,Malad,0.9500000000000001,19000.0,500.0,7,Semi-Furnished,,May be not,1,,,Mumbai
+1,Borivali,1.35,16812.0,803.0,7,Unfurnished,,May be not,2,3,,Mumbai
+1,Vile Parle,0.75,23077.0,325.0,3,Unfurnished,North,May be not,1,,Main Road,Mumbai
+1,others,1.65,39759.0,415.0,10+,Semi-Furnished,,May be not,1,,,Mumbai
+1,others,1.30,40625.0,320.0,5,Furnished,,May be not,1,,,Mumbai
+3,Mulund,2.75,22449.0,1225.0,7,Semi-Furnished,South - East,May be not,3,1,"Garden/Park, Pool, Main Road",Mumbai
+2,Mulund,3.01,38590.0,780.0,1,,,May be not,2,,Garden/Park,Mumbai
+2,Chembur,1.50,24311.0,617.0,3,Unfurnished,,May be not,2,,,Mumbai
+2,others,0.42,5793.0,725.0,0,Semi-Furnished,,May be not,2,,,Mumbai
+1,others,0.2,7273.0,275.0,2,Semi-Furnished,,May be not,1,1,,Mumbai
+1,others,1.65,20625.0,800.0,5,Furnished,South - East,available,2,1,,Mumbai
+4,Vile Parle,4.50,37500.0,1200.0,9,Semi-Furnished,,May be not,3,,,Mumbai
+4,others,9.75,50000.0,1950.0,5,Unfurnished,West,available,4+,4,,Mumbai
+2,others,4.10,46067.0,890.0,10+,Unfurnished,North - East,May be not,2,3,Main Road,Mumbai
+1,others,0.8,20830.0,384.0,10+,Unfurnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+1,others,0.1,3390.0,295.0,4,Unfurnished,East,May be not,1,,Main Road,Mumbai
+2,Kandivali,1.85,23657.0,782.0,3,Unfurnished,East,May be not,2,1,Pool,Mumbai
+1,others,0.24,12000.0,200.0,0,Unfurnished,West,May be not,1,,,Mumbai
+2,others,3.65,26071.0,1400.0,10+,Semi-Furnished,North - East,available,2,,,Mumbai
+2,others,3.50,35000.0,1000.0,3,Furnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+2,others,0.9,7500.0,1200.0,2,Furnished,East,May be not,2,,Main Road,Mumbai
+4,others,3.50,25000.0,1400.0,3,Unfurnished,East,available,3,,Main Road,Mumbai
+4+,others,29,105455.0,2750.0,1,Semi-Furnished,East,available,4+,,"Garden/Park, Pool, Main Road",Mumbai
+1,Andheri,1.10,21912.0,502.0,2,Unfurnished,East,May be not,1,1,Main Road,Mumbai
+1,others,2.35,34815.0,675.0,6,Furnished,,May be not,1,2,Main Road,Mumbai
+1,Kandivali,0.73,21856.0,334.0,10+,Semi-Furnished,,May be not,2,,,Mumbai
+2,others,0.4,4444.0,900.0,2,Semi-Furnished,North - East,May be not,2,2,"Garden/Park, Main Road",Mumbai
+1,others,0.5,11111.0,450.0,3,Furnished,,May be not,1,,,Mumbai
+2,others,2.50,21739.0,1150.0,3,Furnished,East,May be not,2,,Main Road,Mumbai
+1,Borivali,0.8,24615.0,325.0,1,Furnished,,May be not,1,,,Mumbai
+2,others,1.50,15789.0,950.0,2,Semi-Furnished,,May be not,2,2,,Mumbai
+1,Virar,0.17500000000000002,3571.0,490.0,3,Unfurnished,,May be not,1,,,Mumbai
+1,others,0.75,20492.0,366.0,1,Unfurnished,,May be not,1,,,Mumbai
+2,others,0.9500000000000001,11176.0,850.0,1,Semi-Furnished,,May be not,2,,,Mumbai
+3,others,4.50,47872.0,940.0,1,Furnished,,May be not,3,,,Mumbai
+2,others,1.20,10959.0,1095.0,8,Furnished,East,available,2,4+,Main Road,Mumbai
+1,Virar,0.32,9143.0,350.0,2,Unfurnished,North - West,May be not,1,,Main Road,Mumbai
+2,others,0.9,12000.0,750.0,1,Semi-Furnished,West,available,1,,Garden/Park,Mumbai
+2,others,0.92,12778.0,720.0,2,Unfurnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+1,Malad,0.28500000000000003,9664.0,295.0,6,Semi-Furnished,,May be not,2,,Main Road,Mumbai
+2,others,1.50,26316.0,570.0,6,Unfurnished,,May be not,2,,,Mumbai
+1,others,0.91,17913.0,508.0,10+,Unfurnished,,May be not,1,,Main Road,Mumbai
+1,others,0.8,26667.0,300.0,3,Semi-Furnished,East,May be not,,1,Main Road,Mumbai
+2,Mira Road,1,10320.0,969.0,10+,Unfurnished,East,May be not,2,1,"Garden/Park, Pool",Mumbai
+2,others,0.32,5594.0,572.0,5,Semi-Furnished,,available,2,2,,Mumbai
+1,others,1.21,25636.0,472.0,5,Furnished,East,available,2,,,Mumbai
+2,others,1.50,18750.0,800.0,6,Semi-Furnished,,May be not,2,3,,Mumbai
+1,Kanjurmarg,0.99,23515.0,421.0,6,Furnished,,May be not,1,,,Mumbai
+2,Kandivali,2,22222.0,900.0,1,Furnished,,May be not,2,,Garden/Park,Mumbai
+1,Virar,0.12,4000.0,300.0,3,Unfurnished,South - East,May be not,1,,Main Road,Mumbai
+2,others,2.30,20536.0,1120.0,5,Semi-Furnished,,May be not,2,,,Mumbai
+2,Virar,0.5,9488.0,527.0,3,Unfurnished,East,May be not,2,2,"Garden/Park, Main Road",Mumbai
+2,Mira Road,1.29,21322.0,605.0,6,Unfurnished,,May be not,2,,,Mumbai
+1,others,0.55,13750.0,400.0,5,Furnished,East,available,1,2,Main Road,Mumbai
+2,others,4.15,40607.0,1022.0,3,Unfurnished,,May be not,2,1,Main Road,Mumbai
+1,others,0.8,16000.0,500.0,4,Semi-Furnished,,May be not,1,,,Mumbai
+2,Kandivali,1.30,21595.0,602.0,10+,Unfurnished,,May be not,2,1,"Garden/Park, Pool, Main Road",Mumbai
+1,others,1.30,21667.0,600.0,7,Unfurnished,North,May be not,2,1,"Pool, Garden/Park, Main Road",Mumbai
+1,others,0.315,5385.0,585.0,5,Semi-Furnished,,May be not,1,3,,Mumbai
+3,others,2.85,29082.0,980.0,10+,Unfurnished,East,available,3,,Main Road,Mumbai
+1,others,0.3,7229.0,415.0,2,Unfurnished,,May be not,1,1,,Mumbai
+2,others,0.67,12182.0,550.0,0,Semi-Furnished,,May be not,1,,,Mumbai
+2,others,0.75,9375.0,800.0,2,Semi-Furnished,East,May be not,2,,Main Road,Mumbai
+1,others,0.24,5783.0,415.0,3,Unfurnished,,May be not,1,,,Mumbai
+1,others,1.20,26667.0,450.0,3,Unfurnished,,May be not,1,,,Mumbai
+3,others,5,38462.0,1300.0,3,Semi-Furnished,,May be not,3,,,Mumbai
+2,others,1.40,14737.0,950.0,10+,Unfurnished,East,May be not,2,2,"Garden/Park, Pool, Main Road",Mumbai
+1,Powai,1.10,23158.0,475.0,1,Unfurnished,,available,2,,,Mumbai
+2,Andheri,1.75,39773.0,440.0,10+,Unfurnished,,May be not,2,1,,Mumbai
+2,others,22,244444.0,900.0,2,Unfurnished,,May be not,2,,,Mumbai
+1,others,0.21,5316.0,395.0,4,Unfurnished,East,May be not,1,,Garden/Park,Mumbai
+1,others,1.10,27500.0,400.0,2,Unfurnished,West,May be not,1,,Main Road,Mumbai
+1,others,0.24,4660.0,515.0,0,Unfurnished,East,May be not,1,,,Mumbai
+2,others,0.65,11818.0,550.0,5,Unfurnished,,May be not,2,,,Mumbai
+3,Santacruz,4.20,23333.0,1800.0,1,Furnished,,May be not,3,,,Mumbai
+4,others,1.99,10102.0,1970.0,2,Semi-Furnished,,May be not,2,3,,Mumbai
+3,Malad,3.80,23750.0,1600.0,10+,Unfurnished,,May be not,3,,,Mumbai
+1,Virar,0.305,5000.0,610.0,7,Semi-Furnished,South -West,May be not,2,,Main Road,Mumbai
+1,others,0.81,16200.0,500.0,1,Furnished,South,May be not,1,,,Mumbai
+1,others,1.05,23864.0,440.0,5,Furnished,,May be not,1,,,Mumbai
+2,Borivali,2.20,26829.0,820.0,3,Furnished,East,May be not,2,,Main Road,Mumbai
+1,others,0.46,13143.0,350.0,7,Unfurnished,South -West,May be not,1,,Garden/Park,Mumbai
+1,Malad,0.9,19523.0,461.0,5,Unfurnished,,May be not,1,,,Mumbai
+3,Malad,5.70,31097.0,1833.0,10+,Semi-Furnished,East,May be not,4,4+,,Mumbai
+2,Andheri,1.95,25064.0,778.0,1,Furnished,,May be not,2,,,Mumbai
+1,others,0.35000000000000003,10479.0,334.0,10,Unfurnished,,May be not,1,,,Mumbai
+1,Mulund,1.05,20000.0,525.0,2,Semi-Furnished,West,May be not,1,,Main Road,Mumbai
+1,others,1.65,47143.0,350.0,4,Semi-Furnished,,May be not,1,,,Mumbai
+1,others,0.35000000000000003,6364.0,550.0,0,Unfurnished,East,May be not,1,,,Mumbai
+1,others,0.4,6154.0,650.0,6,Unfurnished,West,May be not,1,2,,Mumbai
+1,others,0.14,3043.0,460.0,5,Semi-Furnished,East,May be not,1,1,,Mumbai
+1,others,0.49,11529.0,425.0,10+,Unfurnished,North,May be not,2,3,"Garden/Park, Pool, Main Road",Mumbai
+2,others,3.10,30754.0,1008.0,2,Furnished,,May be not,1,,,Mumbai
+3,Virar,0.88,7652.0,1150.0,2,Semi-Furnished,East,available,3,4,"Garden/Park, Pool, Main Road",Mumbai
+2,others,0.5,7576.0,660.0,2,Unfurnished,,May be not,1,,,Mumbai
+1,others,0.43,12647.0,340.0,7,Semi-Furnished,East,May be not,1,1,Main Road,Mumbai
+1,Virar,0.17,5667.0,300.0,4,Unfurnished,,May be not,1,,,Mumbai
+2,others,4.21,63118.0,667.0,3,Unfurnished,East,May be not,2,,Main Road,Mumbai
+3,Andheri,2.80,19580.0,1430.0,3,Unfurnished,,May be not,3,,,Mumbai
+1,Virar,0.35000000000000003,8333.0,420.0,6,Furnished,,May be not,1,,,Mumbai
+1,others,0.17,7727.0,220.0,2,,,May be not,1,,,Mumbai
+1,Vile Parle,1.25,27778.0,450.0,5,Unfurnished,,May be not,1,,,Mumbai
+1,others,1.75,25735.0,680.0,3,Semi-Furnished,West,May be not,2,,Garden/Park,Mumbai
+1,others,0.65,26000.0,250.0,3,Furnished,,May be not,1,,,Mumbai
+1,Vile Parle,1,20000.0,500.0,2,Furnished,,May be not,1,,,Mumbai
+2,others,0.48,5811.0,826.0,8,Furnished,,May be not,2,,,Mumbai
+1,Malad,0.9,14634.0,615.0,5,Unfurnished,South - East,May be not,2,,Main Road,Mumbai
+1,others,1.60,25357.0,631.0,1,Semi-Furnished,,May be not,1,1,,Mumbai
+1,others,0.7000000000000001,9333.0,750.0,1,Unfurnished,,May be not,1,1,,Mumbai
+1,Andheri,0.55,13415.0,410.0,10+,Unfurnished,,May be not,1,,,Mumbai
+1,others,2.50,35714.0,700.0,4,Unfurnished,East,available,1,,Main Road,Mumbai
+1,others,0.6900000000000001,23000.0,300.0,7,Unfurnished,,May be not,1,,,Mumbai
+1,others,0.6,16304.0,368.0,0,Semi-Furnished,,available,1,,,Mumbai
+1,others,1.55,22143.0,700.0,0,Semi-Furnished,South,May be not,1,,,Mumbai
+1,Virar,0.44,6769.0,650.0,5,Semi-Furnished,,May be not,2,3,,Mumbai
+1,Bandra,2.90,38667.0,750.0,1,Unfurnished,East,May be not,1,,Main Road,Mumbai
+1,Bhandup,0.9,15254.0,590.0,2,Semi-Furnished,,May be not,1,1,,Mumbai
+1,Mira Road,0.48,9412.0,510.0,4,Unfurnished,,May be not,1,,,Mumbai
+1,others,1,25000.0,400.0,3,Unfurnished,North,May be not,2,2,,Mumbai
+2,others,0.45,4592.0,980.0,1,Semi-Furnished,,May be not,2,2,,Mumbai
+2,others,0.42,4000.0,1050.0,3,Furnished,,May be not,2,3,,Mumbai
+2,others,0.41000000000000003,4457.0,920.0,1,Semi-Furnished,East,May be not,2,3,,Mumbai
+1,others,0.54,24000.0,225.0,1,Semi-Furnished,North,May be not,1,,Main Road,Mumbai
+2,others,1.05,11111.0,945.0,3,Semi-Furnished,East,available,2,3,,Mumbai
+2,others,1.30,14773.0,880.0,5,Unfurnished,West,May be not,2,,,Mumbai
+1,Ghatkopar,1.05,24419.0,430.0,0,Furnished,East,available,2,,,Mumbai
+2,others,2,11765.0,1700.0,7,Furnished,,May be not,2,,,Mumbai
+2,Borivali,1.75,19444.0,900.0,7,Furnished,,May be not,2,,,Mumbai
+1,others,0.48,9108.0,527.0,10,Unfurnished,,May be not,2,3,,Mumbai
+2,others,0.43,5972.0,720.0,3,Unfurnished,East,May be not,1,,Main Road,Mumbai
+2,others,2.20,36667.0,600.0,2,Semi-Furnished,,May be not,2,,,Mumbai
+1,Kandivali,0.9,18000.0,500.0,,Unfurnished,North - East,available,2,1,Garden/Park,Mumbai
+1,Kandivali,1.40,21053.0,665.0,3,Unfurnished,East,May be not,2,2,,Mumbai
+1,Mulund,1.30,31707.0,410.0,4,Unfurnished,,May be not,2,,Main Road,Mumbai
+1,Virar,0.24,4800.0,500.0,4,Unfurnished,,available,2,2,"Garden/Park, Main Road",Mumbai
+1,others,0.23500000000000001,11750.0,200.0,0,Unfurnished,East,May be not,1,1,,Mumbai
+1,others,1.35,24771.0,545.0,9,Semi-Furnished,,May be not,1,,Main Road,Mumbai
+2,Virar,0.47000000000000003,6714.0,700.0,3,Unfurnished,North - East,May be not,2,,Main Road,Mumbai
+2,others,0.56,9333.0,600.0,0,Semi-Furnished,,May be not,2,2,,Mumbai
+1,others,0.255,6986.0,365.0,4,Unfurnished,,May be not,1,,,Mumbai
+1,others,0.61,18047.0,338.0,10,Unfurnished,North,May be not,1,,,Mumbai
+2,Virar,0.5,6536.0,765.0,3,Unfurnished,,May be not,2,,,Mumbai
+1,Andheri,1.35,24545.0,550.0,3,Furnished,North,available,1,,Garden/Park,Mumbai
+2,others,3.80,40426.0,940.0,10+,Semi-Furnished,,May be not,2,,,Mumbai
+1,others,0.06,3000.0,200.0,1,Unfurnished,,May be not,1,,,Mumbai
+2,others,1.28,26392.0,485.0,6,Unfurnished,,May be not,2,,,Mumbai
+1,Borivali,1.25,27778.0,450.0,6,Furnished,East,May be not,2,,Main Road,Mumbai
+2,Kanjurmarg,2,19048.0,1050.0,10+,Furnished,,May be not,2,,Main Road,Mumbai
+1,others,0.39,6000.0,650.0,2,Semi-Furnished,,May be not,1,1,,Mumbai
+1,others,1.70,25564.0,665.0,4,Furnished,East,May be not,2,,,Mumbai
+2,others,1.45,24167.0,600.0,4,Semi-Furnished,West,May be not,2,,,Mumbai
+2,Borivali,2.90,39890.0,727.0,7,Semi-Furnished,,May be not,2,,Garden/Park,Mumbai
+2,Malad,2.55,33553.0,760.0,10+,Unfurnished,East,May be not,2,,,Mumbai
+2,others,1.40,14000.0,1000.0,5,Semi-Furnished,West,May be not,2,4,Main Road,Mumbai
+2,Virar,0.65,6915.0,940.0,10,Furnished,,May be not,2,,Garden/Park,Mumbai
+2,others,4.10,32879.0,1247.0,1,Unfurnished,,May be not,2,1,Main Road,Mumbai
+2,others,2.20,28947.0,760.0,2,Furnished,,May be not,2,,,Mumbai
+3,others,2.26,24672.0,916.0,5,Unfurnished,,May be not,3,,,Mumbai
+2,others,0.68,7407.0,918.0,10+,Unfurnished,East,May be not,2,1,Main Road,Mumbai
+2,others,1.38,24643.0,560.0,9,Semi-Furnished,North,May be not,2,,,Mumbai
+1,others,0.6,10909.0,550.0,6,Unfurnished,,May be not,2,,"Garden/Park, Main Road",Mumbai
+1,others,0.96,27195.0,353.0,4,Semi-Furnished,East,available,2,,,Mumbai
+1,others,0.44,10837.0,406.0,10+,Unfurnished,,May be not,2,,,Mumbai
+2,others,1.25,21853.0,572.0,6,Semi-Furnished,,May be not,2,,,Mumbai
+2,Ghatkopar,1.35,24545.0,550.0,2,Unfurnished,East,May be not,2,,Main Road,Mumbai
+1,Wadala,2,37037.0,540.0,0,Furnished,East,available,1,1,Main Road,Mumbai
+2,others,0.45,6923.0,650.0,6,Furnished,,May be not,2,,,Mumbai
+1,others,0.6900000000000001,8364.0,825.0,4,Furnished,,May be not,1,,,Mumbai
+2,others,2,18018.0,1110.0,3,Unfurnished,,May be not,2,,Garden/Park,Mumbai
+2,others,0.65,6500.0,1000.0,0,Unfurnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+2,others,0.75,12156.0,617.0,1,Unfurnished,East,May be not,2,,Garden/Park,Mumbai
+2,others,3.50,37716.0,928.0,3,Unfurnished,South,May be not,2,2,Garden/Park,Mumbai
+1,others,0.92,26286.0,350.0,,,,May be not,,,,Mumbai
+1,others,1.35,19737.0,684.0,3,Unfurnished,West,May be not,1,,,Mumbai
+3,others,8.25,33000.0,2500.0,3,Furnished,,May be not,3,,,Mumbai
+1,Ghatkopar,0.65,17808.0,365.0,1,Unfurnished,East,May be not,1,2,Main Road,Mumbai
+1,others,0.41600000000000004,5782.0,719.0,1,Semi-Furnished,,May be not,1,3,"Garden/Park, Main Road",Mumbai
+3,Mira Road,0.985,14380.0,685.0,3,Unfurnished,South - East,May be not,2,1,Main Road,Mumbai
+1,others,1.25,20161.0,620.0,1,Semi-Furnished,East,available,1,1,,Mumbai
+2,Andheri,2.21,31571.0,700.0,5,Unfurnished,South -West,May be not,1,1,"Garden/Park, Main Road",Mumbai
+2,Kanjurmarg,2.50,19763.0,1265.0,10+,Furnished,East,available,2,1,Main Road,Mumbai
+1,others,0.9400000000000001,12617.0,745.0,10+,Unfurnished,,May be not,2,1,,Mumbai
+3,others,2.50,20833.0,1200.0,3,Semi-Furnished,East,May be not,4,2,Main Road,Mumbai
+2,others,1.52,18878.0,805.0,10+,Furnished,East,available,2,2,Garden/Park,Mumbai
+1,Bhandup,1.30,21311.0,610.0,6,Unfurnished,,May be not,1,,,Mumbai
+2,others,2.30,17692.0,1300.0,1,Semi-Furnished,East,May be not,2,,Main Road,Mumbai
+2,others,1.90,19000.0,1000.0,4,Furnished,South,May be not,2,,Main Road,Mumbai
+1,others,0.8,30303.0,264.0,1,Semi-Furnished,,May be not,1,,,Mumbai
+1,others,1.15,26498.0,434.0,10+,Furnished,East,May be not,1,2,"Garden/Park, Pool",Mumbai
+1,Virar,0.25,5263.0,475.0,0,Semi-Furnished,,May be not,1,,,Mumbai
+1,others,0.9,23438.0,384.0,6,Furnished,,May be not,2,,,Mumbai
+1,others,2.20,22798.0,965.0,10+,Furnished,,May be not,2,,,Mumbai
+2,Mira Road,0.72,11520.0,625.0,2,Semi-Furnished,East,May be not,1,1,Main Road,Mumbai
+2,others,0.425,4306.0,987.0,4,Furnished,East,available,2,1,Main Road,Mumbai
+1,others,0.37,5920.0,625.0,1,Unfurnished,,available,2,1,,Mumbai
+1,others,0.65,10433.0,623.0,4,Semi-Furnished,,May be not,1,,,Mumbai
+2,others,0.7000000000000001,7487.0,935.0,6,Furnished,East,available,2,3,Main Road,Mumbai
+2,Mulund,1.65,21290.0,775.0,5,Furnished,,May be not,2,,,Mumbai
+2,Prabhadevi,3.50,38462.0,910.0,1,Semi-Furnished,,available,2,,,Mumbai
+1,others,0.58,9915.0,585.0,5,Semi-Furnished,,May be not,1,,,Mumbai
+1,Virar,0.085,2429.0,350.0,4,Unfurnished,,May be not,1,,,Mumbai
+3,others,2.20,19383.0,1135.0,6,Semi-Furnished,,May be not,3,,,Mumbai
+1,others,0.8,22535.0,355.0,1,Unfurnished,North - West,May be not,1,,Main Road,Mumbai
+1,Kandivali,0.7000000000000001,17500.0,400.0,4,Unfurnished,,May be not,1,,,Mumbai
+1,others,0.68,11333.0,600.0,3,Furnished,East,May be not,1,1,Main Road,Mumbai
+3,others,12,60000.0,2000.0,3,Unfurnished,East,May be not,3,2,Garden/Park,Mumbai
+1,others,0.45,8738.0,515.0,3,Unfurnished,East,available,1,,Main Road,Mumbai
+1,others,0.28,5138.0,545.0,4,Unfurnished,,May be not,1,,,Mumbai
+1,Virar,0.15,4286.0,350.0,4,Unfurnished,East,May be not,1,,,Mumbai
+3,others,2.90,21481.0,1350.0,2,Furnished,,May be not,3,,,Mumbai
+1,others,1.25,31250.0,400.0,0,Unfurnished,North,May be not,1,1,,Mumbai
+2,others,0.5,6061.0,825.0,7,Furnished,South,May be not,2,,"Garden/Park, Main Road",Mumbai
+1,others,1.25,17857.0,700.0,3,Unfurnished,North - East,available,2,,Main Road,Mumbai
+2,Mulund,2.05,21809.0,940.0,10+,Furnished,,available,,,,Mumbai
+2,Kandivali,2.40,20870.0,1150.0,2,Semi-Furnished,,May be not,2,,,Mumbai
+1,others,0.25,12500.0,200.0,2,Unfurnished,,May be not,1,,,Mumbai
+2,others,2.40,24000.0,1000.0,10+,Furnished,,available,2,,,Mumbai
+1,Kandivali,0.7000000000000001,17500.0,400.0,7,Unfurnished,,May be not,1,,,Mumbai
+2,others,0.36,5760.0,625.0,7,Semi-Furnished,,May be not,2,,,Mumbai
+1,Santacruz,1.80,30303.0,594.0,0,Unfurnished,,May be not,1,,,Mumbai
+1,others,1.10,27500.0,400.0,6,Furnished,,May be not,1,,,Mumbai
+1,Wadala,1.25,36765.0,340.0,10+,Semi-Furnished,,available,1,,Garden/Park,Mumbai
+2,Virar,0.5,5263.0,950.0,7,Unfurnished,North - West,May be not,2,4,"Garden/Park, Main Road",Mumbai
+2,Chembur,2.15,21500.0,1000.0,2,Semi-Furnished,East,May be not,2,3,"Garden/Park, Main Road",Mumbai
+2,Powai,1.75,18817.0,930.0,10+,Semi-Furnished,North,available,2,1,Main Road,Mumbai
+1,others,0.27,3803.0,710.0,4,Semi-Furnished,East,available,2,2,"Garden/Park, Main Road",Mumbai
+2,Goregaon,1.75,20000.0,875.0,10+,Unfurnished,,May be not,2,1,,Mumbai
+2,Mira Road,0.7000000000000001,8178.0,856.0,2,Semi-Furnished,East,available,2,,"Garden/Park, Main Road",Mumbai
+2,Kandivali,1.70,17000.0,1000.0,2,Semi-Furnished,,available,2,,Main Road,Mumbai
+3,others,3.61,27348.0,1320.0,10+,Unfurnished,South,May be not,3,2,"Garden/Park, Pool",Mumbai
+2,Kandivali,1.75,21341.0,820.0,5,Furnished,,May be not,2,,,Mumbai
+1,others,0.21,3281.0,640.0,1,Semi-Furnished,,May be not,1,,,Mumbai
+4,Borivali,6.50,50000.0,1300.0,10+,Unfurnished,,May be not,4,,,Mumbai
+3,Vile Parle,3.50,36496.0,959.0,4,Semi-Furnished,,May be not,3,,,Mumbai
+2,Mulund,1.20,16000.0,750.0,5,Unfurnished,West,May be not,2,3,"Garden/Park, Main Road",Mumbai
+2,others,1.55,27580.0,562.0,10,,,May be not,2,,,Mumbai
+1,others,1,23810.0,420.0,1,Semi-Furnished,,May be not,1,,,Mumbai
+1,Santacruz,1.68,30545.0,550.0,1,Furnished,East,available,1,1,Main Road,Mumbai
+1,Virar,0.33,8397.0,393.0,6,Furnished,,May be not,2,,,Mumbai
+1,others,1,28571.0,350.0,4,Unfurnished,,May be not,1,,,Mumbai
+2,others,0.7000000000000001,8750.0,800.0,1,Semi-Furnished,,available,2,,,Mumbai
+1,others,0.35000000000000003,5469.0,640.0,5,Semi-Furnished,,May be not,2,,,Mumbai
+1,others,1.50,28302.0,530.0,2,Semi-Furnished,,May be not,1,,,Mumbai
+3,others,3.75,26786.0,1400.0,7,Furnished,,available,3,,,Mumbai
+1,others,0.35000000000000003,9333.0,375.0,1,Unfurnished,,May be not,1,,,Mumbai
+1,Virar,0.135,2755.0,490.0,1,Semi-Furnished,,May be not,1,,,Mumbai
+2,Chembur,1.05,16800.0,625.0,3,Semi-Furnished,East,available,1,,"Garden/Park, Main Road",Mumbai
+1,others,0.75,11538.0,650.0,4,Unfurnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+4,Andheri,4.80,22642.0,2120.0,10+,Semi-Furnished,East,available,4,3,"Garden/Park, Pool, Main Road",Mumbai
+1,Bandra,1.30,37143.0,350.0,0,Unfurnished,East,May be not,1,,Main Road,Mumbai
+1,others,2.50,41667.0,600.0,1,Semi-Furnished,West,May be not,2,,"Garden/Park, Main Road",Mumbai
+2,others,1.35,14835.0,910.0,10,Furnished,West,available,1,,"Garden/Park, Main Road",Mumbai
+2,others,1.25,22321.0,560.0,3,Furnished,East,May be not,2,1,Main Road,Mumbai
+1,others,0.32,7191.0,445.0,1,Unfurnished,West,May be not,1,,Main Road,Mumbai
+2,Ghatkopar,2.15,28667.0,750.0,10,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+2,Goregaon,2,22222.0,900.0,4,Unfurnished,South - East,May be not,2,4,Garden/Park,Mumbai
+1,Powai,0.81,20000.0,405.0,9,Semi-Furnished,West,May be not,1,,"Main Road, Garden/Park",Mumbai
+2,others,1.90,29231.0,650.0,6,Furnished,,May be not,2,,"Garden/Park, Main Road",Mumbai
+2,Vile Parle,2.75,42308.0,650.0,3,Furnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+1,Mira Road,0.63,12600.0,500.0,1,Unfurnished,,May be not,1,1,,Mumbai
+3,Borivali,2.90,19244.0,1507.0,7,Semi-Furnished,,May be not,3,,,Mumbai
+2,others,0.6,8392.0,715.0,1,Unfurnished,,May be not,2,,,Mumbai
+2,Kandivali,3.40,12143.0,2800.0,1,Semi-Furnished,North,available,3,2,Garden/Park,Mumbai
+1,Mulund,1.05,16279.0,645.0,7,Furnished,West,May be not,2,,Main Road,Mumbai
+1,Andheri,0.85,19814.0,429.0,1,Semi-Furnished,,May be not,1,,,Mumbai
+1,Andheri,1.29,29655.0,435.0,,Unfurnished,,available,2,,,Mumbai
+2,others,2.75,25114.0,1095.0,,,,May be not,,,,Mumbai
+4,Andheri,4.15,31923.0,1300.0,8,Semi-Furnished,East,May be not,2,,"Garden/Park, Main Road",Mumbai
+1,Borivali,0.66,16500.0,400.0,3,Unfurnished,,May be not,1,,,Mumbai
