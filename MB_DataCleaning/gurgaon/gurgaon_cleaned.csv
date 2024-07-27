@@ -1,4 +1,4 @@
-BHK,sector,price,price_persqft,SuperArea,Floor,Furnishing,facing,Car_Parking,Bathroom,Balcony,overlooking,city
+BHK,sector,price,price_persqft,SuperArea,floor,Furnishing,facing,Car_Parking,Bathroom,Balcony,overlooking,city
 3,Sector 71,2.19,13560,1615.0,,Unfurnished,,,3,,,Gurgaon
 3,Sector 71,2.07,12351,1676.0,,Semi-Furnished,,,3,,,Gurgaon
 3,others,2.81,15707,1789.0,,Unfurnished,,,3,3,,Gurgaon

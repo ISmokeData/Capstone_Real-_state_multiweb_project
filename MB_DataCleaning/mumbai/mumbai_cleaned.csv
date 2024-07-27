@@ -1,4 +1,4 @@
-BHK,Sector,price,price_persqft,SuperArea,Floor,Furnishing,facing,Car_Parking,Bathroom,Balcony,overlooking,city
+BHK,sector,price,price_persqft,SuperArea,floor,Furnishing,facing,Car_Parking,Bathroom,Balcony,overlooking,city
 3,Wadala,4.35,39013.0,1115.0,,Unfurnished,,May be not,3,,,Mumbai
 1,others,0.67,16792.0,399.0,,Unfurnished,,May be not,2,,,Mumbai
 2,Kandivali,2.25,20872.0,1078.0,,Unfurnished,,available,2,,,Mumbai
