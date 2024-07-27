@@ -1,0 +1,1501 @@
+BHK,sector,price,price_persqft,SuperArea,Floor,Furnishing,facing,Car_Parking,Bathroom,Balcony,overlooking,city
+3,Puppalguda,1.61,9499,1695.0,,Unfurnished,,May be not,3,,,Hydrabad
+2,Narsingi,1.36,9999,1370.0,,Unfurnished,,May be not,2,1,,Hydrabad
+3,Narsingi,2.58,9699,2660.0,,Unfurnished,,available,3,,,Hydrabad
+3,Kokapet,2.64,10000,2640.0,,Unfurnished,,May be not,3,,,Hydrabad
+3,Kompally,2.15,7300,2950.0,,Unfurnished,,available,3,,,Hydrabad
+3,Kondapur,1.54,10253,1502.0,,Unfurnished,,May be not,3,,,Hydrabad
+2,Miyapur,1.0,6799,1474.0,,Unfurnished,,May be not,2,,,Hydrabad
+2,Tellapur,1.5,9506,1578.0,,Unfurnished,,May be not,2,,,Hydrabad
+3,Kollur,1.13,6200,1835.0,,Unfurnished,,May be not,3,,,Hydrabad
+3,others,2.64,11673,2270.0,,Unfurnished,,available,3,,,Hydrabad
+3,others,1.07,6000,1796.0,,Semi-Furnished,,available,3,,,Hydrabad
+3,Narsingi,1.9,11079,1715.0,10+,Unfurnished,West,May be not,3,1,Pool,Hydrabad
+3,Kokapet,2.37,9014,2640.0,10+,Unfurnished,North,available,3,1,Garden/Park,Hydrabad
+3,Kokapet,2.44,9258,2636.0,10+,Unfurnished,East,available,3,1,Garden/Park,Hydrabad
+3,Narsingi,2.25,11139,2020.0,10+,Unfurnished,West,May be not,3,3,"Main Road, Garden/Park",Hydrabad
+2,Narsingi,1.52,11095,1370.0,10+,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,Narsingi,2.2,10891,2020.0,1,Unfurnished,East,May be not,3,1,,Hydrabad
+3,Narsingi,1.64,9600,1715.0,10+,Unfurnished,East,May be not,3,1,Garden/Park,Hydrabad
+3,Narsingi,2.93,11015,2660.0,10+,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+3,Puppalguda,1.63,9620,1694.0,10+,Unfurnished,East,available,3,1,Main Road,Hydrabad
+4,Kokapet,2.95,9049,3260.0,10+,Unfurnished,West,available,4,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,Kokapet,2.02,10000,2020.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,Kokapet,2.37,9002,2633.0,10+,Unfurnished,North,available,4,2,,Hydrabad
+3,Narsingi,2.65,11349,2335.0,10+,Unfurnished,East,May be not,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,Narsingi,2.2,10891,2020.0,10+,Unfurnished,East,available,3,2,Main Road,Hydrabad
+2,Narsingi,1.3,9489,1370.0,10+,Unfurnished,East,May be not,2,1,"Pool, Garden/Park",Hydrabad
+3,Narsingi,2.22,11000,2020.0,10+,Unfurnished,West,available,3,2,Garden/Park,Hydrabad
+2,Narsingi,1.45,10584,1370.0,4,Unfurnished,West,May be not,2,1,Main Road,Hydrabad
+3,Narsingi,2.15,10644,2020.0,10+,Unfurnished,East,May be not,3,3,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,2.3,11386,2020.0,10+,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,Narsingi,2.05,10149,2020.0,4,Unfurnished,East,available,3,1,Main Road,Hydrabad
+3,Puppalguda,1.7,10050,1695.0,10+,Unfurnished,East,available,3,1,Garden/Park,Hydrabad
+3,others,1.61,9530,1689.0,10,Unfurnished,West,available,4,2,"Garden/Park, Pool, Main Road",Hydrabad
+2,Narsingi,1.5,10949,1370.0,4,Unfurnished,East,May be not,2,1,Garden/Park,Hydrabad
+3,Narsingi,2.3,9850,2335.0,1,Semi-Furnished,West,May be not,3,1,,Hydrabad
+3,Narsingi,2.2,,2020.0,10+,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,Narsingi,2.14,9500,2253.0,10+,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,Kondapur,1.93,9897,1950.0,,Unfurnished,,May be not,3,,,Hydrabad
+3,Kondapur,1.67,9000,1857.0,,Unfurnished,,May be not,3,,,Hydrabad
+2,Kondapur,1.52,11500,1325.0,,Unfurnished,,May be not,3,2,,Hydrabad
+2,Miyapur,0.927,6899,1344.0,,Unfurnished,,May be not,2,2,,Hydrabad
+2,Kondapur,1.52,11500,1325.0,,Unfurnished,,May be not,3,2,,Hydrabad
+2,others,0.71,6200,1145.0,,Unfurnished,,May be not,2,2,,Hydrabad
+3,Kompally,1.0,5500,1827.0,,Unfurnished,,May be not,3,2,,Hydrabad
+2,Tellapur,0.973,6899,1410.0,,Unfurnished,,May be not,2,,,Hydrabad
+2,Kollur,0.831,5999,1385.0,,Unfurnished,,available,2,,,Hydrabad
+2,others,1.06,8499,1250.0,,Unfurnished,,available,2,,,Hydrabad
+3,Kompally,1.28,6749,1910.0,,Unfurnished,,May be not,3,,,Hydrabad
+3,Puppalguda,1.65,8462,1950.0,,Unfurnished,,May be not,3,,,Hydrabad
+3,Narsingi,1.94,7699,2520.0,,Unfurnished,,May be not,3,,,Hydrabad
+3,Nizampet,1.43,7292,1961.0,,Unfurnished,,available,3,,,Hydrabad
+3,others,0.745,4699,1585.0,,Unfurnished,,May be not,3,,,Hydrabad
+3,NH 9,3.48,12894,2699.0,,Unfurnished,,available,3,,,Hydrabad
+3,others,2.2,10500,2101.0,,Unfurnished,,available,3,,,Hydrabad
+3,Narsingi,1.9,11079,1715.0,10+,Unfurnished,West,May be not,3,,"Pool, Garden/Park",Hydrabad
+2,Narsingi,1.6,16000,1000.0,10+,Unfurnished,East,available,2,1,,Hydrabad
+3,Narsingi,1.85,10787,1715.0,1,Unfurnished,,May be not,3,,,Hydrabad
+3,others,2.37,13416,1767.0,4,Unfurnished,,May be not,3,1,,Hydrabad
+3,Puppalguda,1.31,8799,1500.0,,Unfurnished,,May be not,3,,,Hydrabad
+2,Bandlaguda Jagir,1.0,7000,1430.0,,Unfurnished,,May be not,2,,,Hydrabad
+2,Chanda Nagar,0.756,5999,1260.0,5,Unfurnished,East,available,2,2,"Garden/Park, Main Road",Hydrabad
+3,Miyapur,0.866,5400,1604.0,4,Unfurnished,East,available,3,1,,Hydrabad
+2,Kollur,0.745,5799,1285.0,,Unfurnished,,May be not,2,,,Hydrabad
+3,Bachupally,0.745,4949,1505.0,5,Semi-Furnished,East,available,3,3,Garden/Park,Hydrabad
+3,Yapral,0.872,5500,1585.0,1,Semi-Furnished,East,available,3,3,"Garden/Park, Pool, Main Road",Hydrabad
+3,Kokapet,1.34,7800,1718.0,10+,Semi-Furnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+2,others,1.38,9511,1451.0,4,Unfurnished,East,available,2,3,,Hydrabad
+3,others,0.71,4999,1420.0,4,Unfurnished,West,available,3,2,Garden/Park,Hydrabad
+3,Gachibowli,1.0,7199,1389.0,8,Unfurnished,East,available,3,2,Garden/Park,Hydrabad
+3,Nizampet,1.02,8761,1164.0,,Unfurnished,,May be not,4,,,Hydrabad
+2,Yapral,0.7320000000000001,6000,1220.0,,Unfurnished,,May be not,2,,,Hydrabad
+2,Kollur,0.777,6000,1295.0,10,Unfurnished,,available,2,,,Hydrabad
+2,Bachupally,0.9390000000000001,6500,1445.0,,Unfurnished,,May be not,2,,,Hydrabad
+3,others,0.9920000000000001,5699,1740.0,,Unfurnished,,available,3,,,Hydrabad
+3,Outer Ring Road,1.11,5887,1886.0,10+,Unfurnished,East,available,3,3,"Garden/Park, Pool, Main Road",Hydrabad
+3,NH 9,1.71,,1566.0,,Unfurnished,,May be not,3,,,Hydrabad
+3,Yapral,1.42,6500,2187.0,,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.6759999999999999,5496,1230.0,4,Unfurnished,East,available,2,2,,Hydrabad
+2,others,0.5,4167,1200.0,4,Semi-Furnished,,May be not,2,,,Hydrabad
+2,Kollur,0.8009999999999999,6045,1325.0,1,Unfurnished,West,available,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,Outer Ring Road,1.08,5950,1815.0,5,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,Puppalguda,1.51,9999,1514.0,,Unfurnished,,available,3,,,Hydrabad
+3,Kollur,1.3,6863,1894.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,Narsingi,2.6,11135,2335.0,10+,Unfurnished,East,May be not,3,1,Main Road,Hydrabad
+3,Narsingi,2.45,10493,2335.0,6,Unfurnished,East,May be not,3,1,Main Road,Hydrabad
+4,NH 9,5.5,16784,3277.0,4,Semi-Furnished,East,available,4,2,"Garden/Park, Pool, Main Road",Hydrabad
+2,Kollur,0.9,6498,1385.0,5,Unfurnished,East,available,2,2,"Garden/Park, Main Road",Hydrabad
+3,Kollur,1.16,6764,1715.0,10+,Unfurnished,East,May be not,3,1,Main Road,Hydrabad
+3,others,1.38,7365,1880.0,5,Unfurnished,North,available,3,2,Garden/Park,Hydrabad
+3,NH 9,3.1,14954,2073.0,10,Unfurnished,East,available,3,1,"Garden/Park, Pool, Main Road",Hydrabad
+2,Kollur,0.8240000000000001,6219,1325.0,1,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Hydrabad
+4,Kokapet,4.0,8811,4540.0,10+,Unfurnished,East,available,4,,"Pool, Garden/Park, Main Road",Hydrabad
+3,Kollur,1.45,5999,2417.0,9,Unfurnished,West,available,3,2,Main Road,Hydrabad
+3,others,2.95,13483,2188.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,Tellapur,1.09,6561,1675.0,4,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+2,Kollur,0.9,6667,1350.0,10,Unfurnished,East,available,2,1,Garden/Park,Hydrabad
+3,Kollur,1.12,5999,1867.0,4,Unfurnished,East,available,3,2,Main Road,Hydrabad
+4,NH 9,5.0,15253,3278.0,10+,Semi-Furnished,East,available,4,4,"Garden/Park, Pool",Hydrabad
+3,Kokapet,1.84,7820,2353.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,others,1.28,8050,1590.0,8,Semi-Furnished,East,available,2,2,,Hydrabad
+3,others,2.1,8824,2380.0,10+,Unfurnished,East,available,4,2,"Garden/Park, Main Road",Hydrabad
+2,Bachupally,0.63,5575,1130.0,5,Unfurnished,West,May be not,2,1,Main Road,Hydrabad
+3,Narsingi,2.6,11135,2335.0,10+,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+3,Narsingi,2.5,10707,2335.0,10+,Unfurnished,East,available,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,Narsingi,2.7,10150,2660.0,9,Unfurnished,West,available,3,2,Garden/Park,Hydrabad
+3,Narsingi,2.28,9800,2327.0,10+,Unfurnished,East,available,3,1,"Pool, Garden/Park, Main Road",Hydrabad
+3,Narsingi,2.5,10707,2335.0,10+,Unfurnished,West,May be not,3,1,"Pool, Garden/Park, Main Road",Hydrabad
+2,Narsingi,1.5,10949,1370.0,4,Unfurnished,East,May be not,2,1,"Pool, Garden/Park, Main Road",Hydrabad
+3,Narsingi,2.55,10921,2335.0,10+,Unfurnished,,May be not,3,2,,Hydrabad
+3,others,1.84,9000,2050.0,8,Unfurnished,West,May be not,3,1,"Pool, Garden/Park, Main Road",Hydrabad
+2,others,1.15,9200,1250.0,6,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,others,1.4,7376,1898.0,10+,Unfurnished,North,available,3,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.8,9052,1991.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,Kokapet,1.95,11370,1715.0,10+,Semi-Furnished,East,available,3,1,Garden/Park,Hydrabad
+3,others,1.8,8717,2065.0,4,Unfurnished,West,available,3,1,"Garden/Park, Main Road",Hydrabad
+2,Puppalguda,1.3,9489,1370.0,8,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+2,others,0.65,5800,1121.0,5,Unfurnished,East,available,2,2,Main Road,Hydrabad
+4,Gachibowli,1.8,8372,2150.0,6,Semi-Furnished,East,May be not,3,3,,Hydrabad
+3,others,0.961,6675,1440.0,2,Unfurnished,East,available,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,Kollur,1.08,5760,1875.0,5,Unfurnished,East,May be not,3,2,"Pool, Garden/Park, Main Road",Hydrabad
+2,others,1.1,,1250.0,9,Unfurnished,East,available,2,1,,Hydrabad
+3,Kompally,1.46,8022,1820.0,7,Unfurnished,North - West,available,3,2,Garden/Park,Hydrabad
+3,Kondapur,1.24,8278,1498.0,10+,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+3,Gachibowli,1.35,7204,1874.0,10+,Unfurnished,North,available,3,2,"Pool, Main Road",Hydrabad
+3,Kokapet,1.62,7499,2160.0,3,Unfurnished,North,available,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.13,6950,1626.0,3,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,others,1.5,7375,2034.0,6,Unfurnished,West,May be not,3,2,Main Road,Hydrabad
+3,Kondapur,2.0,10256,1950.0,8,Unfurnished,East,available,3,2,Garden/Park,Hydrabad
+3,Puppalguda,1.48,9136,1620.0,10+,Unfurnished,West,May be not,3,1,Garden/Park,Hydrabad
+2,others,1.06,7500,1420.0,10+,Unfurnished,West,available,2,1,Garden/Park,Hydrabad
+2,Outer Ring Road,0.986,7500,1315.0,9,Semi-Furnished,East,available,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.609,4700,1296.0,5,Unfurnished,East,available,2,2,"Garden/Park, Main Road",Hydrabad
+3,Kollur,0.899,5499,1635.0,3,Unfurnished,East,available,3,3,Main Road,Hydrabad
+3,others,3.45,11500,3000.0,10+,Unfurnished,East,May be not,3,,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,2.26,8500,2660.0,5,Unfurnished,North,available,3,2,,Hydrabad
+3,Manikonda Jagir,0.8220000000000001,6000,1370.0,3,Semi-Furnished,North - East,available,3,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.774,6500,1191.0,5,Unfurnished,East,available,2,1,Garden/Park,Hydrabad
+3,others,2.3,10673,2155.0,2,Semi-Furnished,West,available,3,2,Pool,Hydrabad
+4,Kokapet,3.26,10000,3260.0,,Unfurnished,,May be not,4,,,Hydrabad
+2,Manikonda Jagir,0.6859999999999999,5800,1183.0,3,Unfurnished,North,available,2,1,Main Road,Hydrabad
+3,others,2.0,8909,2245.0,10+,Unfurnished,East,available,3,2,Garden/Park,Hydrabad
+4+,Gachibowli,8.25,12500,6600.0,5,Unfurnished,East,available,4+,4+,Main Road,Hydrabad
+2,Kondapur,1.47,10308,1426.0,1,Unfurnished,East,available,2,1,,Hydrabad
+2,others,0.562,4683,1200.0,3,Semi-Furnished,East,available,2,2,Main Road,Hydrabad
+1,others,0.5479999999999999,6257,876.0,4,Unfurnished,East,available,1,1,,Hydrabad
+3,Kollur,1.63,6699,2433.0,10+,Unfurnished,West,May be not,3,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.514,4799,1071.0,4,Unfurnished,West,available,2,1,,Hydrabad
+3,others,0.8570000000000001,5000,1714.0,9,Unfurnished,East,available,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,0.79,5048,1565.0,10+,Unfurnished,East,May be not,3,1,"Pool, Garden/Park, Main Road",Hydrabad
+2,others,0.535,4553,1175.0,2,Unfurnished,East,available,2,2,Main Road,Hydrabad
+3,Kompally,1.2,8811,1362.0,5,Furnished,West,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,1.24,6950,1784.0,3,Unfurnished,East,available,3,1,Main Road,Hydrabad
+3,NH 9,1.75,6195,2825.0,3,Unfurnished,North,available,3,3,Main Road,Hydrabad
+3,Kokapet,2.72,9500,2863.0,10+,Unfurnished,West,May be not,3,3,Main Road,Hydrabad
+2,others,0.6,5000,1200.0,3,Semi-Furnished,East,available,2,1,Main Road,Hydrabad
+3,others,2.33,13259,1757.0,1,Unfurnished,East,May be not,2,3,"Garden/Park, Pool",Hydrabad
+3,Chanda Nagar,1.17,6700,1746.0,6,Unfurnished,West,available,3,1,Main Road,Hydrabad
+3,Bandlaguda Jagir,0.902,5500,1640.0,5,Unfurnished,West,available,3,1,Main Road,Hydrabad
+2,NH 9,0.59,4724,1249.0,3,Unfurnished,East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+2,Kompally,0.534,4864,1098.0,3,Unfurnished,West,available,2,1,Garden/Park,Hydrabad
+2,Outer Ring Road,0.65,5039,1290.0,3,Unfurnished,East,available,2,1,"Pool, Main Road",Hydrabad
+3,others,1.77,7570,2338.0,9,Semi-Furnished,East,available,3,3,"Garden/Park, Pool, Main Road",Hydrabad
+2,Chanda Nagar,0.6,5660,1060.0,9,Unfurnished,East,available,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+2,Narsingi,1.25,9434,1325.0,1,Unfurnished,West,May be not,2,1,Garden/Park,Hydrabad
+2,Outer Ring Road,0.632,5099,1239.0,5,Unfurnished,East,available,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+2,Kondapur,1.48,9900,1495.0,10+,Unfurnished,West,available,2,1,Main Road,Hydrabad
+4,Kompally,1.54,6599,2334.0,9,Unfurnished,East,available,4,3,Main Road,Hydrabad
+2,Bachupally,0.584,5309,1100.0,1,Unfurnished,West,available,2,2,"Garden/Park, Main Road",Hydrabad
+3,Narsingi,1.3,7182,1810.0,10+,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Hydrabad
+3,others,1.52,5999,2534.0,5,Unfurnished,East,available,3,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,Kollur,1.27,6243,2034.0,6,Unfurnished,East,available,3,2,Garden/Park,Hydrabad
+3,others,0.8,4975,1608.0,1,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,Narsingi,0.986,5800,1700.0,2,Unfurnished,East,available,3,2,Main Road,Hydrabad
+4,Kokapet,4.99,12127,4115.0,10+,Semi-Furnished,East,available,4,2,"Pool, Main Road",Hydrabad
+4,Chanda Nagar,1.97,6400,3080.0,10+,Unfurnished,West,available,4,2,Garden/Park,Hydrabad
+2,Bandlaguda Jagir,0.948,7025,1349.0,7,Unfurnished,East,May be not,2,1,Garden/Park,Hydrabad
+3,Kondapur,1.45,7500,1933.0,4,Unfurnished,West,available,3,2,Main Road,Hydrabad
+3,others,0.866,5400,1604.0,5,Unfurnished,West,May be not,2,2,"Pool, Garden/Park, Main Road",Hydrabad
+3,Kollur,0.853,4500,1896.0,1,Unfurnished,East,available,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+4,others,1.34,4379,3060.0,9,Semi-Furnished,West,available,4,4,"Garden/Park, Pool, Main Road",Hydrabad
+2,Pragathi Nagar,0.5,4001,1250.0,9,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,Outer Ring Road,1.2,6000,2000.0,5,Semi-Furnished,,May be not,3,2,,Hydrabad
+3,others,1.23,7369,1669.0,10+,Unfurnished,East,May be not,3,1,Garden/Park,Hydrabad
+2,Outer Ring Road,0.5,4348,1150.0,3,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,others,1.37,7452,1838.0,10,Unfurnished,East,available,3,3,"Garden/Park, Pool, Main Road",Hydrabad
+3,Manikonda Jagir,1.69,8921,1894.0,5,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,others,1.05,6344,1655.0,8,Unfurnished,East,available,3,2,"Garden/Park, Pool",Hydrabad
+3,Banjara Hills,1.22,9292,1313.0,1,Unfurnished,North - East,available,3,2,Main Road,Hydrabad
+3,others,1.8,9695,1860.0,10,Unfurnished,West,available,3,2,,Hydrabad
+2,others,0.6900000000000001,4999,1380.0,5,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Hydrabad
+3,Manikonda Jagir,1.45,7700,1883.0,10+,Unfurnished,East,available,3,2,"Pool, Main Road",Hydrabad
+3,Chanda Nagar,1.5,7538,1990.0,5,Unfurnished,East,available,3,3,Main Road,Hydrabad
+3,Miyapur,0.777,7000,1110.0,10+,Unfurnished,East,May be not,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+1,others,0.25,5556,450.0,5,Unfurnished,East,May be not,1,1,Main Road,Hydrabad
+4,Banjara Hills,5.05,12625,4000.0,4,Unfurnished,East,available,4+,2,Garden/Park,Hydrabad
+3,Puppalguda,1.13,6000,1890.0,6,Unfurnished,East,available,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.85,6800,1250.0,2,Unfurnished,East,available,2,1,Garden/Park,Hydrabad
+2,others,0.65,6842,950.0,1,Semi-Furnished,,available,2,1,,Hydrabad
+3,others,0.96,6194,1550.0,1,Unfurnished,West,available,3,2,Main Road,Hydrabad
+4,Kondapur,3.31,9350,3540.0,10+,Unfurnished,East,available,4,2,Garden/Park,Hydrabad
+2,Outer Ring Road,0.539,7693,701.0,1,Unfurnished,East,available,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.637,5099,1249.0,3,Unfurnished,East,available,2,1,"Pool, Garden/Park, Main Road",Hydrabad
+3,others,0.9,6429,1400.0,1,Unfurnished,North,May be not,2,2,Main Road,Hydrabad
+3,others,0.65,5200,1250.0,5,Semi-Furnished,,May be not,2,2,,Hydrabad
+2,others,0.42200000000000004,3456,1221.0,2,Furnished,East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+3,Kompally,1.5,6098,2460.0,2,Unfurnished,East,available,3,3,Main Road,Hydrabad
+3,others,0.72,4737,1520.0,1,,North,available,,,Garden/Park,Hydrabad
+3,others,0.9,5678,1585.0,5,Furnished,West,May be not,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.0,5263,1900.0,5,Semi-Furnished,North - East,available,2,2,Main Road,Hydrabad
+3,NH 9,0.9,6923,1300.0,,,,May be not,,,,Hydrabad
+3,others,1.68,7304,2300.0,4,Unfurnished,West,available,4,,"Garden/Park, Main Road",Hydrabad
+3,Manikonda Jagir,1.65,,1710.0,4,Unfurnished,East,May be not,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,Narsingi,3.1,11654,2660.0,10+,Unfurnished,West,May be not,3,3,Garden/Park,Hydrabad
+2,others,0.42,4468,940.0,4,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+4,Kondapur,7.0,11667,6000.0,,Unfurnished,East,available,4,2,Main Road,Hydrabad
+2,others,0.782,6800,1150.0,4,Semi-Furnished,West,available,2,2,Main Road,Hydrabad
+2,Pragathi Nagar,0.5,3998,1251.0,1,Unfurnished,East,available,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,0.84,5600,1500.0,2,Semi-Furnished,West,available,3,2,Garden/Park,Hydrabad
+2,Kondapur,1.3,8638,1505.0,10,Unfurnished,West,May be not,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+4,Kondapur,3.85,10969,3510.0,2,Furnished,West,available,4+,2,"Garden/Park, Main Road",Hydrabad
+3,others,1.7,6600,2576.0,10+,Unfurnished,East,available,4,2,Main Road,Hydrabad
+3,Kompally,0.8,5714,1400.0,1,Unfurnished,West,available,2,2,Main Road,Hydrabad
+3,Chanda Nagar,1.25,7862,1590.0,10+,Semi-Furnished,West,available,3,1,Main Road,Hydrabad
+3,Kondapur,2.1,8842,2375.0,10+,Semi-Furnished,East,May be not,3,2,Garden/Park,Hydrabad
+3,Chanda Nagar,0.79,,1350.0,1,Semi-Furnished,East,May be not,2,1,,Hydrabad
+2,Narsingi,0.68,5667,1200.0,5,Unfurnished,West,May be not,2,1,,Hydrabad
+3,others,0.763,5000,1526.0,4,Unfurnished,East,available,3,1,Main Road,Hydrabad
+3,Manikonda Jagir,2.0,10230,1955.0,10+,Semi-Furnished,East,available,3,3,Garden/Park,Hydrabad
+3,Bandlaguda Jagir,1.11,6707,1655.0,6,Unfurnished,East,May be not,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,Outer Ring Road,1.43,6500,2200.0,3,Unfurnished,West,available,3,2,Main Road,Hydrabad
+3,Kondapur,2.34,9300,2516.0,10+,Unfurnished,West,available,3,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.665,5556,1197.0,4,Unfurnished,West,available,2,1,Main Road,Hydrabad
+3,Uppal,1.0,5405,1850.0,3,Unfurnished,North,May be not,3,2,Main Road,Hydrabad
+3,Manikonda Jagir,0.72,5333,1350.0,3,Unfurnished,North,May be not,2,3,Main Road,Hydrabad
+4,others,3.64,10000,3640.0,4,Furnished,North - East,available,4,2,,Hydrabad
+2,Pragathi Nagar,0.6900000000000001,5750,1200.0,1,Semi-Furnished,West,available,2,,Main Road,Hydrabad
+2,others,0.6,5000,1200.0,5,Unfurnished,North,May be not,2,2,Main Road,Hydrabad
+3,Puppalguda,1.5,8021,1870.0,4,Semi-Furnished,North,available,2,,Main Road,Hydrabad
+2,others,0.53,4609,1150.0,3,Unfurnished,West,May be not,2,1,,Hydrabad
+3,NH 9,1.12,8582,1305.0,1,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,others,1.75,10606,1650.0,1,Semi-Furnished,,available,3,3,Main Road,Hydrabad
+2,others,0.65,6019,1080.0,1,Semi-Furnished,West,available,2,2,Main Road,Hydrabad
+3,Nizampet,0.865,4494,1925.0,1,Furnished,South,available,3,3,Main Road,Hydrabad
+3,others,1.6,6400,2500.0,4,Unfurnished,East,available,3,1,,Hydrabad
+3,others,1.5,6522,2300.0,2,Unfurnished,East,May be not,3,3,,Hydrabad
+3,Kompally,1.3,8525,1525.0,8,Unfurnished,North,available,2,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.55,4911,1120.0,5,Semi-Furnished,South,May be not,2,2,,Hydrabad
+3,Narsingi,0.85,6538,1300.0,4,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+3,others,0.9500000000000001,4657,2040.0,3,Unfurnished,East,May be not,3,1,Main Road,Hydrabad
+3,others,2.05,11988,1710.0,5,Semi-Furnished,East,May be not,3,2,,Hydrabad
+2,Nizampet,0.6,6000,1000.0,4,Semi-Furnished,West,available,2,,Main Road,Hydrabad
+3,NH 9,1.9,10597,1793.0,4,Unfurnished,West,available,3,1,Garden/Park,Hydrabad
+2,Miyapur,0.6,5455,1100.0,2,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+2,others,0.55,5446,1010.0,1,Unfurnished,East,May be not,2,3,,Hydrabad
+3,others,1.2,7059,1700.0,2,Semi-Furnished,East,available,3,3,,Hydrabad
+3,others,0.65,4268,1523.0,4,Unfurnished,North - East,May be not,2,2,,Hydrabad
+2,Outer Ring Road,0.55,4846,1135.0,3,Furnished,North - East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,0.77,6353,1212.0,3,Furnished,,May be not,2,,,Hydrabad
+4,others,0.5,3509,1425.0,6,Unfurnished,East,May be not,3,1,Main Road,Hydrabad
+3,others,1.25,7852,1592.0,4,Semi-Furnished,East,May be not,3,4,,Hydrabad
+2,Kondapur,1.35,9643,1400.0,10+,Unfurnished,East,May be not,2,1,"Pool, Garden/Park, Main Road",Hydrabad
+3,others,2.0,10000,2000.0,1,Unfurnished,,May be not,3,1,,Hydrabad
+3,Kokapet,2.5,13889,1800.0,10+,,,May be not,3,,,Hydrabad
+2,others,0.62,4500,1378.0,1,Unfurnished,East,available,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,0.84,5250,1600.0,2,Unfurnished,East,available,3,1,Main Road,Hydrabad
+3,Narsingi,0.9009999999999999,6000,1502.0,4,Unfurnished,West,May be not,3,1,Main Road,Hydrabad
+2,others,1.72,9582,1795.0,3,Semi-Furnished,North,available,2,1,Main Road,Hydrabad
+3,others,1.7,8500,2000.0,2,Unfurnished,North,May be not,3,2,Main Road,Hydrabad
+4,Kondapur,4.4,15068,2920.0,10+,Unfurnished,West,available,4,3,Main Road,Hydrabad
+3,Kondapur,2.05,11141,1840.0,10+,Unfurnished,West,May be not,3,3,Main Road,Hydrabad
+3,others,1.26,7326,1720.0,5,Semi-Furnished,North - East,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,Narsingi,1.58,8500,1859.0,10+,Unfurnished,East,available,3,1,Garden/Park,Hydrabad
+3,others,2.06,11977,1720.0,10+,Unfurnished,East,May be not,3,2,Garden/Park,Hydrabad
+3,Miyapur,1.02,6799,1510.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,others,0.675,4698,1437.0,5,Unfurnished,West,available,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,NH 9,0.895,5491,1630.0,1,Unfurnished,North - East,May be not,3,1,Garden/Park,Hydrabad
+3,others,0.9,6429,1400.0,3,Semi-Furnished,North - East,available,2,1,Main Road,Hydrabad
+2,others,0.78,5769,1352.0,1,Unfurnished,West,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,2.5,8977,2785.0,0,Unfurnished,East,available,3,2,Garden/Park,Hydrabad
+4,others,3.3,10280,3210.0,10+,Unfurnished,East,available,4,3,Main Road,Hydrabad
+4,others,3.74,13381,2795.0,6,Furnished,West,available,3,4,"Garden/Park, Pool",Hydrabad
+2,others,0.55,5670,970.0,2,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Hydrabad
+2,others,0.65,5677,1145.0,3,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+2,Miyapur,0.45,3947,1140.0,1,Semi-Furnished,East,available,2,2,Main Road,Hydrabad
+2,Bachupally,1.05,8222,1277.0,5,Furnished,,May be not,2,,,Hydrabad
+2,others,0.53,5248,1010.0,2,Unfurnished,West,May be not,2,1,Main Road,Hydrabad
+3,Gachibowli,1.8,10989,1638.0,7,Unfurnished,,May be not,3,1,,Hydrabad
+3,Pragathi Nagar,1.2,5581,2150.0,0,Semi-Furnished,,May be not,3,,,Hydrabad
+3,others,0.9,6977,1290.0,4,Semi-Furnished,West,available,2,1,Garden/Park,Hydrabad
+3,others,0.92,5700,1614.0,1,Unfurnished,North - East,May be not,3,1,,Hydrabad
+4,others,3.5,11609,3015.0,5,Furnished,North - East,May be not,4,1,Main Road,Hydrabad
+3,others,0.8300000000000001,,1465.0,2,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,Gachibowli,4.0,12251,3265.0,4,Unfurnished,West,May be not,4,2,"Garden/Park, Pool",Hydrabad
+3,others,0.5670000000000001,4500,1260.0,2,Unfurnished,East,available,2,,Main Road,Hydrabad
+4+,Banjara Hills,1.85,3467,5336.0,4,Unfurnished,East,May be not,4+,4+,Main Road,Hydrabad
+3,others,1.04,5503,1890.0,0,Unfurnished,West,May be not,3,2,"Garden/Park, Main Road",Hydrabad
+2,Uppal,0.65,5200,1250.0,2,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Hydrabad
+3,Banjara Hills,3.16,13000,2438.0,3,Unfurnished,North,available,3,1,,Hydrabad
+3,others,2.55,10200,2500.0,1,Furnished,North,available,3,2,Main Road,Hydrabad
+2,Pragathi Nagar,0.7000000000000001,,1050.0,2,Semi-Furnished,East,available,2,1,Main Road,Hydrabad
+3,others,0.76,4750,1600.0,2,Unfurnished,West,available,3,,Garden/Park,Hydrabad
+3,others,0.995,7107,1400.0,2,Semi-Furnished,East,available,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.75,5690,1318.0,5,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+3,others,0.8200000000000001,5125,1600.0,2,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,Puppalguda,1.04,6500,1600.0,2,Unfurnished,East,May be not,3,1,Main Road,Hydrabad
+3,others,0.8,,1515.0,5,Semi-Furnished,East,available,3,1,Garden/Park,Hydrabad
+4,others,2.1,8077,2600.0,3,Semi-Furnished,West,available,3,2,,Hydrabad
+2,Kompally,0.48200000000000004,4500,1071.0,3,Unfurnished,East,available,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.2,7203,1666.0,5,Furnished,North,available,3,1,,Hydrabad
+3,NH 9,1.6,6667,2400.0,5,Semi-Furnished,East,May be not,4,3,,Hydrabad
+3,others,2.2,11110,1980.0,1,Unfurnished,East,May be not,3,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.93,8158,1140.0,3,Semi-Furnished,,May be not,2,,,Hydrabad
+2,Kollur,0.866,6300,1375.0,6,Unfurnished,North,available,2,1,Garden/Park,Hydrabad
+3,others,0.99,6513,1520.0,2,Unfurnished,North,May be not,3,2,Garden/Park,Hydrabad
+3,others,0.99,6832,1449.0,5,Semi-Furnished,North,available,3,2,,Hydrabad
+3,Outer Ring Road,0.98,5600,1750.0,3,Semi-Furnished,North,May be not,3,3,Main Road,Hydrabad
+3,Pragathi Nagar,0.87,5724,1520.0,4,Unfurnished,,May be not,3,3,Garden/Park,Hydrabad
+2,others,0.65,5350,1215.0,2,Unfurnished,,available,2,1,Main Road,Hydrabad
+3,others,1.8,9000,2000.0,5,Semi-Furnished,East,May be not,3,2,Main Road,Hydrabad
+2,Outer Ring Road,0.45,4592,980.0,1,Unfurnished,East,May be not,2,1,,Hydrabad
+3,others,1.3,8525,1525.0,5,Semi-Furnished,East,available,3,1,Garden/Park,Hydrabad
+2,Nizampet,0.9500000000000001,8190,1160.0,4,Furnished,East,available,2,,Garden/Park,Hydrabad
+2,others,0.45,4500,1000.0,2,Unfurnished,,May be not,2,,,Hydrabad
+3,Bachupally,1.99,11049,1801.0,2,Unfurnished,East,May be not,3,3,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.5,4098,1220.0,3,Furnished,East,available,2,,Main Road,Hydrabad
+3,others,1.45,6500,2231.0,3,Unfurnished,West,available,3,,,Hydrabad
+3,others,0.845,6377,1325.0,2,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+3,Outer Ring Road,0.8690000000000001,5500,1580.0,3,Semi-Furnished,East,available,3,,,Hydrabad
+3,others,0.8,5161,1550.0,1,Unfurnished,East,available,3,1,,Hydrabad
+3,others,1.05,7636,1375.0,4,Unfurnished,West,May be not,2,3,,Hydrabad
+2,Outer Ring Road,0.55,4622,1190.0,4,Semi-Furnished,West,available,2,2,,Hydrabad
+3,others,1.55,7945,1951.0,3,Unfurnished,East,May be not,3,3,,Hydrabad
+3,Kompally,1.0,5556,1800.0,5,Unfurnished,East,available,3,2,,Hydrabad
+4,Kokapet,4.1,11595,3536.0,10+,Unfurnished,East,available,4,3,"Garden/Park, Pool, Main Road",Hydrabad
+3,Bandlaguda Jagir,1.55,7430,2095.0,10+,Unfurnished,,May be not,3,2,,Hydrabad
+3,others,0.8,7874,1016.0,3,Unfurnished,North,available,2,,,Hydrabad
+3,others,2.3,18400,1250.0,1,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,others,1.4,6567,2132.0,1,Unfurnished,East,May be not,3,4,Garden/Park,Hydrabad
+2,others,0.5,6024,830.0,4,Unfurnished,North - West,available,2,2,Garden/Park,Hydrabad
+3,Narsingi,2.75,11777,2335.0,10+,Unfurnished,West,May be not,3,2,"Garden/Park, Pool",Hydrabad
+2,others,0.59,5004,1179.0,1,Unfurnished,East,available,2,2,,Hydrabad
+2,others,0.46,4423,1040.0,2,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.9500000000000001,7252,1310.0,7,Unfurnished,East,May be not,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,0.9,5294,1700.0,10+,Unfurnished,,May be not,3,2,,Hydrabad
+3,others,1.35,7890,1711.0,4,Unfurnished,North - East,May be not,3,2,,Hydrabad
+2,others,0.52,4771,1090.0,1,Unfurnished,East,May be not,2,1,,Hydrabad
+3,others,2.38,12851,1852.0,5,Unfurnished,North,May be not,3,2,Main Road,Hydrabad
+2,others,0.7000000000000001,5000,1400.0,2,Semi-Furnished,,May be not,2,2,,Hydrabad
+3,Kondapur,2.6,11078,2347.0,5,Furnished,West,available,3,2,,Hydrabad
+2,Outer Ring Road,0.5720000000000001,5201,1100.0,10+,Unfurnished,East,available,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.65,6311,1030.0,5,Semi-Furnished,West,available,2,2,Main Road,Hydrabad
+3,Kondapur,1.52,7755,1960.0,3,Unfurnished,East,available,3,3,Main Road,Hydrabad
+2,others,0.61,5810,1050.0,5,Furnished,East,May be not,2,1,Main Road,Hydrabad
+2,others,0.65,5556,1170.0,5,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,Kondapur,1.1,7324,1502.0,5,Unfurnished,East,May be not,3,2,,Hydrabad
+2,others,0.525,4688,1120.0,3,Unfurnished,,May be not,2,1,,Hydrabad
+2,others,0.39,4105,950.0,0,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+3,others,1.3,7558,1720.0,5,Unfurnished,North - East,May be not,3,2,,Hydrabad
+2,Bandlaguda Jagir,0.76,5989,1269.0,10+,Unfurnished,East,available,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,0.42,2545,1650.0,8,Unfurnished,,May be not,3,,"Main Road, Garden/Park, Pool",Hydrabad
+3,Pragathi Nagar,1.1,6471,1700.0,3,Unfurnished,East,May be not,3,1,,Hydrabad
+2,Kompally,0.52,4333,1200.0,3,Unfurnished,,May be not,2,2,,Hydrabad
+2,others,0.55,4783,1150.0,2,Furnished,West,May be not,2,3,,Hydrabad
+2,others,0.335,,800.0,3,Unfurnished,North - West,May be not,2,2,Main Road,Hydrabad
+2,Tellapur,1.25,,1360.0,2,Furnished,,May be not,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.2,,1500.0,5,Unfurnished,,May be not,3,1,,Hydrabad
+2,others,1.2,9302,1290.0,3,Semi-Furnished,North,available,2,1,Main Road,Hydrabad
+2,Uppal,0.58,4560,1272.0,4,Furnished,East,available,2,2,Main Road,Hydrabad
+2,others,0.68,5667,1200.0,5,Semi-Furnished,,May be not,2,2,,Hydrabad
+3,others,1.05,7985,1315.0,5,Furnished,East,available,2,1,"Garden/Park, Main Road",Hydrabad
+3,Pragathi Nagar,0.78,5200,1500.0,1,Unfurnished,West,May be not,3,2,,Hydrabad
+3,others,1.1,6444,1707.0,3,Furnished,North,available,3,1,Main Road,Hydrabad
+2,others,0.8,6364,1257.0,1,Semi-Furnished,West,available,2,2,Main Road,Hydrabad
+3,others,4.65,15000,3100.0,2,Semi-Furnished,North - West,available,4,3,Garden/Park,Hydrabad
+3,others,2.38,8500,2800.0,2,Unfurnished,North,available,4,2,Garden/Park,Hydrabad
+2,others,0.42,4941,850.0,2,Unfurnished,North,available,2,1,Main Road,Hydrabad
+3,others,0.72,4642,1551.0,3,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,NH 9,1.1,6268,1755.0,0,Unfurnished,East,available,3,,"Garden/Park, Main Road",Hydrabad
+3,others,3.0,9524,3150.0,10+,Unfurnished,East,May be not,4,2,"Main Road, Garden/Park",Hydrabad
+2,others,0.65,6075,1070.0,3,Unfurnished,East,available,2,,Garden/Park,Hydrabad
+4,others,5.67,44056,1287.0,4,Unfurnished,East,available,4+,3,"Garden/Park, Pool, Main Road",Hydrabad
+2,Miyapur,0.8,5333,1500.0,4,Unfurnished,East,available,2,1,"Garden/Park, Pool",Hydrabad
+3,others,0.9,6667,1350.0,5,Unfurnished,North,available,2,1,Main Road,Hydrabad
+3,others,0.9500000000000001,6376,1490.0,5,Furnished,East,available,2,3,,Hydrabad
+3,others,1.12,6022,1860.0,2,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.72,6698,1075.0,4,Furnished,West,May be not,2,2,,Hydrabad
+2,others,0.5,4686,1067.0,2,Unfurnished,East,May be not,2,1,,Hydrabad
+2,others,1.2,8333,1440.0,3,Semi-Furnished,West,May be not,2,2,Main Road,Hydrabad
+3,Kondapur,1.05,7241,1450.0,2,Semi-Furnished,West,available,2,2,Main Road,Hydrabad
+2,NH 9,0.5,5000,1000.0,3,Unfurnished,East,May be not,2,,Main Road,Hydrabad
+3,others,1.74,6629,2625.0,4,Semi-Furnished,East,May be not,3,3,Main Road,Hydrabad
+4,others,3.6,12880,2795.0,7,Furnished,North - East,May be not,3,4,Main Road,Hydrabad
+3,Bachupally,0.85,5491,1548.0,4,Semi-Furnished,East,available,2,1,Garden/Park,Hydrabad
+3,others,0.65,4437,1465.0,2,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+3,others,0.9,6000,1500.0,2,Semi-Furnished,East,May be not,3,1,,Hydrabad
+3,others,0.87,5686,1530.0,2,Unfurnished,East,May be not,3,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.35000000000000003,3500,1000.0,1,Unfurnished,East,May be not,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+2,Pragathi Nagar,0.58,5370,1080.0,5,Semi-Furnished,East,May be not,2,2,,Hydrabad
+2,Nizampet,0.58,4878,1189.0,1,Unfurnished,South - East,May be not,2,2,Main Road,Hydrabad
+2,Miyapur,0.6900000000000001,6000,1150.0,2,Unfurnished,East,available,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,0.93,6000,1550.0,2,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+2,others,0.6,6316,950.0,1,Semi-Furnished,North,May be not,2,2,,Hydrabad
+3,others,0.6,4637,1294.0,3,Semi-Furnished,West,available,2,2,Pool,Hydrabad
+3,others,0.75,4688,1600.0,1,Semi-Furnished,East,available,3,1,Main Road,Hydrabad
+3,others,1.25,6342,1971.0,3,Semi-Furnished,East,May be not,3,1,Main Road,Hydrabad
+3,Manikonda Jagir,2.1,10043,2091.0,10+,Furnished,West,May be not,4+,2,"Garden/Park, Pool",Hydrabad
+3,others,0.75,5000,1500.0,4,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+3,others,0.765,5100,1500.0,2,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,others,1.5,7009,2140.0,8,Unfurnished,West,available,3,,Main Road,Hydrabad
+2,others,0.7000000000000001,6616,1058.0,3,Semi-Furnished,North,May be not,2,2,,Hydrabad
+2,others,0.55,4774,1152.0,3,Unfurnished,North - East,May be not,2,2,,Hydrabad
+2,NH 9,0.43,5733,750.0,2,Semi-Furnished,South,available,2,1,"Garden/Park, Main Road",Hydrabad
+2,others,0.43,4057,1060.0,1,Unfurnished,North,available,2,1,,Hydrabad
+2,others,0.62,5487,1130.0,4,Semi-Furnished,East,May be not,2,,,Hydrabad
+3,Bachupally,0.9400000000000001,5875,1600.0,1,Semi-Furnished,East,available,2,1,Main Road,Hydrabad
+3,Kondapur,1.27,6480,1960.0,5,Semi-Furnished,East,May be not,3,2,Main Road,Hydrabad
+2,others,0.32,3855,830.0,3,Unfurnished,West,available,2,1,,Hydrabad
+3,others,0.9500000000000001,5846,1625.0,4,Semi-Furnished,West,available,3,2,Garden/Park,Hydrabad
+3,others,0.66,4342,1520.0,2,Semi-Furnished,South,available,2,2,Main Road,Hydrabad
+3,NH 9,1.05,6087,1725.0,4,Semi-Furnished,East,available,3,2,,Hydrabad
+2,Nizampet,0.675,5000,1350.0,5,Furnished,North - East,May be not,2,1,Main Road,Hydrabad
+2,others,0.54,6391,845.0,1,Unfurnished,East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+3,Kondapur,2.12,10000,2120.0,7,Unfurnished,West,May be not,3,2,"Garden/Park, Main Road",Hydrabad
+3,NH 9,0.93,5636,1650.0,4,Furnished,East,May be not,3,2,Main Road,Hydrabad
+2,others,0.72,5878,1225.0,3,Semi-Furnished,North - East,May be not,2,2,Main Road,Hydrabad
+3,others,1.05,6518,1611.0,4,Unfurnished,East,available,3,2,Main Road,Hydrabad
+4,Kondapur,5.18,12000,4317.0,3,Semi-Furnished,West,available,4+,3,Main Road,Hydrabad
+2,Uppal,0.38,3799,1000.0,2,Unfurnished,West,available,2,1,,Hydrabad
+2,others,0.68,6121,1111.0,3,Semi-Furnished,East,May be not,2,2,Main Road,Hydrabad
+3,Uppal,0.92,5556,1656.0,2,Unfurnished,East,May be not,2,2,,Hydrabad
+2,Gachibowli,1.45,11154,1300.0,5,Semi-Furnished,,May be not,2,2,,Hydrabad
+3,others,0.8,4482,1785.0,5,Unfurnished,North - West,May be not,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,2.52,12506,2015.0,1,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,others,1.4,8750,1600.0,1,Unfurnished,East,available,3,2,,Hydrabad
+4,Kompally,1.1,6111,1800.0,3,Unfurnished,East,available,4,2,"Garden/Park, Main Road",Hydrabad
+3,others,1.25,8333,1500.0,5,Semi-Furnished,South,available,2,2,,Hydrabad
+3,others,1.8,6950,2590.0,10+,Unfurnished,West,available,3,2,Main Road,Hydrabad
+2,Pragathi Nagar,0.68,6071,1120.0,1,Unfurnished,East,May be not,2,1,"Garden/Park, Main Road",Hydrabad
+3,others,0.9500000000000001,5938,1600.0,5,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+3,Kompally,0.872,5700,1530.0,2,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road",Hydrabad
+3,Puppalguda,2.2,12048,1826.0,10+,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+3,Kokapet,0.8,4748,1685.0,9,Unfurnished,,May be not,3,1,,Hydrabad
+3,others,0.6950000000000001,4810,1445.0,4,Unfurnished,,May be not,3,3,,Hydrabad
+2,others,0.65,6019,1080.0,3,Furnished,,May be not,2,1,,Hydrabad
+2,others,0.58,5498,1055.0,1,Semi-Furnished,,May be not,2,,,Hydrabad
+3,Kompally,0.93,5471,1700.0,2,Furnished,,May be not,3,,,Hydrabad
+3,Kondapur,1.0,,1610.0,2,Unfurnished,,May be not,3,2,,Hydrabad
+3,Yapral,1.2,6316,1900.0,2,Semi-Furnished,,May be not,3,,,Hydrabad
+3,others,1.36,6500,2100.0,10+,Unfurnished,North,available,3,,Garden/Park,Hydrabad
+3,Chanda Nagar,0.85,6137,1385.0,5,Semi-Furnished,,May be not,2,1,,Hydrabad
+2,others,0.45,5000,900.0,2,Unfurnished,,May be not,2,,,Hydrabad
+1,others,0.45,6429,700.0,2,Unfurnished,East,May be not,1,1,,Hydrabad
+1,others,0.24,4286,560.0,1,Unfurnished,,May be not,1,1,Main Road,Hydrabad
+3,others,1.8,,2337.0,7,Unfurnished,,May be not,3,2,Main Road,Hydrabad
+2,others,0.5,4762,1050.0,2,Unfurnished,,May be not,2,2,,Hydrabad
+2,others,0.6,5000,1200.0,1,Semi-Furnished,,May be not,2,,,Hydrabad
+2,Manikonda Jagir,0.93,6889,1350.0,2,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.8200000000000001,7045,1164.0,4,Furnished,East,available,2,2,,Hydrabad
+3,Outer Ring Road,1.25,6477,1930.0,4,Unfurnished,East,available,3,3,Garden/Park,Hydrabad
+3,others,1.05,7256,1447.0,2,Furnished,,May be not,3,,,Hydrabad
+2,others,0.8,5797,1380.0,5,Unfurnished,East,May be not,2,2,"Pool, Garden/Park, Main Road",Hydrabad
+3,others,1.66,9674,1716.0,2,Unfurnished,West,available,3,2,"Garden/Park, Main Road",Hydrabad
+2,Outer Ring Road,0.54,4909,1100.0,5,Unfurnished,North - East,available,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+4,others,3.8,9441,4025.0,10+,Unfurnished,West,available,3,2,,Hydrabad
+2,Kollur,0.89,6426,1385.0,5,Unfurnished,East,available,2,2,Garden/Park,Hydrabad
+4,others,4.75,,3093.0,10+,Unfurnished,East,May be not,4+,3,,Hydrabad
+3,others,0.78,4756,1640.0,2,Unfurnished,West,May be not,3,2,Main Road,Hydrabad
+1,others,0.365,5000,730.0,1,Furnished,East,available,1,1,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.58,5043,1150.0,10,Unfurnished,,May be not,2,1,"Garden/Park, Main Road",Hydrabad
+3,others,2.0,9524,2100.0,4,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road",Hydrabad
+3,others,2.0,12270,1630.0,4,Semi-Furnished,East,May be not,3,1,Main Road,Hydrabad
+3,NH 9,1.31,7704,1700.0,9,Unfurnished,West,available,3,2,Main Road,Hydrabad
+3,others,1.85,10602,1745.0,3,Semi-Furnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+4,others,6.07,13489,4500.0,6,Unfurnished,East,available,4+,2,Garden/Park,Hydrabad
+3,others,4.3,14951,2876.0,10+,Semi-Furnished,West,available,4,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,0.62,4318,1436.0,2,Semi-Furnished,South -West,May be not,2,3,,Hydrabad
+3,others,1.8,8571,2100.0,2,Furnished,West,available,4,2,Main Road,Hydrabad
+2,others,0.54,5613,962.0,1,Semi-Furnished,East,available,2,1,Main Road,Hydrabad
+2,others,0.7000000000000001,6796,1030.0,1,Unfurnished,North,May be not,2,,Main Road,Hydrabad
+3,Kompally,1.0,5903,1694.0,5,Unfurnished,East,May be not,3,1,,Hydrabad
+3,others,1.25,8300,1506.0,2,Semi-Furnished,South,May be not,3,1,,Hydrabad
+2,Kollur,0.789,6144,1284.0,10,Unfurnished,West,available,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,0.79,6124,1290.0,2,Furnished,East,May be not,2,3,Main Road,Hydrabad
+3,others,2.03,9531,2130.0,5,Unfurnished,East,available,3,,,Hydrabad
+3,others,0.75,4464,1680.0,4,Furnished,East,May be not,3,3,Main Road,Hydrabad
+4,others,1.91,6620,2885.0,9,Semi-Furnished,North - East,available,4,3,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.49,4083,1200.0,5,Unfurnished,North,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+2,Bachupally,0.748,5600,1336.0,5,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,others,2.04,10500,1943.0,8,Unfurnished,East,available,3,1,Garden/Park,Hydrabad
+3,Bandlaguda Jagir,1.32,7174,1840.0,5,Semi-Furnished,East,available,2,1,Main Road,Hydrabad
+2,others,0.59,5175,1140.0,2,Unfurnished,East,May be not,2,2,,Hydrabad
+3,others,2.3,12332,1865.0,10+,Furnished,East,available,3,1,Main Road,Hydrabad
+2,others,0.55,4545,1210.0,1,Semi-Furnished,North,May be not,2,2,Main Road,Hydrabad
+2,others,0.63,5150,1223.0,3,Unfurnished,North - East,available,2,1,"Garden/Park, Main Road",Hydrabad
+3,others,0.8250000000000001,,1500.0,1,Furnished,,May be not,3,2,,Hydrabad
+3,others,0.698,5000,1396.0,1,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,others,1.35,8182,1650.0,2,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road",Hydrabad
+3,Kondapur,2.26,10971,2060.0,10+,Unfurnished,West,available,3,3,Main Road,Hydrabad
+2,others,0.45,5263,855.0,6,Furnished,East,available,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,1.2,6977,1720.0,1,Semi-Furnished,West,May be not,3,1,,Hydrabad
+2,Pragathi Nagar,0.551,4942,1115.0,2,Unfurnished,West,May be not,2,1,"Garden/Park, Main Road",Hydrabad
+3,others,0.88,,1890.0,3,Unfurnished,West,May be not,3,2,Garden/Park,Hydrabad
+2,others,0.547,4099,1335.0,5,Unfurnished,East,May be not,2,1,Garden/Park,Hydrabad
+3,Chanda Nagar,0.96,6000,1600.0,1,Semi-Furnished,East,available,2,1,,Hydrabad
+3,Yapral,0.9450000000000001,5510,1715.0,2,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,others,1.77,6825,2593.0,10+,Semi-Furnished,East,available,3,2,Main Road,Hydrabad
+3,Gachibowli,2.9,12262,2365.0,10+,Furnished,West,May be not,3,3,Main Road,Hydrabad
+2,Uppal,0.63,5478,1150.0,5,Unfurnished,West,available,2,2,Main Road,Hydrabad
+2,others,0.51,3778,1350.0,5,Semi-Furnished,North - East,May be not,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,2.9,13182,2200.0,10+,Unfurnished,North - East,available,3,3,"Garden/Park, Pool",Hydrabad
+3,Kondapur,1.45,8788,1650.0,10+,Unfurnished,East,May be not,2,1,Pool,Hydrabad
+2,others,0.645,4345,1484.0,4,Unfurnished,East,available,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,0.855,4999,1710.0,4,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Hydrabad
+2,Kompally,0.63,,1143.0,5,Semi-Furnished,North - East,May be not,2,2,Main Road,Hydrabad
+2,others,0.42,4286,980.0,2,Semi-Furnished,South,available,2,1,"Garden/Park, Main Road",Hydrabad
+1,others,0.75,7928,946.0,0,Unfurnished,North - East,May be not,2,1,,Hydrabad
+3,others,0.6900000000000001,4367,1580.0,2,Unfurnished,East,May be not,3,1,Main Road,Hydrabad
+4,Manikonda Jagir,3.0,12195,2460.0,8,Unfurnished,East,available,3,1,Main Road,Hydrabad
+3,others,0.9059999999999999,6799,1333.0,10+,Unfurnished,East,May be not,2,1,Garden/Park,Hydrabad
+2,others,0.36,3600,1000.0,5,Unfurnished,East,May be not,2,1,Garden/Park,Hydrabad
+3,NH 9,2.4,9249,2595.0,5,Furnished,,May be not,4,3,"Garden/Park, Main Road",Hydrabad
+3,Kondapur,1.35,8232,1640.0,1,Semi-Furnished,East,May be not,3,1,"Garden/Park, Pool",Hydrabad
+1,others,0.22,4783,460.0,0,Unfurnished,North,May be not,1,,Main Road,Hydrabad
+3,others,3.1,10653,2910.0,0,Semi-Furnished,East,available,4+,2,"Garden/Park, Pool",Hydrabad
+3,others,1.45,7250,2000.0,5,Furnished,South,available,4,2,Garden/Park,Hydrabad
+3,NH 9,1.87,9500,1976.0,4,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.68,6476,1050.0,1,Semi-Furnished,East,available,2,1,Main Road,Hydrabad
+3,others,0.9500000000000001,6129,1550.0,1,Furnished,East,May be not,3,3,,Hydrabad
+3,others,1.32,8544,1545.0,3,Unfurnished,West,May be not,3,2,Garden/Park,Hydrabad
+4,others,1.43,5990,2387.0,2,Semi-Furnished,South,available,4,3,,Hydrabad
+4,others,1.8,7826,2300.0,2,Unfurnished,East,May be not,4,3,Main Road,Hydrabad
+3,others,1.1,6414,1715.0,3,Unfurnished,West,available,3,2,,Hydrabad
+3,Nizampet,1.15,,1800.0,5,Semi-Furnished,,May be not,3,,,Hydrabad
+3,others,0.36,4000,900.0,1,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+2,others,0.55,4490,1225.0,3,Unfurnished,West,May be not,2,1,,Hydrabad
+3,others,1.23,7600,1618.0,3,Semi-Furnished,North,May be not,3,2,Main Road,Hydrabad
+3,Kondapur,1.23,7500,1640.0,3,Unfurnished,West,available,3,3,Main Road,Hydrabad
+2,others,0.59,4876,1210.0,5,Unfurnished,East,available,2,2,Main Road,Hydrabad
+3,others,1.2,8054,1490.0,2,Furnished,East,May be not,3,1,"Garden/Park, Main Road",Hydrabad
+2,Kompally,0.65,8125,800.0,3,Semi-Furnished,North - East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,0.89,5235,1700.0,1,Unfurnished,East,May be not,3,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.14,7862,1450.0,2,Unfurnished,East,available,2,3,Main Road,Hydrabad
+2,others,0.75,7029,1067.0,5,Semi-Furnished,West,available,2,2,Garden/Park,Hydrabad
+3,Kondapur,1.47,7188,2045.0,2,Unfurnished,West,May be not,3,2,Main Road,Hydrabad
+2,others,0.53,4818,1100.0,0,Semi-Furnished,North - East,available,2,2,Main Road,Hydrabad
+2,others,0.75,6303,1190.0,4,Furnished,East,May be not,3,2,Garden/Park,Hydrabad
+3,Miyapur,0.65,5417,1200.0,3,Furnished,West,available,2,2,Garden/Park,Hydrabad
+2,NH 9,0.6950000000000001,6070,1145.0,2,Semi-Furnished,West,May be not,2,2,,Hydrabad
+2,others,0.675,6273,1076.0,1,Unfurnished,North,May be not,2,2,,Hydrabad
+2,others,0.99,7984,1240.0,1,Semi-Furnished,West,available,2,2,Main Road,Hydrabad
+3,Outer Ring Road,0.89,3870,2300.0,3,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+3,Uppal,0.925,5000,1850.0,4,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+2,others,0.6,5607,1070.0,1,Semi-Furnished,,May be not,2,1,,Hydrabad
+2,others,0.55,5000,1100.0,3,Unfurnished,West,May be not,2,1,Main Road,Hydrabad
+3,Kokapet,2.5,10000,2500.0,1,Semi-Furnished,West,available,3,3,Garden/Park,Hydrabad
+3,Bandlaguda Jagir,0.92,5823,1580.0,4,Unfurnished,East,May be not,3,3,Garden/Park,Hydrabad
+2,Yapral,0.55,5000,1100.0,4,Unfurnished,East,available,2,,Main Road,Hydrabad
+3,others,0.68,5371,1266.0,6,Unfurnished,South,available,2,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.62,5345,1160.0,5,Unfurnished,East,May be not,2,1,,Hydrabad
+3,others,0.85,4722,1800.0,5,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Hydrabad
+3,Miyapur,1.05,6774,1550.0,1,Semi-Furnished,West,May be not,3,3,Main Road,Hydrabad
+2,others,0.45,4202,1071.0,4,Unfurnished,East,available,2,1,,Hydrabad
+2,Puppalguda,0.63,5551,1135.0,2,Furnished,West,available,2,1,Main Road,Hydrabad
+3,others,0.9279999999999999,5800,1600.0,4,Unfurnished,East,available,3,2,,Hydrabad
+3,others,1.1,9182,1198.0,1,Furnished,West,available,2,1,"Pool, Main Road",Hydrabad
+3,others,0.8200000000000001,5290,1550.0,5,Semi-Furnished,South - East,available,3,2,,Hydrabad
+4,others,1.83,8971,2040.0,4,Furnished,North,available,4,2,Main Road,Hydrabad
+3,Outer Ring Road,1.1,5791,1899.0,3,Semi-Furnished,North - West,May be not,3,2,Main Road,Hydrabad
+2,Nizampet,0.85,7589,1120.0,1,Furnished,North,May be not,2,1,Main Road,Hydrabad
+2,Kompally,0.6,5106,1175.0,3,Unfurnished,North - East,May be not,2,2,Main Road,Hydrabad
+2,others,0.6,5455,1100.0,1,Unfurnished,East,May be not,2,3,Main Road,Hydrabad
+3,Miyapur,0.99,6188,1600.0,2,Unfurnished,East,May be not,2,2,,Hydrabad
+3,Bachupally,0.97,5746,1688.0,3,Unfurnished,West,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,others,0.9500000000000001,6129,1550.0,2,Furnished,,May be not,2,2,,Hydrabad
+3,Banjara Hills,1.8,11250,1600.0,1,Semi-Furnished,,May be not,2,2,,Hydrabad
+2,others,0.28800000000000003,,1150.0,9,Unfurnished,West,May be not,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,0.85,4942,1720.0,2,Semi-Furnished,,May be not,3,,,Hydrabad
+4,Kokapet,5.0,12500,4000.0,10+,Unfurnished,,May be not,4+,,,Hydrabad
+2,others,0.35000000000000003,2734,1280.0,7,Furnished,,May be not,2,,"Main Road, Garden/Park, Pool",Hydrabad
+3,others,3.5,12346,2835.0,0,Semi-Furnished,,May be not,3,,,Hydrabad
+2,others,0.55,4783,1150.0,4,Unfurnished,East,May be not,2,2,Main Road,Hydrabad
+3,Kondapur,1.75,9000,1955.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.35000000000000003,4667,750.0,0,Semi-Furnished,East,May be not,1,,,Hydrabad
+2,others,0.8590000000000001,6818,1260.0,2,Unfurnished,East,available,2,1,,Hydrabad
+2,Bachupally,0.696,5705,1220.0,3,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,Gachibowli,3.5,15909,2200.0,10+,Unfurnished,West,May be not,2,1,Main Road,Hydrabad
+2,others,0.47500000000000003,3893,1220.0,1,Unfurnished,East,available,2,2,Main Road,Hydrabad
+2,Uppal,0.49,4434,1105.0,4,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+3,Nizampet,0.85,5000,1700.0,1,Furnished,West,May be not,3,3,,Hydrabad
+3,Miyapur,1.16,7770,1493.0,4,Unfurnished,West,May be not,2,3,Garden/Park,Hydrabad
+2,Outer Ring Road,0.5,4310,1160.0,1,Unfurnished,East,May be not,2,2,,Hydrabad
+2,Narsingi,0.713,5699,1251.0,5,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,others,1.55,10000,1550.0,1,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+2,others,0.45,4000,1125.0,3,Unfurnished,North,May be not,2,2,Main Road,Hydrabad
+3,others,1.65,10217,1615.0,5,Unfurnished,,available,3,1,"Pool, Main Road",Hydrabad
+3,Kompally,0.81,4629,1750.0,4,Unfurnished,East,May be not,3,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.42,3750,1120.0,3,Unfurnished,East,May be not,2,2,Main Road,Hydrabad
+2,others,0.65,6190,1050.0,4,Semi-Furnished,North,available,2,1,,Hydrabad
+3,others,0.9500000000000001,6129,1550.0,2,Unfurnished,East,May be not,3,1,"Garden/Park, Main Road",Hydrabad
+3,Kokapet,3.35,13454,2490.0,6,Furnished,East,available,3,4,Garden/Park,Hydrabad
+3,others,2.0,9524,2100.0,7,Semi-Furnished,East,available,4,1,Main Road,Hydrabad
+2,others,0.45,4500,1000.0,5,Unfurnished,East,available,2,2,Main Road,Hydrabad
+2,others,0.75,6818,1100.0,1,Semi-Furnished,East,May be not,2,1,,Hydrabad
+3,others,1.35,7090,1904.0,2,Semi-Furnished,East,May be not,4,2,,Hydrabad
+3,others,1.3,5652,2300.0,3,Unfurnished,North - East,May be not,3,2,,Hydrabad
+3,others,0.6,4428,1355.0,4,Unfurnished,East,May be not,3,1,"Garden/Park, Main Road",Hydrabad
+2,NH 9,0.395,3950,1000.0,2,Unfurnished,North,available,2,2,Main Road,Hydrabad
+4,Kondapur,3.05,8600,3550.0,10,Unfurnished,East,available,4,3,Garden/Park,Hydrabad
+3,NH 9,1.8,10045,1792.0,5,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,Banjara Hills,3.5,13451,2602.0,4,Semi-Furnished,East,available,4,2,Main Road,Hydrabad
+3,others,0.79,4213,1875.0,1,Unfurnished,East,May be not,3,2,,Hydrabad
+3,others,0.72,5333,1350.0,4,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+2,Puppalguda,0.68,5667,1200.0,1,Furnished,North,available,2,2,Main Road,Hydrabad
+2,others,0.6759999999999999,6200,1090.0,2,Unfurnished,East,available,2,2,Main Road,Hydrabad
+3,others,1.37,9448,1450.0,3,Furnished,North - East,available,3,2,Main Road,Hydrabad
+3,Miyapur,1.6,8205,1950.0,2,Unfurnished,North,May be not,3,3,"Pool, Garden/Park",Hydrabad
+2,Nizampet,0.7000000000000001,6667,1050.0,4,Unfurnished,,May be not,2,,,Hydrabad
+2,others,1.2,10619,1130.0,3,Unfurnished,West,May be not,2,1,Main Road,Hydrabad
+2,Gachibowli,0.86,,1265.0,2,Semi-Furnished,,May be not,2,2,,Hydrabad
+2,others,0.9,6338,1420.0,9,Unfurnished,,May be not,2,2,,Hydrabad
+3,Tellapur,1.5,9375,1600.0,10+,Furnished,,available,3,2,,Hydrabad
+3,others,1.4,,1687.0,10,Semi-Furnished,,May be not,2,1,,Hydrabad
+3,others,1.55,7146,2169.0,4,Unfurnished,East,May be not,3,2,Garden/Park,Hydrabad
+3,Banjara Hills,2.75,11579,2375.0,1,Semi-Furnished,,May be not,3,,,Hydrabad
+3,Outer Ring Road,1.18,6556,1800.0,2,Furnished,East,available,3,1,Main Road,Hydrabad
+3,others,2.0,,2200.0,2,Unfurnished,North - East,available,3,4,Main Road,Hydrabad
+3,Tellapur,1.08,6399,1695.0,7,Unfurnished,East,May be not,3,1,"Garden/Park, Pool, Main Road",Hydrabad
+2,Nizampet,0.5,5000,1000.0,4,Unfurnished,East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+2,Bandlaguda Jagir,0.6900000000000001,5798,1190.0,2,Semi-Furnished,East,May be not,2,1,,Hydrabad
+2,others,0.36,3273,1100.0,3,Semi-Furnished,,May be not,2,,,Hydrabad
+2,others,0.6,6316,950.0,3,Semi-Furnished,,May be not,2,,,Hydrabad
+3,others,3.6,12000,3000.0,,,,May be not,,,,Hydrabad
+3,others,0.5710000000000001,3899,1465.0,5,Semi-Furnished,East,available,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+4,Tellapur,1.85,,2132.0,10+,Unfurnished,East,May be not,4,3,Pool,Hydrabad
+3,others,1.55,6599,2349.0,4,Unfurnished,East,available,3,3,Main Road,Hydrabad
+3,others,1.9,3538,5370.0,1,Unfurnished,East,available,3,1,Main Road,Hydrabad
+3,others,1.51,8251,1830.0,3,Unfurnished,West,May be not,3,3,Main Road,Hydrabad
+2,Kokapet,1.17,8800,1330.0,10+,Unfurnished,East,May be not,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,Miyapur,0.79,4580,1725.0,10,Unfurnished,East,May be not,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,2.65,11547,2295.0,3,Furnished,East,available,3,1,Main Road,Hydrabad
+4,others,1.3,,2600.0,4,Furnished,,May be not,4,,,Hydrabad
+2,others,0.42,4200,1000.0,2,Unfurnished,North - West,May be not,2,2,Main Road,Hydrabad
+3,others,0.68,,,5,Unfurnished,,May be not,2,3,,Hydrabad
+3,Kondapur,1.65,7500,2200.0,4,Unfurnished,,May be not,3,2,,Hydrabad
+3,others,1.38,7499,1845.0,1,Unfurnished,,available,3,,,Hydrabad
+3,others,1.04,5699,1828.0,,Unfurnished,,May be not,3,,,Hydrabad
+2,Bandlaguda Jagir,1.27,8405,1511.0,,Unfurnished,,May be not,2,,,Hydrabad
+3,Kokapet,1.77,9000,1968.0,,Unfurnished,,May be not,3,,,Hydrabad
+3,Puppalguda,1.7,8232,2065.0,4,Unfurnished,West,available,3,2,"Garden/Park, Pool",Hydrabad
+2,others,0.625,5100,1225.0,,Unfurnished,,available,2,,,Hydrabad
+3,Puppalguda,1.8,8717,2065.0,8,Unfurnished,West,May be not,3,2,Main Road,Hydrabad
+3,others,1.54,7999,1935.0,,Unfurnished,,available,3,,,Hydrabad
+3,Tellapur,1.37,6259,2189.0,,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.7090000000000001,5199,1364.0,,Unfurnished,,available,2,,,Hydrabad
+3,Kondapur,2.26,9499,2385.0,,Unfurnished,,May be not,3,,,Hydrabad
+3,others,1.33,8325,1601.0,,Unfurnished,,May be not,3,,,Hydrabad
+2,Kondapur,1.21,9300,1308.0,,Unfurnished,,available,2,,,Hydrabad
+2,others,0.5820000000000001,5050,1153.0,,Unfurnished,,available,2,,,Hydrabad
+2,Chanda Nagar,0.868,6500,1335.0,,Unfurnished,,available,2,,,Hydrabad
+3,Kollur,0.8300000000000001,5000,1660.0,,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.9009999999999999,6299,1430.0,,Unfurnished,,May be not,2,,,Hydrabad
+3,others,0.7440000000000001,4999,1488.0,,Semi-Furnished,,May be not,3,,,Hydrabad
+4,Outer Ring Road,3.3,6608,5005.0,,Unfurnished,,available,4,,,Hydrabad
+3,Uppal,1.76,7750,2279.0,,Unfurnished,,available,3,,,Hydrabad
+2,others,0.542,5512,983.0,,Unfurnished,,May be not,2,,,Hydrabad
+3,Outer Ring Road,0.961,6000,1601.0,,Unfurnished,,May be not,2,,,Hydrabad
+3,Kokapet,1.38,9399,1470.0,,Unfurnished,,available,3,,,Hydrabad
+2,Bachupally,0.7190000000000001,5599,1284.0,,Unfurnished,,May be not,2,,,Hydrabad
+2,Tellapur,0.794,7079,1122.0,3,Unfurnished,,available,2,,,Hydrabad
+3,Tellapur,1.74,7200,2430.0,,Unfurnished,,available,3,,,Hydrabad
+2,Kompally,0.48600000000000004,4200,1156.0,,Unfurnished,,available,2,,,Hydrabad
+2,NH 9,1.03,7225,1439.0,,Semi-Furnished,,May be not,2,,,Hydrabad
+3,Pragathi Nagar,0.899,5799,1550.0,,Semi-Furnished,,May be not,3,,,Hydrabad
+3,Manikonda Jagir,1.42,7513,1890.0,,Unfurnished,,May be not,3,,,Hydrabad
+2,Narsingi,0.968,7330,1320.0,,Unfurnished,,May be not,2,,,Hydrabad
+3,Kollur,1.11,5699,1950.0,,Unfurnished,,available,2,,,Hydrabad
+2,others,0.708,5873,1206.0,,Unfurnished,,available,2,,,Hydrabad
+3,others,0.737,4999,1475.0,,Unfurnished,,available,3,,,Hydrabad
+2,others,0.59,5139,1148.0,,Unfurnished,,May be not,3,,,Hydrabad
+2,Kollur,0.65,4999,1300.0,,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.9,7621,1181.0,4,Semi-Furnished,East,available,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.43,3874,1110.0,4,Unfurnished,North,available,2,1,,Hydrabad
+3,Pragathi Nagar,0.78,5799,1345.0,3,Unfurnished,East,available,2,2,Main Road,Hydrabad
+2,Nizampet,0.68,5440,1250.0,2,Semi-Furnished,West,May be not,2,1,,Hydrabad
+2,others,0.58,4754,1220.0,4,Unfurnished,East,available,2,,,Hydrabad
+2,Tellapur,1.0,7199,1400.0,,Unfurnished,,available,2,,,Hydrabad
+4,Kokapet,11.89,13500,8811.0,,Unfurnished,,available,4+,,,Hydrabad
+3,Bachupally,1.3,6299,2064.0,,Unfurnished,,May be not,3,,,Hydrabad
+2,Miyapur,0.685,5524,1240.0,3,Unfurnished,East,May be not,2,2,Garden/Park,Hydrabad
+2,others,0.51,4329,1178.0,3,Unfurnished,,May be not,2,1,,Hydrabad
+3,Kompally,1.82,8180,2225.0,9,Unfurnished,North - East,May be not,4,2,Main Road,Hydrabad
+2,Miyapur,0.838,6299,1330.0,,Unfurnished,,available,2,,,Hydrabad
+3,others,1.36,8047,1690.0,,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.64,,1200.0,1,Unfurnished,North,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.615,4800,1281.0,5,Unfurnished,East,May be not,2,1,"Garden/Park, Main Road",Hydrabad
+2,Outer Ring Road,0.545,4542,1200.0,2,Semi-Furnished,East,available,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,0.65,4643,1400.0,2,Unfurnished,,May be not,3,2,Main Road,Hydrabad
+2,others,0.7000000000000001,7361,951.0,3,Semi-Furnished,East,available,2,1,Main Road,Hydrabad
+3,Yapral,0.63,4200,1500.0,1,Unfurnished,West,May be not,2,2,Garden/Park,Hydrabad
+2,others,0.6,5714,1050.0,3,Unfurnished,East,available,2,2,,Hydrabad
+2,Bachupally,0.6,5602,1071.0,2,Semi-Furnished,East,available,2,2,Garden/Park,Hydrabad
+2,others,0.65,5285,1230.0,3,Unfurnished,North,May be not,2,,"Pool, Main Road",Hydrabad
+2,others,0.59,5847,1009.0,0,Unfurnished,West,May be not,2,2,,Hydrabad
+2,others,0.63,5478,1150.0,4,Unfurnished,West,May be not,2,2,,Hydrabad
+3,others,1.9,12117,1568.0,1,Furnished,West,May be not,2,2,Main Road,Hydrabad
+2,Uppal,0.78,6240,1250.0,1,Semi-Furnished,,May be not,2,,,Hydrabad
+1,Miyapur,0.42,9333,450.0,3,Furnished,East,available,1,2,"Garden/Park, Main Road",Hydrabad
+3,Kokapet,2.1,9906,2120.0,9,Unfurnished,West,May be not,3,3,Main Road,Hydrabad
+2,others,0.485,4802,1010.0,3,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.6,5714,1050.0,2,Semi-Furnished,,May be not,2,,,Hydrabad
+2,NH 9,0.47000000000000003,4709,998.0,2,Semi-Furnished,South,available,2,1,"Garden/Park, Main Road",Hydrabad
+2,others,0.4,3810,1050.0,5,Unfurnished,,May be not,2,1,Main Road,Hydrabad
+2,others,0.75,7500,1000.0,1,Unfurnished,East,May be not,2,1,,Hydrabad
+2,others,0.68,5574,1220.0,5,Unfurnished,,May be not,2,,,Hydrabad
+4,others,3.78,126000,300.0,,Unfurnished,,available,4+,,,Hydrabad
+2,others,0.38,3918,970.0,1,Unfurnished,,May be not,2,2,Main Road,Hydrabad
+2,others,0.32,4324,740.0,2,Unfurnished,West,May be not,2,1,,Hydrabad
+3,NH 9,1.8,9890,1820.0,3,Semi-Furnished,South,available,3,3,Main Road,Hydrabad
+2,others,0.31,3179,975.0,3,Semi-Furnished,West,available,2,,Main Road,Hydrabad
+3,Pragathi Nagar,0.866,5697,1520.0,1,Unfurnished,West,May be not,3,2,"Garden/Park, Main Road",Hydrabad
+3,others,1.07,7133,1500.0,3,Furnished,,May be not,2,,,Hydrabad
+2,Manikonda Jagir,0.9500000000000001,7037,1350.0,5,Furnished,,May be not,2,,,Hydrabad
+3,others,2.3,9369,2455.0,2,Furnished,,May be not,3,,,Hydrabad
+3,others,0.58,3946,1470.0,5,Unfurnished,North - East,May be not,3,3,,Hydrabad
+2,others,1.4,10249,1366.0,2,Unfurnished,West,available,2,,"Garden/Park, Main Road",Hydrabad
+2,others,0.34,4474,760.0,1,Unfurnished,,May be not,2,1,,Hydrabad
+2,others,0.62,6526,950.0,2,Semi-Furnished,East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,0.6,5455,1100.0,1,Semi-Furnished,,May be not,2,,,Hydrabad
+3,Gachibowli,1.4,8368,1673.0,7,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.504,3525,1430.0,5,Unfurnished,East,available,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+2,Bachupally,0.413,4001,1032.0,1,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Hydrabad
+3,others,1.6,8889,1800.0,1,Furnished,East,May be not,2,2,Main Road,Hydrabad
+2,others,0.27,2842,950.0,0,Unfurnished,East,available,1,2,"Garden/Park, Main Road",Hydrabad
+3,Gachibowli,1.55,9118,1700.0,2,Furnished,,May be not,3,3,,Hydrabad
+4,Uppal,1.65,5500,3000.0,3,Unfurnished,North,available,4+,4,Main Road,Hydrabad
+2,others,1.0,9132,1095.0,1,Unfurnished,North,available,2,2,Main Road,Hydrabad
+2,Pragathi Nagar,0.665,6045,1100.0,1,Furnished,North,May be not,2,1,Garden/Park,Hydrabad
+2,others,0.41000000000000003,4481,915.0,3,Semi-Furnished,,May be not,2,,,Hydrabad
+2,others,1.2,8889,1350.0,10+,Unfurnished,East,available,2,1,Main Road,Hydrabad
+2,Kompally,0.8,6015,1330.0,2,Furnished,,May be not,2,,,Hydrabad
+2,others,0.45,4500,1000.0,3,Semi-Furnished,,available,2,1,Main Road,Hydrabad
+2,others,0.34600000000000003,3264,1060.0,2,Semi-Furnished,West,May be not,2,2,,Hydrabad
+2,others,0.65,6226,1044.0,4,Semi-Furnished,South,May be not,2,1,Main Road,Hydrabad
+3,Banjara Hills,3.0,12500,2400.0,8,Semi-Furnished,,May be not,3,,,Hydrabad
+4,others,1.3,4333,3000.0,9,Semi-Furnished,,May be not,4,,,Hydrabad
+2,others,0.45,3913,1150.0,5,Unfurnished,North - East,May be not,2,1,Main Road,Hydrabad
+2,others,0.55,5641,975.0,4,Semi-Furnished,,May be not,2,1,"Garden/Park, Main Road",Hydrabad
+3,Outer Ring Road,1.35,5747,2349.0,1,Furnished,,May be not,3,,,Hydrabad
+2,others,0.33799999999999997,2700,1252.0,2,Unfurnished,,May be not,2,1,,Hydrabad
+2,others,0.3,4032,744.0,3,Unfurnished,,May be not,2,2,,Hydrabad
+3,others,1.55,6813,2275.0,3,Semi-Furnished,North,available,4,2,,Hydrabad
+2,NH 9,0.6,7059,850.0,0,Unfurnished,South,May be not,2,1,,Hydrabad
+2,others,0.55,5366,1025.0,2,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+3,others,0.75,5515,1360.0,1,Furnished,North,May be not,2,2,,Hydrabad
+2,Outer Ring Road,0.662,5534,1196.0,3,Unfurnished,North,available,2,1,Main Road,Hydrabad
+3,others,1.07,7000,1534.0,,Unfurnished,,available,3,,,Hydrabad
+2,Outer Ring Road,0.7000000000000001,6211,1127.0,2,Unfurnished,West,May be not,2,2,"Main Road, Garden/Park",Hydrabad
+2,others,0.3,2727,1100.0,3,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+2,others,0.55,4762,1155.0,1,Unfurnished,North,May be not,2,2,Main Road,Hydrabad
+3,others,1.12,,2120.0,7,Unfurnished,West,available,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,Narsingi,0.9,5625,1600.0,2,Unfurnished,,May be not,2,1,Main Road,Hydrabad
+4,others,1.87,7192,2600.0,3,Furnished,,May be not,4,,,Hydrabad
+2,others,0.4,3791,1055.0,5,Unfurnished,North - West,available,2,1,Main Road,Hydrabad
+2,Yapral,0.47000000000000003,4700,1000.0,1,Unfurnished,West,May be not,2,2,Garden/Park,Hydrabad
+2,Outer Ring Road,0.485,4025,1205.0,4,Unfurnished,West,May be not,2,2,,Hydrabad
+3,others,1.25,7891,1584.0,0,Unfurnished,East,May be not,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,NH 9,2.92,10429,2800.0,1,Semi-Furnished,North - East,available,3,2,Main Road,Hydrabad
+2,others,0.9500000000000001,8155,1165.0,2,Furnished,,May be not,2,2,,Hydrabad
+2,others,0.48,4388,1094.0,5,Semi-Furnished,,May be not,2,,,Hydrabad
+3,others,1.05,6462,1625.0,3,Semi-Furnished,,May be not,3,,Main Road,Hydrabad
+3,others,0.9500000000000001,5648,1682.0,2,Unfurnished,East,May be not,3,2,,Hydrabad
+3,Kompally,1.6,6950,2302.0,3,Unfurnished,West,May be not,3,3,Main Road,Hydrabad
+3,Bachupally,1.2,6685,1795.0,1,Unfurnished,East,available,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.65,5462,1190.0,3,Unfurnished,East,May be not,2,1,,Hydrabad
+3,others,2.0,9091,2200.0,2,Unfurnished,West,May be not,3,1,Main Road,Hydrabad
+3,others,0.965,6303,1531.0,5,,West,available,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,0.68,,1333.0,3,Unfurnished,South,available,3,1,,Hydrabad
+3,others,1.0,5456,1833.0,4,Furnished,North - East,available,3,2,Main Road,Hydrabad
+2,others,0.58,5524,1050.0,2,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.53,5166,1026.0,0,Unfurnished,West,May be not,2,1,,Hydrabad
+3,Kompally,1.12,5209,2150.0,1,Unfurnished,,May be not,3,2,Main Road,Hydrabad
+3,others,0.787,4999,1574.0,1,Unfurnished,East,available,3,2,Main Road,Hydrabad
+2,others,0.7000000000000001,5833,1200.0,4,Semi-Furnished,North,available,2,,Main Road,Hydrabad
+3,Tellapur,1.7,8161,2083.0,8,Furnished,,May be not,3,2,,Hydrabad
+1,others,0.25,3846,650.0,2,Unfurnished,West,May be not,1,1,Main Road,Hydrabad
+2,others,0.55,,1147.0,1,Furnished,North,May be not,2,1,Main Road,Hydrabad
+1,others,0.23,3538,650.0,2,Unfurnished,West,May be not,1,1,Main Road,Hydrabad
+2,others,0.6,4918,1220.0,1,Furnished,West,available,2,2,Main Road,Hydrabad
+2,others,0.68,6182,1100.0,2,Unfurnished,North - East,May be not,2,1,,Hydrabad
+2,others,0.35000000000000003,3684,950.0,2,Semi-Furnished,,May be not,2,,,Hydrabad
+3,others,2.41,13000,1860.0,,,,May be not,,,,Hydrabad
+2,others,0.56,4469,1253.0,1,Unfurnished,,May be not,2,1,,Hydrabad
+3,others,0.831,4751,1749.0,1,Unfurnished,,available,3,2,,Hydrabad
+2,others,1.15,9048,1271.0,8,Semi-Furnished,West,May be not,2,2,Main Road,Hydrabad
+2,others,0.44,,1037.0,1,Unfurnished,East,May be not,2,2,,Hydrabad
+2,others,0.35000000000000003,4654,752.0,3,Semi-Furnished,South,May be not,2,2,Main Road,Hydrabad
+3,others,1.9,9769,1945.0,7,Unfurnished,East,available,3,1,Garden/Park,Hydrabad
+2,others,0.85,8095,1050.0,2,Unfurnished,North,May be not,2,,"Garden/Park, Main Road",Hydrabad
+2,others,0.9500000000000001,8085,1175.0,1,Semi-Furnished,East,May be not,2,2,"Main Road, Garden/Park",Hydrabad
+2,others,0.9,,1050.0,1,Unfurnished,,May be not,2,2,,Hydrabad
+3,others,1.7,10526,1615.0,3,Semi-Furnished,West,available,3,2,,Hydrabad
+2,Miyapur,0.75,6122,1225.0,5,Semi-Furnished,East,May be not,2,2,,Hydrabad
+3,Pragathi Nagar,0.77,5366,1435.0,0,Furnished,West,available,3,,Garden/Park,Hydrabad
+2,others,0.48,5647,850.0,1,Furnished,North - West,May be not,2,1,Main Road,Hydrabad
+1,others,5.25,13629,3852.0,2,Unfurnished,East,available,2,,,Hydrabad
+3,Uppal,0.75,4902,1530.0,4,Unfurnished,,May be not,3,2,,Hydrabad
+2,NH 9,0.9500000000000001,7037,1350.0,1,Semi-Furnished,East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.65,5159,1260.0,1,Unfurnished,East,May be not,2,2,Main Road,Hydrabad
+2,Chanda Nagar,0.62,5561,1115.0,2,Unfurnished,East,May be not,2,2,Main Road,Hydrabad
+3,Outer Ring Road,0.71,4837,1468.0,2,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+2,others,0.5700000000000001,5429,1050.0,3,Unfurnished,East,May be not,2,2,Main Road,Hydrabad
+2,NH 9,1.3,8228,1580.0,4,Semi-Furnished,,May be not,2,,,Hydrabad
+3,others,1.9,9048,2100.0,10+,Unfurnished,East,May be not,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+4+,others,1.2,5217,2300.0,0,Unfurnished,,May be not,4+,3,,Hydrabad
+3,others,0.87,5438,1600.0,5,Furnished,,May be not,3,2,,Hydrabad
+2,others,0.85,6939,1225.0,5,Semi-Furnished,,May be not,2,,,Hydrabad
+1,Chanda Nagar,0.52,7122,730.0,3,Furnished,East,available,2,1,Main Road,Hydrabad
+2,others,1.04,,1445.0,1,Semi-Furnished,West,available,2,1,Main Road,Hydrabad
+2,others,0.47000000000000003,5497,855.0,4,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+3,others,0.935,5500,1700.0,2,Unfurnished,North,May be not,3,3,Main Road,Hydrabad
+2,others,0.55,5670,970.0,3,Unfurnished,,May be not,2,1,,Hydrabad
+3,Manikonda Jagir,1.32,7928,1665.0,10,Semi-Furnished,East,May be not,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.5,7895,1900.0,2,Unfurnished,East,May be not,2,4,,Hydrabad
+1,others,0.22,4000,550.0,1,Furnished,East,May be not,1,2,,Hydrabad
+2,Kokapet,1.5,11811,1270.0,10+,Unfurnished,West,May be not,2,3,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.25,5435,2300.0,2,Unfurnished,East,May be not,3,1,,Hydrabad
+4+,Uppal,4.2,17032,2466.0,,,,May be not,,,,Hydrabad
+2,others,0.7000000000000001,,1240.0,2,Unfurnished,,May be not,2,1,,Hydrabad
+2,Nizampet,0.43,4019,1070.0,3,Furnished,North - West,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+4,others,1.3,7514,1730.0,10+,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.55,5131,1072.0,5,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.7000000000000001,,1150.0,1,Semi-Furnished,West,May be not,2,1,,Hydrabad
+4+,others,4.0,7784,5139.0,4,Furnished,East,May be not,4+,2,Main Road,Hydrabad
+2,others,0.51,4857,1050.0,4,Furnished,North - West,May be not,2,2,"Garden/Park, Pool",Hydrabad
+3,Kondapur,3.93,9500,4137.0,10+,Semi-Furnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,others,1.06,6401,1656.0,8,Unfurnished,West,available,3,1,Garden/Park,Hydrabad
+2,others,1.0,8333,1200.0,0,Unfurnished,East,May be not,2,2,"Pool, Garden/Park, Main Road",Hydrabad
+2,others,0.58,5426,1069.0,2,Unfurnished,North - East,May be not,2,2,Main Road,Hydrabad
+3,Pragathi Nagar,0.9500000000000001,5523,1720.0,2,Unfurnished,West,May be not,3,2,Garden/Park,Hydrabad
+3,others,2.3,10773,2135.0,3,Unfurnished,,May be not,3,,,Hydrabad
+4+,others,1.45,3452,4200.0,3,Unfurnished,,May be not,4+,,,Hydrabad
+2,others,0.81,,1100.0,4,Furnished,East,May be not,2,2,,Hydrabad
+3,others,0.7000000000000001,3500,2000.0,6,Semi-Furnished,East,May be not,2,3,Main Road,Hydrabad
+2,others,0.5,4630,1080.0,1,Semi-Furnished,,May be not,2,2,,Hydrabad
+2,Yapral,0.73,6083,1200.0,1,Semi-Furnished,East,May be not,2,1,Garden/Park,Hydrabad
+2,others,0.55,5314,1035.0,1,Unfurnished,East,May be not,2,1,,Hydrabad
+4+,Kollur,4.5,4186,10750.0,10+,Semi-Furnished,,May be not,4+,4+,,Hydrabad
+2,others,0.61,,1078.0,2,Furnished,,May be not,2,2,,Hydrabad
+3,others,0.72,4675,1540.0,5,Semi-Furnished,,May be not,3,2,,Hydrabad
+2,others,0.6,5217,1150.0,2,Unfurnished,West,May be not,2,2,Main Road,Hydrabad
+2,others,1.26,9984,1262.0,2,Semi-Furnished,West,May be not,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+2,Outer Ring Road,0.31,,1100.0,5,Unfurnished,East,May be not,2,1,"Garden/Park, Main Road",Hydrabad
+3,others,1.05,5526,1900.0,2,Unfurnished,East,May be not,3,3,"Garden/Park, Main Road",Hydrabad
+3,others,1.1,8980,1225.0,1,Furnished,,May be not,2,,,Hydrabad
+2,others,0.7000000000000001,5185,1350.0,1,Unfurnished,East,May be not,2,,Main Road,Hydrabad
+2,others,0.45,4286,1050.0,1,Unfurnished,East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+3,Kondapur,1.6,7882,2030.0,3,Unfurnished,,May be not,3,,,Hydrabad
+3,Manikonda Jagir,0.62,9538,650.0,2,Unfurnished,East,available,2,,,Hydrabad
+3,NH 9,1.1,7261,1515.0,1,Semi-Furnished,,May be not,3,1,Main Road,Hydrabad
+4,others,0.85,2760,3080.0,10+,Unfurnished,West,May be not,3,3,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.0,7042,1420.0,3,Semi-Furnished,West,May be not,3,1,Main Road,Hydrabad
+3,others,1.51,10033,1505.0,10+,Unfurnished,West,May be not,2,1,Pool,Hydrabad
+2,others,1.12,8589,1304.0,7,Unfurnished,East,May be not,2,1,"Garden/Park, Pool",Hydrabad
+2,others,0.35000000000000003,3302,1060.0,3,Unfurnished,East,May be not,2,2,,Hydrabad
+4+,others,5.6,6222,9000.0,3,Semi-Furnished,South - East,available,4+,4,Main Road,Hydrabad
+2,others,0.6,6000,1000.0,2,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.75,,,2,Semi-Furnished,South,available,2,1,,Hydrabad
+3,Manikonda Jagir,1.1,5500,2000.0,3,Furnished,North - East,available,3,,"Garden/Park, Main Road",Hydrabad
+2,others,0.65,4333,1500.0,1,Semi-Furnished,,May be not,3,,,Hydrabad
+2,others,1.25,7812,1600.0,5,Furnished,East,May be not,3,,Main Road,Hydrabad
+2,others,0.75,7143,1050.0,1,Furnished,,May be not,2,,,Hydrabad
+2,others,0.85,6459,1316.0,1,Semi-Furnished,South,May be not,2,3,"Garden/Park, Main Road",Hydrabad
+2,others,0.28,3867,724.0,2,Unfurnished,East,May be not,2,,,Hydrabad
+2,others,1.3,9240,1407.0,10+,Furnished,West,May be not,2,2,Garden/Park,Hydrabad
+2,others,0.65,5324,1221.0,1,Unfurnished,East,May be not,2,1,"Pool, Garden/Park, Main Road",Hydrabad
+2,others,0.62,5000,1240.0,3,Unfurnished,West,May be not,2,,Garden/Park,Hydrabad
+2,others,0.59,6556,900.0,1,Unfurnished,,May be not,2,,,Hydrabad
+3,others,0.87,5241,1660.0,5,Semi-Furnished,,May be not,3,,,Hydrabad
+3,others,0.72,5760,1250.0,4,Semi-Furnished,,May be not,2,,,Hydrabad
+2,others,0.75,6356,1180.0,6,Unfurnished,West,May be not,2,1,,Hydrabad
+3,others,1.7,8095,2100.0,10+,Unfurnished,,May be not,3,,,Hydrabad
+3,others,0.85,6800,1250.0,1,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+2,Outer Ring Road,0.5,4464,1120.0,3,Unfurnished,East,May be not,2,,,Hydrabad
+3,NH 9,1.6,10159,1575.0,2,Semi-Furnished,,May be not,3,,,Hydrabad
+2,Outer Ring Road,0.45,4091,1100.0,3,Furnished,,May be not,2,,,Hydrabad
+2,others,0.65,7222,900.0,4,Unfurnished,East,available,2,1,,Hydrabad
+2,others,0.75,,900.0,1,Unfurnished,North,available,2,2,,Hydrabad
+2,others,0.6,5455,1100.0,3,Furnished,East,available,2,1,Garden/Park,Hydrabad
+2,others,0.75,6818,1100.0,4,Unfurnished,North,May be not,2,1,Main Road,Hydrabad
+2,others,0.7000000000000001,6542,1070.0,7,Semi-Furnished,North,May be not,2,1,"Pool, Garden/Park, Main Road",Hydrabad
+3,Kondapur,1.76,10583,1663.0,10+,Unfurnished,West,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,Kollur,1.4,5773,2425.0,7,Unfurnished,West,available,3,3,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,3.3,11458,2880.0,10+,Unfurnished,West,available,3,1,Main Road,Hydrabad
+3,Kondapur,1.7,7391,2300.0,2,Unfurnished,East,available,3,1,,Hydrabad
+2,Pragathi Nagar,0.58,5631,1030.0,3,Semi-Furnished,East,May be not,2,2,,Hydrabad
+3,Banjara Hills,2.65,11134,2380.0,0,Semi-Furnished,,May be not,3,,,Hydrabad
+3,Puppalguda,1.8,8571,2100.0,7,Unfurnished,East,May be not,3,1,,Hydrabad
+3,Kompally,1.6,8791,1820.0,6,Furnished,East,May be not,3,2,Garden/Park,Hydrabad
+3,others,1.55,9118,1700.0,1,Furnished,West,May be not,3,1,Garden/Park,Hydrabad
+3,others,1.25,8013,1560.0,0,Semi-Furnished,,May be not,3,2,"Pool, Garden/Park, Main Road",Hydrabad
+3,others,1.45,9477,1530.0,2,Furnished,East,May be not,3,2,Main Road,Hydrabad
+2,others,0.52,4618,1126.0,2,Unfurnished,North,available,2,3,,Hydrabad
+3,others,0.7000000000000001,5833,1200.0,3,Unfurnished,North - West,May be not,2,2,Garden/Park,Hydrabad
+2,others,1.5,10000,1500.0,2,Unfurnished,,May be not,2,1,,Hydrabad
+2,others,0.7000000000000001,5600,1250.0,2,Semi-Furnished,North - East,available,2,1,Main Road,Hydrabad
+3,others,1.2,7692,1560.0,2,Unfurnished,East,May be not,3,2,,Hydrabad
+4+,others,9.0,25714,3500.0,10,Unfurnished,East,May be not,4+,4+,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.5,8824,1700.0,3,Unfurnished,,May be not,2,1,,Hydrabad
+2,others,0.675,5233,1290.0,2,Unfurnished,East,May be not,2,2,Main Road,Hydrabad
+3,others,1.2,9677,1240.0,5,Unfurnished,West,May be not,4,2,Main Road,Hydrabad
+3,Kokapet,2.3,10351,2222.0,10,Unfurnished,East,available,2,1,"Garden/Park, Pool",Hydrabad
+2,others,0.8,7619,1050.0,5,Semi-Furnished,,May be not,2,,,Hydrabad
+3,others,0.85,6800,1250.0,1,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road",Hydrabad
+2,others,2.6,27368,950.0,1,Semi-Furnished,,May be not,2,1,,Hydrabad
+3,Kompally,0.9500000000000001,5343,1778.0,4,Unfurnished,,May be not,3,,,Hydrabad
+4+,others,0.85,7234,1175.0,,,,May be not,,,,Hydrabad
+4+,others,1.5,9375,1600.0,,,,May be not,,,,Hydrabad
+3,others,0.96,5393,1780.0,4,Unfurnished,West,May be not,3,3,Main Road,Hydrabad
+3,NH 9,0.7000000000000001,,1360.0,4,Unfurnished,East,May be not,2,2,Main Road,Hydrabad
+3,others,0.98,6469,1515.0,3,Semi-Furnished,,May be not,2,3,,Hydrabad
+4,others,4.0,12739,3140.0,1,Unfurnished,North - East,May be not,4,3,Main Road,Hydrabad
+3,others,1.0,7018,1425.0,1,Furnished,East,May be not,2,1,,Hydrabad
+4+,others,1.1,7333,1500.0,0,Unfurnished,North - East,May be not,4+,1,Main Road,Hydrabad
+2,others,1.25,3472,3600.0,2,Unfurnished,East,May be not,2,2,,Hydrabad
+2,others,0.52,5200,1000.0,4,Unfurnished,North,May be not,2,2,Main Road,Hydrabad
+3,others,2.22,,2220.0,10+,Unfurnished,West,May be not,4,2,"Garden/Park, Pool",Hydrabad
+3,others,1.1,6077,1810.0,4,Unfurnished,West,May be not,3,2,,Hydrabad
+3,others,0.8470000000000001,,1380.0,1,Unfurnished,,May be not,3,1,,Hydrabad
+3,others,3.5,14000,2500.0,3,Semi-Furnished,North,May be not,2,1,Main Road,Hydrabad
+3,others,5.0,19268,2595.0,0,Furnished,South - East,May be not,3,2,"Garden/Park, Main Road",Hydrabad
+3,Kompally,0.758,5000,1515.0,,,,May be not,,,,Hydrabad
+2,others,0.8,8000,1000.0,2,Furnished,,May be not,2,2,,Hydrabad
+2,others,0.6,5854,1025.0,2,Unfurnished,East,May be not,2,2,Garden/Park,Hydrabad
+3,others,1.0,6667,1500.0,2,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,others,1.89,10541,1793.0,10+,Unfurnished,West,May be not,3,1,Garden/Park,Hydrabad
+2,others,0.59,6051,975.0,3,Furnished,West,available,2,,Main Road,Hydrabad
+2,others,0.7000000000000001,6536,1071.0,5,Semi-Furnished,East,available,2,1,,Hydrabad
+3,others,0.98,,1825.0,4,Unfurnished,North - West,May be not,3,4,,Hydrabad
+2,others,1.5,10714,1400.0,10+,Furnished,North - East,May be not,2,2,,Hydrabad
+3,others,1.35,,2690.0,2,Unfurnished,,May be not,3,2,,Hydrabad
+3,others,1.3,8667,1500.0,2,Semi-Furnished,,May be not,2,,,Hydrabad
+3,Gachibowli,1.35,7965,1695.0,10+,Semi-Furnished,East,May be not,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.2,7059,1700.0,2,Unfurnished,North - East,May be not,3,4,,Hydrabad
+2,Outer Ring Road,0.6,5455,1100.0,5,Furnished,East,May be not,2,2,,Hydrabad
+3,others,0.8,4577,1748.0,0,Furnished,East,available,3,1,"Garden/Park, Pool",Hydrabad
+2,others,0.5,4744,1054.0,4,Semi-Furnished,East,available,2,,,Hydrabad
+2,others,0.75,,1325.0,4,Unfurnished,,May be not,2,1,,Hydrabad
+2,Manikonda Jagir,0.85,6939,1225.0,5,Unfurnished,West,May be not,2,2,Main Road,Hydrabad
+2,others,1.0,8163,1225.0,3,Semi-Furnished,,May be not,2,2,,Hydrabad
+3,others,1.95,10864,1795.0,1,Unfurnished,East,May be not,3,3,Main Road,Hydrabad
+2,others,0.45,4500,1000.0,3,Unfurnished,East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,1.25,5319,2350.0,5,Unfurnished,,May be not,3,,,Hydrabad
+3,others,1.1,6304,1745.0,1,Unfurnished,East,May be not,3,3,,Hydrabad
+2,others,0.45,5769,780.0,2,Semi-Furnished,North,May be not,2,1,Main Road,Hydrabad
+4+,others,8.0,5714,14001.0,0,Semi-Furnished,West,May be not,4+,,,Hydrabad
+2,Bandlaguda Jagir,1.0,6250,1600.0,1,Unfurnished,,May be not,2,2,,Hydrabad
+4,others,2.3,10952,2100.0,2,Unfurnished,South,available,4,3,Main Road,Hydrabad
+2,others,0.75,6250,1200.0,1,Unfurnished,East,May be not,2,1,,Hydrabad
+2,others,0.72,6076,1185.0,4,Unfurnished,West,May be not,2,2,,Hydrabad
+4+,NH 9,1.5,15789,950.0,0,Unfurnished,East,May be not,4+,2,,Hydrabad
+3,others,1.1,5500,2000.0,2,Unfurnished,East,May be not,3,2,,Hydrabad
+3,others,1.24,6667,1860.0,7,Unfurnished,East,May be not,3,3,"Pool, Garden/Park, Main Road",Hydrabad
+3,others,1.08,6109,1768.0,1,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Hydrabad
+3,Bandlaguda Jagir,1.13,5608,2015.0,3,Unfurnished,East,available,3,3,Main Road,Hydrabad
+3,others,1.1,7237,1520.0,2,Unfurnished,,May be not,3,1,,Hydrabad
+4+,others,1.35,,3000.0,2,Semi-Furnished,East,May be not,4+,,,Hydrabad
+3,others,1.01,5799,1742.0,2,Unfurnished,West,May be not,3,2,Main Road,Hydrabad
+2,others,0.425,3795,1120.0,0,Unfurnished,East,available,2,1,Main Road,Hydrabad
+2,Gachibowli,0.52,5474,950.0,1,Unfurnished,East,May be not,2,1,,Hydrabad
+4+,others,7.0,5833,12001.0,5,Semi-Furnished,West,May be not,4+,4+,,Hydrabad
+3,others,1.74,8000,2175.0,10+,Unfurnished,East,available,3,2,Garden/Park,Hydrabad
+3,Kompally,1.28,8393,1525.0,7,Unfurnished,North,available,2,1,Garden/Park,Hydrabad
+3,others,1.22,6595,1850.0,3,Semi-Furnished,East,May be not,3,3,,Hydrabad
+2,others,0.75,6250,1200.0,1,Furnished,North - East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,1.23,5999,2055.0,10+,Semi-Furnished,East,available,3,2,,Hydrabad
+2,others,0.55,5164,1065.0,5,Furnished,South - East,May be not,2,2,Main Road,Hydrabad
+2,others,0.4,3828,1045.0,0,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.4,4545,880.0,5,Furnished,East,May be not,2,1,,Hydrabad
+3,others,1.4,8750,1600.0,4,Unfurnished,North,May be not,3,3,Main Road,Hydrabad
+2,others,0.75,7614,985.0,4,Furnished,East,May be not,2,2,Main Road,Hydrabad
+2,others,1.0,4836,2068.0,0,Furnished,,May be not,2,,,Hydrabad
+2,others,0.761,6122,1243.0,1,Unfurnished,North,available,2,2,,Hydrabad
+2,others,0.8059999999999999,5424,1486.0,5,Unfurnished,East,May be not,2,1,,Hydrabad
+3,NH 9,0.76,4967,1530.0,1,Unfurnished,East,available,3,1,Main Road,Hydrabad
+2,others,0.7000000000000001,7568,925.0,1,Semi-Furnished,West,May be not,2,2,,Hydrabad
+2,others,0.484,4264,1135.0,3,Unfurnished,East,available,2,1,Main Road,Hydrabad
+2,others,0.555,7624,728.0,1,Semi-Furnished,North - West,May be not,2,1,,Hydrabad
+2,Nizampet,0.45,4737,950.0,4,Semi-Furnished,,May be not,2,,,Hydrabad
+2,others,0.58,5156,1125.0,3,Unfurnished,,May be not,2,2,,Hydrabad
+3,others,1.18,6500,1818.0,2,Unfurnished,East,May be not,3,1,,Hydrabad
+2,NH 9,1.1,8835,1245.0,8,Unfurnished,,May be not,2,,,Hydrabad
+3,others,1.5,12500,1200.0,3,Furnished,,May be not,3,,,Hydrabad
+2,others,0.4,4000,1000.0,1,Unfurnished,East,May be not,2,2,,Hydrabad
+2,others,0.65,5677,1145.0,6,Furnished,North,May be not,2,1,Main Road,Hydrabad
+2,others,0.35000000000000003,,800.0,3,Unfurnished,,May be not,2,1,,Hydrabad
+2,others,0.53,5000,1060.0,3,Unfurnished,East,May be not,2,2,Main Road,Hydrabad
+3,others,1.25,7310,1710.0,5,Furnished,,May be not,2,,,Hydrabad
+2,others,0.44,5207,845.0,3,Unfurnished,North,available,2,,,Hydrabad
+2,others,0.55,4583,1200.0,1,Unfurnished,East,May be not,2,2,Garden/Park,Hydrabad
+1,others,0.3,4559,658.0,7,Furnished,,May be not,1,,,Hydrabad
+4,others,4.06,20594,1975.0,10+,Unfurnished,,May be not,4,,,Hydrabad
+3,others,1.4,7977,1755.0,5,Semi-Furnished,South - East,May be not,3,1,Main Road,Hydrabad
+2,NH 9,1.3,10156,1280.0,5,Furnished,East,May be not,2,,Main Road,Hydrabad
+4,others,1.2,4800,2500.0,2,Unfurnished,West,available,3,2,,Hydrabad
+2,others,0.79,6245,1265.0,5,Unfurnished,,May be not,2,1,,Hydrabad
+2,Kondapur,1.41,9724,1450.0,10+,Semi-Furnished,West,available,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.25,6579,1900.0,3,Furnished,North,May be not,3,2,Main Road,Hydrabad
+3,Kondapur,1.15,,1750.0,1,Semi-Furnished,,May be not,3,2,,Hydrabad
+3,NH 9,1.75,7609,2300.0,2,Unfurnished,East,available,3,2,,Hydrabad
+2,others,0.39,3391,1150.0,5,Semi-Furnished,North - East,available,3,1,Main Road,Hydrabad
+3,others,3.12,12500,2500.0,2,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.7000000000000001,7463,938.0,2,Furnished,,May be not,2,,,Hydrabad
+3,others,1.3,7715,1685.0,5,Semi-Furnished,,May be not,3,,,Hydrabad
+2,others,0.5,6993,715.0,1,Furnished,,May be not,2,,,Hydrabad
+3,Banjara Hills,1.5,7895,1900.0,2,Semi-Furnished,,May be not,3,,,Hydrabad
+2,Tellapur,1.3,10375,1253.0,1,Unfurnished,,May be not,2,,,Hydrabad
+4,others,3.6,10000,3600.0,4,Furnished,,May be not,4,,,Hydrabad
+2,Miyapur,0.7000000000000001,5691,1230.0,3,Semi-Furnished,,May be not,2,,,Hydrabad
+3,others,2.3,,1825.0,3,Semi-Furnished,,May be not,3,2,,Hydrabad
+3,Uppal,1.32,6392,2065.0,4,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.3,3750,800.0,5,Semi-Furnished,,May be not,2,,,Hydrabad
+2,others,0.55,5314,1035.0,5,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+2,others,0.418,3976,1051.0,7,Unfurnished,,May be not,2,2,,Hydrabad
+2,Uppal,0.6900000000000001,5798,1190.0,2,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+3,NH 9,1.36,7319,1858.0,5,Unfurnished,East,available,3,2,"Garden/Park, Pool",Hydrabad
+4,others,3.15,8690,3625.0,10+,Semi-Furnished,South - East,available,3,2,"Garden/Park, Main Road",Hydrabad
+3,others,1.67,8892,1878.0,7,Semi-Furnished,East,available,3,3,Garden/Park,Hydrabad
+2,others,0.78,6500,1200.0,4,Semi-Furnished,East,available,2,2,Main Road,Hydrabad
+2,others,0.78,6718,1161.0,1,Semi-Furnished,West,May be not,2,,Garden/Park,Hydrabad
+2,Pragathi Nagar,0.54,5217,1035.0,4,Semi-Furnished,East,available,2,2,Main Road,Hydrabad
+3,others,0.6,4110,1460.0,3,Semi-Furnished,North,available,2,2,Main Road,Hydrabad
+3,Gachibowli,2.9,10781,2690.0,10,Semi-Furnished,West,May be not,3,3,"Garden/Park, Pool",Hydrabad
+3,others,1.5,,,1,Unfurnished,,May be not,4,2,,Hydrabad
+2,others,0.53,5408,980.0,4,Unfurnished,East,May be not,2,2,Main Road,Hydrabad
+3,Chanda Nagar,1.0,5000,2000.0,6,Furnished,South,available,3,3,,Hydrabad
+2,others,0.52,4522,1150.0,3,Unfurnished,,May be not,2,1,,Hydrabad
+2,NH 9,1.2,8929,1344.0,3,Semi-Furnished,,May be not,2,3,,Hydrabad
+3,Kondapur,1.5,7000,2157.0,,Semi-Furnished,,available,3,1,,Hydrabad
+4,others,4.9,17469,2805.0,10+,Unfurnished,,May be not,4,2,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.85,7025,1210.0,3,Semi-Furnished,East,available,2,2,Main Road,Hydrabad
+2,others,0.7000000000000001,6114,1145.0,2,Semi-Furnished,East,available,2,1,,Hydrabad
+3,NH 9,0.87,5800,1500.0,3,Unfurnished,East,May be not,3,1,,Hydrabad
+3,others,1.5,8333,1800.0,3,Semi-Furnished,,May be not,4,,,Hydrabad
+1,others,0.26,5778,450.0,4,Unfurnished,,May be not,1,1,,Hydrabad
+2,others,0.55,4955,1110.0,2,Unfurnished,East,available,2,,,Hydrabad
+3,Tellapur,1.05,7500,1400.0,10,Unfurnished,East,May be not,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.3,8125,1600.0,1,Semi-Furnished,,May be not,3,,,Hydrabad
+4,Banjara Hills,2.3,11500,2000.0,5,,,May be not,4,,,Hydrabad
+3,others,2.5,12500,2000.0,2,Furnished,,May be not,3,,,Hydrabad
+2,others,0.52,4860,1070.0,3,Furnished,,May be not,2,,,Hydrabad
+3,others,1.48,9000,1650.0,5,Furnished,East,available,3,,Main Road,Hydrabad
+2,others,0.42,4667,900.0,1,Unfurnished,,May be not,2,,,Hydrabad
+3,Kondapur,1.55,7990,1940.0,8,Furnished,,May be not,3,,,Hydrabad
+4,others,3.35,12050,2780.0,5,Unfurnished,,May be not,4,,,Hydrabad
+4,others,1.6,6400,2500.0,3,Semi-Furnished,,May be not,4,,,Hydrabad
+3,others,1.25,8000,1566.0,,Unfurnished,,available,3,,,Hydrabad
+3,Miyapur,1.5,10000,1500.0,8,Semi-Furnished,,May be not,2,,,Hydrabad
+3,NH 9,0.7020000000000001,3900,1800.0,10+,Unfurnished,East,available,3,3,,Hydrabad
+3,Bandlaguda Jagir,1.0,5000,2000.0,4,Unfurnished,West,May be not,3,2,,Hydrabad
+3,Pragathi Nagar,0.78,5000,1560.0,1,Furnished,North,available,3,2,Main Road,Hydrabad
+3,others,0.7000000000000001,4795,1460.0,2,Unfurnished,East,May be not,2,2,"Garden/Park, Pool",Hydrabad
+2,Yapral,0.65,5909,1100.0,5,Semi-Furnished,West,available,2,1,,Hydrabad
+2,Outer Ring Road,0.5,4386,1140.0,4,Unfurnished,East,May be not,2,,,Hydrabad
+2,others,0.35000000000000003,4375,800.0,0,Semi-Furnished,East,May be not,2,,,Hydrabad
+2,others,0.4,4000,1000.0,3,Unfurnished,East,May be not,2,1,,Hydrabad
+2,others,0.54,5143,1050.0,5,Unfurnished,East,May be not,2,2,Main Road,Hydrabad
+2,others,0.6,5000,1200.0,4,Unfurnished,East,available,2,2,Main Road,Hydrabad
+2,Yapral,0.42,4200,1000.0,3,Unfurnished,East,May be not,2,2,,Hydrabad
+3,Bachupally,0.45,3913,1150.0,2,Semi-Furnished,West,available,2,2,Main Road,Hydrabad
+3,others,1.08,6840,1579.0,3,Semi-Furnished,East,available,3,2,Garden/Park,Hydrabad
+2,Bachupally,0.49,4000,1225.0,,Unfurnished,West,May be not,2,2,Main Road,Hydrabad
+3,Kokapet,1.4,10072,1390.0,2,Unfurnished,West,May be not,3,1,"Garden/Park, Pool, Main Road",Hydrabad
+2,Bachupally,0.62,5636,1100.0,1,Furnished,North - East,May be not,2,2,,Hydrabad
+3,Manikonda Jagir,1.4,7000,2000.0,2,Unfurnished,,May be not,3,2,,Hydrabad
+4,others,1.99,7370,2700.0,1,Unfurnished,,May be not,3,2,,Hydrabad
+3,others,0.63,4468,1410.0,3,Semi-Furnished,North - West,available,2,2,Garden/Park,Hydrabad
+3,Kondapur,1.6,7619,2100.0,4,Semi-Furnished,,May be not,3,2,,Hydrabad
+2,others,0.47000000000000003,4700,1000.0,4,Unfurnished,East,May be not,2,2,Garden/Park,Hydrabad
+3,Kondapur,1.32,8462,1560.0,4,Furnished,West,available,3,2,Main Road,Hydrabad
+2,others,0.65,5712,1138.0,1,Semi-Furnished,East,May be not,3,1,,Hydrabad
+3,others,1.7,7727,2200.0,4,Furnished,,May be not,3,,,Hydrabad
+3,others,1.3,,1585.0,3,Semi-Furnished,East,available,2,2,,Hydrabad
+2,others,1.3,10833,1200.0,4,Furnished,,May be not,2,,,Hydrabad
+3,Banjara Hills,1.9,10556,1800.0,1,Unfurnished,,May be not,3,,,Hydrabad
+3,others,0.9,,1250.0,5,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.68,5913,1150.0,3,Semi-Furnished,,May be not,2,2,,Hydrabad
+3,NH 9,1.38,6233,2214.0,2,Unfurnished,East,May be not,4,2,"Main Road, Garden/Park",Hydrabad
+4,others,2.0,9756,2050.0,4,Furnished,,May be not,3,,,Hydrabad
+3,others,1.45,7632,1900.0,2,Unfurnished,East,May be not,3,2,,Hydrabad
+3,others,1.1,7097,1550.0,3,Semi-Furnished,,May be not,3,2,,Hydrabad
+3,Yapral,2.8,9180,3050.0,7,Semi-Furnished,,May be not,4,,,Hydrabad
+2,others,0.9,6839,1316.0,1,Furnished,,May be not,2,3,,Hydrabad
+2,Pragathi Nagar,0.65,6075,1070.0,2,Semi-Furnished,,May be not,2,1,,Hydrabad
+2,others,0.32,3232,990.0,1,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.5,4762,1050.0,2,Unfurnished,,May be not,2,,,Hydrabad
+4+,Tellapur,1.11,7929,1400.0,,,,May be not,,,,Hydrabad
+2,others,0.65,,950.0,3,Furnished,,May be not,2,2,,Hydrabad
+3,Nizampet,1.0,6452,1550.0,2,,,May be not,3,,,Hydrabad
+3,others,1.1,6414,1715.0,3,Unfurnished,,May be not,3,2,,Hydrabad
+3,others,1.4,8383,1670.0,7,Unfurnished,,May be not,3,,,Hydrabad
+2,others,1.5,10949,1370.0,10+,Unfurnished,,May be not,2,,,Hydrabad
+2,others,1.1,,1254.0,7,Furnished,,May be not,2,,,Hydrabad
+4+,Tellapur,1.4,9302,1505.0,,,,May be not,,,,Hydrabad
+3,others,1.03,6754,1525.0,3,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.47000000000000003,3917,1200.0,5,Unfurnished,North - West,May be not,2,1,"Garden/Park, Main Road",Hydrabad
+2,others,1.05,7000,1500.0,1,Semi-Furnished,,May be not,2,,,Hydrabad
+3,others,0.59,4014,1470.0,1,Unfurnished,East,available,3,,Garden/Park,Hydrabad
+2,Bachupally,0.5700000000000001,4957,1150.0,0,Unfurnished,,May be not,2,,,Hydrabad
+4,others,2.3,9583,2400.0,3,Unfurnished,,May be not,4,,,Hydrabad
+3,NH 9,0.9500000000000001,4922,1930.0,4,Furnished,,May be not,3,2,,Hydrabad
+2,others,0.9,9278,970.0,3,Furnished,,May be not,2,,,Hydrabad
+3,others,0.55,5000,1100.0,3,Unfurnished,,May be not,2,,,Hydrabad
+3,Miyapur,0.55,3438,1600.0,1,Semi-Furnished,,May be not,3,,,Hydrabad
+3,others,1.1,7863,1399.0,1,Semi-Furnished,,May be not,2,2,,Hydrabad
+2,others,0.65,5652,1150.0,5,Furnished,,May be not,2,,,Hydrabad
+3,others,2.2,9167,2400.0,5,Semi-Furnished,,May be not,3,,,Hydrabad
+3,Kokapet,2.0,18182,1100.0,2,Unfurnished,,May be not,3,,,Hydrabad
+2,Pragathi Nagar,0.58,4735,1225.0,1,Semi-Furnished,,May be not,2,,,Hydrabad
+2,others,1.02,8000,1275.0,1,Furnished,,May be not,2,,,Hydrabad
+3,others,2.1,11200,1875.0,2,Semi-Furnished,East,available,3,2,,Hydrabad
+2,others,0.75,9375,800.0,2,Semi-Furnished,,May be not,2,,,Hydrabad
+2,Chanda Nagar,0.34,4857,700.0,2,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+3,others,1.0,7375,1356.0,10+,,,May be not,3,,,Hydrabad
+2,Outer Ring Road,1.05,7647,1373.0,5,Unfurnished,,May be not,2,2,,Hydrabad
+3,others,1.7,9444,1800.0,10+,Furnished,,May be not,3,1,,Hydrabad
+2,others,0.33,4925,670.0,2,Unfurnished,,available,2,1,,Hydrabad
+2,others,0.5,4405,1135.0,3,Unfurnished,,May be not,2,,,Hydrabad
+3,others,1.65,6600,2500.0,1,Semi-Furnished,East,May be not,3,2,Main Road,Hydrabad
+3,others,0.9500000000000001,4657,2040.0,4,Furnished,,May be not,3,,,Hydrabad
+2,others,0.65,5856,1110.0,3,Furnished,,May be not,2,,,Hydrabad
+3,others,1.1,7333,1500.0,2,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.75,6383,1175.0,2,Furnished,North - East,May be not,2,1,Main Road,Hydrabad
+3,others,1.05,6688,1570.0,1,Semi-Furnished,,May be not,3,2,,Hydrabad
+3,Chanda Nagar,1.16,6304,1840.0,5,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.45,6429,700.0,4,Unfurnished,North,May be not,2,1,,Hydrabad
+2,Bachupally,0.45,4018,1120.0,0,Furnished,,May be not,2,1,,Hydrabad
+3,Bachupally,0.897,4599,1950.0,0,Unfurnished,East,May be not,3,2,"Pool, Garden/Park, Main Road",Hydrabad
+4,others,2.3,,2480.0,2,Furnished,,May be not,3,,,Hydrabad
+2,others,0.75,7143,1050.0,1,Furnished,,May be not,2,,,Hydrabad
+2,others,0.4,3922,1020.0,4,Unfurnished,,May be not,2,,,Hydrabad
+3,Manikonda Jagir,1.58,7500,2119.0,2,Semi-Furnished,,May be not,3,,,Hydrabad
+3,others,0.6900000000000001,,1000.0,1,Semi-Furnished,West,May be not,3,1,,Hydrabad
+4+,others,4.25,6538,6500.0,1,Unfurnished,,May be not,3,,,Hydrabad
+3,Yapral,1.5,6711,2235.0,6,Unfurnished,,May be not,3,1,,Hydrabad
+3,NH 9,2.28,10000,2284.0,,Unfurnished,,available,4,1,,Hydrabad
+2,Nizampet,0.45,4286,1050.0,3,Unfurnished,,May be not,2,,,Hydrabad
+3,Yapral,0.8,5281,1515.0,1,,,May be not,3,,,Hydrabad
+2,Gachibowli,1.2,10000,1200.0,0,Semi-Furnished,,May be not,2,,,Hydrabad
+3,others,0.85,6296,1350.0,5,Unfurnished,,May be not,2,2,,Hydrabad
+3,Manikonda Jagir,1.15,6982,1647.0,1,Unfurnished,,May be not,3,,,Hydrabad
+1,others,0.22,4190,525.0,2,Unfurnished,,May be not,1,,,Hydrabad
+3,others,0.85,4187,2030.0,4,Semi-Furnished,,May be not,3,2,,Hydrabad
+3,others,1.0,5305,1885.0,2,Semi-Furnished,,May be not,3,,,Hydrabad
+3,Tellapur,0.9,5000,1800.0,10,Unfurnished,,May be not,3,2,,Hydrabad
+1,Uppal,0.39,5228,746.0,1,Unfurnished,,May be not,1,,,Hydrabad
+3,others,0.7020000000000001,3900,1800.0,8,Semi-Furnished,,May be not,4,,,Hydrabad
+2,others,0.5,4545,1100.0,1,Semi-Furnished,,May be not,2,,,Hydrabad
+1,Gachibowli,4.95,8250,6000.0,,,,May be not,,,,Hydrabad
+3,others,1.64,6369,2575.0,8,Unfurnished,,May be not,3,,,Hydrabad
+3,Banjara Hills,2.0,8000,2500.0,3,Unfurnished,,May be not,3,,,Hydrabad
+3,Kokapet,2.22,9002,2466.0,5,Furnished,,May be not,3,,,Hydrabad
+4,others,0.52,3059,1700.0,5,Semi-Furnished,,May be not,3,1,,Hydrabad
+3,NH 9,0.71,5768,1231.0,3,Unfurnished,,May be not,2,,,Hydrabad
+3,Chanda Nagar,1.85,10137,1825.0,4,Semi-Furnished,,May be not,3,,,Hydrabad
+2,others,0.53,4818,1100.0,2,Semi-Furnished,North,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.7000000000000001,8750,800.0,0,Unfurnished,,May be not,2,,,Hydrabad
+4,Kondapur,3.1,8456,3666.0,4,Furnished,,May be not,4,,,Hydrabad
+3,others,1.15,6414,1793.0,5,Furnished,,May be not,3,,,Hydrabad
+3,NH 9,1.0,6667,1500.0,0,Furnished,North,May be not,3,1,,Hydrabad
+2,Yapral,0.7000000000000001,6034,1160.0,5,Furnished,West,May be not,2,1,"Garden/Park, Main Road",Hydrabad
+3,others,0.75,5312,1412.0,1,Semi-Furnished,East,available,3,1,,Hydrabad
+2,others,0.7000000000000001,,900.0,4,Semi-Furnished,North - East,May be not,2,1,"Garden/Park, Main Road",Hydrabad
+3,Kokapet,2.1,11290,1860.0,5,Furnished,,May be not,3,2,,Hydrabad
+3,Kompally,0.8,5618,1424.0,5,Semi-Furnished,,May be not,3,2,,Hydrabad
+3,others,0.8,5333,1500.0,2,Semi-Furnished,,May be not,3,,,Hydrabad
+3,others,3.21,11547,2780.0,5,Unfurnished,North - West,May be not,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+2,Nizampet,0.65,5306,1225.0,5,Unfurnished,West,May be not,2,2,"Pool, Garden/Park, Main Road",Hydrabad
+3,others,1.8,9091,1980.0,2,Semi-Furnished,East,May be not,3,2,Main Road,Hydrabad
+3,others,1.1,5789,1900.0,1,Semi-Furnished,,May be not,3,,,Hydrabad
+3,Outer Ring Road,0.9500000000000001,6129,1550.0,3,Semi-Furnished,,May be not,3,,,Hydrabad
+2,Kondapur,1.55,11969,1295.0,10,Semi-Furnished,,May be not,2,,,Hydrabad
+3,others,1.1,6875,1600.0,1,Furnished,,May be not,3,2,,Hydrabad
+3,others,1.5,,990.0,1,Furnished,North,May be not,3,2,,Hydrabad
+3,NH 9,0.7000000000000001,5072,1380.0,1,Semi-Furnished,,May be not,3,,,Hydrabad
+3,Outer Ring Road,1.52,7469,2035.0,4,Semi-Furnished,,May be not,3,2,,Hydrabad
+4,others,1.92,7700,2494.0,1,Unfurnished,,May be not,3,2,,Hydrabad
+2,others,1.05,10000,1050.0,2,Furnished,,May be not,2,1,,Hydrabad
+3,others,1.25,6234,2005.0,1,Semi-Furnished,,May be not,3,,,Hydrabad
+3,others,1.2,6349,1890.0,1,Unfurnished,,May be not,3,3,,Hydrabad
+4+,others,9.0,,4896.0,1,Furnished,,May be not,4,,,Hydrabad
+3,others,0.85,5763,1475.0,4,Semi-Furnished,,May be not,3,,,Hydrabad
+3,Kompally,1.3,6500,2000.0,10,Unfurnished,East,May be not,3,2,"Garden/Park, Main Road",Hydrabad
+3,others,0.62,4960,1250.0,3,Unfurnished,West,May be not,2,1,,Hydrabad
+1,others,0.23,7077,325.0,1,Unfurnished,,May be not,1,,,Hydrabad
+1,Banjara Hills,4.0,8889,4500.0,1,Unfurnished,,May be not,1,1,,Hydrabad
+2,others,0.6,6667,900.0,3,Semi-Furnished,,May be not,1,,,Hydrabad
+2,others,0.55,4928,1116.0,,,,May be not,,,,Hydrabad
+2,others,1.5,,1435.0,1,Unfurnished,,May be not,2,,,Hydrabad
+3,Kokapet,1.7,9444,1800.0,10+,Unfurnished,,May be not,3,,,Hydrabad
+3,others,0.78,4860,1605.0,3,Unfurnished,East,May be not,3,1,"Garden/Park, Main Road",Hydrabad
+2,others,0.32,3478,920.0,5,Unfurnished,,May be not,2,,,Hydrabad
+3,Chanda Nagar,1.0,,1300.0,8,Unfurnished,,May be not,3,3,,Hydrabad
+2,others,0.75,6250,1200.0,1,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.62,,1050.0,5,Unfurnished,,May be not,2,2,,Hydrabad
+2,others,0.6900000000000001,,1107.0,5,Furnished,,May be not,2,,,Hydrabad
+2,others,0.6,5333,1125.0,1,Unfurnished,,May be not,2,,,Hydrabad
+4,Miyapur,1.5,5882,2550.0,2,Furnished,,May be not,4,,,Hydrabad
+3,others,0.99,5351,1850.0,2,Unfurnished,,May be not,3,,,Hydrabad
+1,NH 9,0.35000000000000003,6399,547.0,2,Semi-Furnished,,May be not,1,1,,Hydrabad
+3,others,1.2,,1490.0,5,Unfurnished,East,available,3,2,,Hydrabad
+3,others,1.05,6845,1534.0,10+,Furnished,,May be not,3,1,,Hydrabad
+3,others,1.78,9500,1875.0,10,Semi-Furnished,,May be not,3,,,Hydrabad
+4,others,1.44,4881,2950.0,7,Semi-Furnished,,May be not,4,,,Hydrabad
+3,NH 9,0.65,6190,1050.0,3,Semi-Furnished,,May be not,3,,,Hydrabad
+3,others,1.75,,1755.0,10+,Semi-Furnished,,May be not,3,3,,Hydrabad
+3,others,1.4,6349,2205.0,1,Unfurnished,West,May be not,3,2,Main Road,Hydrabad
+3,others,1.4,6512,2150.0,5,Unfurnished,,May be not,3,2,,Hydrabad
+3,others,1.45,9295,1560.0,4,Unfurnished,North,May be not,3,3,,Hydrabad
+3,others,1.9,6333,3000.0,4,Furnished,,May be not,3,,,Hydrabad
+3,Kondapur,1.4,8750,1600.0,1,Unfurnished,,May be not,3,,,Hydrabad
+3,others,4.5,60000,750.0,2,Furnished,,May be not,2,,,Hydrabad
+2,Yapral,0.6,,1205.0,1,Semi-Furnished,North - East,May be not,2,1,,Hydrabad
+3,others,0.99,6758,1465.0,2,Semi-Furnished,,May be not,3,2,,Hydrabad
+3,others,1.35,7500,1800.0,2,Semi-Furnished,,May be not,3,,,Hydrabad
+2,others,0.45,3750,1200.0,2,Unfurnished,,available,1,,,Hydrabad
+3,others,0.48,4674,1027.0,1,Unfurnished,,May be not,2,,,Hydrabad
+3,others,1.25,6477,1930.0,1,Unfurnished,,May be not,3,,,Hydrabad
+3,others,0.9500000000000001,7037,1350.0,5,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.75,6637,1130.0,5,Unfurnished,West,May be not,2,2,Main Road,Hydrabad
+3,Banjara Hills,1.6,9697,1650.0,2,Semi-Furnished,,May be not,3,,,Hydrabad
+2,others,0.7000000000000001,,1251.0,4,Furnished,East,May be not,2,1,Garden/Park,Hydrabad
+2,others,0.7000000000000001,5000,1400.0,4,Unfurnished,,May be not,2,2,,Hydrabad
+2,others,0.7000000000000001,8235,850.0,0,Furnished,West,May be not,2,,Main Road,Hydrabad
+2,NH 9,0.65,5702,1140.0,2,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.55,6659,826.0,1,Unfurnished,North - East,May be not,2,2,Main Road,Hydrabad
+3,others,1.9,11411,1665.0,7,Semi-Furnished,,May be not,3,,,Hydrabad
+3,Bachupally,0.65,4290,1515.0,1,Unfurnished,,May be not,3,,,Hydrabad
+2,Pragathi Nagar,0.64,6095,1050.0,1,Furnished,,May be not,2,,,Hydrabad
+1,others,0.28,4667,600.0,4,Unfurnished,North,May be not,1,,Garden/Park,Hydrabad
+2,others,0.805,5000,1609.0,4,Unfurnished,,May be not,3,,,Hydrabad
+3,others,1.0,6667,1500.0,2,Furnished,West,May be not,2,2,Main Road,Hydrabad
+2,others,0.55,4583,1200.0,2,Semi-Furnished,,May be not,2,3,,Hydrabad
+2,NH 9,0.65,6030,1078.0,2,Furnished,,May be not,2,2,,Hydrabad
+3,others,0.495,3293,1503.0,3,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+2,others,0.38,5278,720.0,4,Semi-Furnished,,May be not,2,1,,Hydrabad
+2,others,0.75,6173,1215.0,10,Unfurnished,,May be not,2,2,,Hydrabad
+3,others,0.99,5882,1683.0,3,Semi-Furnished,North,available,3,1,Garden/Park,Hydrabad
+3,others,2.2,7097,3100.0,4,Semi-Furnished,East,May be not,3,2,,Hydrabad
+3,others,2.5,10000,2500.0,2,Furnished,East,May be not,4,2,Main Road,Hydrabad
+2,others,0.65,5417,1200.0,1,Unfurnished,East,available,2,2,,Hydrabad
+4+,Outer Ring Road,1.2,10909,1100.0,0,Unfurnished,East,May be not,3,1,Main Road,Hydrabad
+3,others,1.8,9735,1849.0,5,Semi-Furnished,East,available,3,2,,Hydrabad
+3,others,2.15,10941,1965.0,10,Semi-Furnished,West,available,3,2,Pool,Hydrabad
+3,others,1.85,9439,1960.0,10,Semi-Furnished,,May be not,3,3,,Hydrabad
+3,others,1.1,6286,1750.0,4,Unfurnished,East,May be not,3,3,,Hydrabad
+4,others,1.0,,1800.0,1,Unfurnished,,May be not,3,2,,Hydrabad
+3,others,1.15,5476,2100.0,5,Semi-Furnished,,May be not,2,,,Hydrabad
+2,others,0.48,4598,1044.0,5,Unfurnished,,May be not,2,2,,Hydrabad
+2,others,0.55,4545,1210.0,3,Furnished,,May be not,2,3,,Hydrabad
+3,others,1.3,5200,2500.0,1,Unfurnished,North,available,3,2,Garden/Park,Hydrabad
+3,others,1.2,6957,1725.0,9,Unfurnished,East,May be not,3,3,"Garden/Park, Pool",Hydrabad
+2,others,0.25,2778,900.0,3,Furnished,North - East,May be not,2,2,,Hydrabad
+3,others,1.5,13043,1150.0,2,Unfurnished,,May be not,2,2,,Hydrabad
+2,Kondapur,1.0,9524,1050.0,5,Semi-Furnished,East,May be not,2,1,Main Road,Hydrabad
+2,others,0.85,7083,1200.0,0,Semi-Furnished,East,May be not,2,1,"Main Road, Garden/Park, Pool",Hydrabad
+3,others,0.6,3846,1560.0,2,Semi-Furnished,,May be not,2,,,Hydrabad
+3,others,1.11,6280,1768.0,4,Unfurnished,East,May be not,3,3,,Hydrabad
+4,Gachibowli,15.0,22502,6666.0,10+,Unfurnished,,May be not,4,,,Hydrabad
+3,others,1.3,8197,1586.0,1,Unfurnished,,May be not,3,3,,Hydrabad
+4,others,1.25,3571,3500.0,1,Unfurnished,,May be not,3,3,,Hydrabad
+3,Uppal,1.15,6609,1740.0,6,Furnished,,May be not,3,,,Hydrabad
+2,others,1.25,9506,1315.0,9,Unfurnished,East,May be not,2,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,Narsingi,1.72,6899,2500.0,,Semi-Furnished,,available,3,3,,Hydrabad
+2,others,1.0,5000,2000.0,1,Furnished,,May be not,2,1,,Hydrabad
+2,others,0.55,5500,1000.0,1,Unfurnished,East,May be not,2,2,"Main Road, Garden/Park",Hydrabad
+2,others,1.0,8439,1185.0,1,Furnished,,May be not,2,,,Hydrabad
+3,others,2.0,9091,2200.0,3,Semi-Furnished,,May be not,3,2,,Hydrabad
+3,Chanda Nagar,1.03,6900,1496.0,3,Unfurnished,East,May be not,3,3,Main Road,Hydrabad
+4+,others,4.0,8000,5000.0,,,,May be not,,,,Hydrabad
+3,others,0.726,,1050.0,2,Unfurnished,,May be not,2,1,,Hydrabad
+2,others,0.7000000000000001,5600,1250.0,5,Furnished,,May be not,2,1,,Hydrabad
+3,others,1.16,6480,1790.0,8,Semi-Furnished,East,May be not,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.1,,1850.0,2,Unfurnished,East,May be not,3,2,,Hydrabad
+3,others,1.3,8176,1590.0,9,Unfurnished,,May be not,3,,,Hydrabad
+3,Miyapur,1.6,8999,1778.0,5,Unfurnished,,May be not,3,,,Hydrabad
+3,Miyapur,1.6,8999,1778.0,5,Semi-Furnished,,May be not,3,3,,Hydrabad
+3,others,2.6,11106,2341.0,9,Unfurnished,East,May be not,3,2,,Hydrabad
+2,others,0.6,4615,1300.0,4,Semi-Furnished,,May be not,2,2,,Hydrabad
+3,Narsingi,2.76,13000,2125.0,10+,Unfurnished,,May be not,3,1,,Hydrabad
+2,others,0.55,4583,1200.0,3,Unfurnished,East,May be not,2,2,Garden/Park,Hydrabad
+2,NH 9,0.64,,1150.0,1,Semi-Furnished,,May be not,2,2,,Hydrabad
+3,Miyapur,1.36,8000,1700.0,6,Furnished,,May be not,3,2,,Hydrabad
+3,others,0.75,5415,1385.0,3,Unfurnished,East,May be not,2,2,,Hydrabad
+3,NH 9,1.5,,1650.0,3,Unfurnished,East,May be not,3,2,,Hydrabad
+2,others,0.35000000000000003,3500,1000.0,3,Semi-Furnished,,May be not,2,,,Hydrabad
+3,Kondapur,1.2,7524,1595.0,5,Semi-Furnished,,May be not,2,,,Hydrabad
+2,others,1.3,9517,1366.0,4,Unfurnished,,May be not,2,,,Hydrabad
+3,others,1.3,8125,1600.0,3,Semi-Furnished,,May be not,3,,,Hydrabad
+4+,Tellapur,4.25,5312,8000.0,0,Semi-Furnished,,May be not,4+,,,Hydrabad
+4+,others,1.5,8108,1850.0,0,Unfurnished,,May be not,4,,,Hydrabad
+3,others,1.2,7164,1675.0,2,Unfurnished,,May be not,3,,,Hydrabad
+3,others,1.0,6667,1500.0,4,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.5,5025,995.0,3,Unfurnished,,May be not,2,,,Hydrabad
+2,Miyapur,1.2,9901,1212.0,10+,Semi-Furnished,,May be not,2,,,Hydrabad
+4+,others,2.7,7500,3600.0,0,Unfurnished,,May be not,4+,,,Hydrabad
+3,others,1.05,10294,1020.0,3,Furnished,East,May be not,3,1,Main Road,Hydrabad
+4,others,4.8,16338,2938.0,,Unfurnished,,May be not,4,2,,Hydrabad
+2,others,0.35000000000000003,2846,1230.0,2,Semi-Furnished,North - East,May be not,2,1,,Hydrabad
+3,Banjara Hills,1.7,8500,2000.0,4,Semi-Furnished,,May be not,3,,,Hydrabad
+3,others,1.7,7675,2215.0,7,Unfurnished,,May be not,3,3,Garden/Park,Hydrabad
+2,Pragathi Nagar,0.48,4211,1140.0,3,Semi-Furnished,,May be not,2,,,Hydrabad
+3,Uppal,1.1,5965,1844.0,7,Unfurnished,,May be not,3,,,Hydrabad
+3,others,1.1,4774,2304.0,10+,Furnished,,May be not,3,1,,Hydrabad
+3,Chanda Nagar,1.55,9118,1700.0,1,Furnished,West,May be not,3,1,Garden/Park,Hydrabad
+2,others,0.51,4636,1100.0,2,Semi-Furnished,,May be not,2,,,Hydrabad
+2,others,1.0,9524,1050.0,3,Unfurnished,West,May be not,2,1,,Hydrabad
+3,others,1.9,9548,1990.0,3,Semi-Furnished,,May be not,3,,,Hydrabad
+3,others,1.35,8313,1624.0,7,Unfurnished,North,available,3,3,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,0.75,3947,1900.0,7,Unfurnished,East,available,3,,,Hydrabad
+2,others,0.75,6250,1200.0,1,Furnished,,May be not,2,,,Hydrabad
+2,others,0.72,7273,990.0,7,Semi-Furnished,,May be not,2,,,Hydrabad
+2,others,0.5,6944,720.0,4,Semi-Furnished,,May be not,2,,,Hydrabad
+2,others,0.51,4080,1250.0,0,Furnished,,available,2,,,Hydrabad
+2,others,0.7000000000000001,5600,1250.0,1,Semi-Furnished,,May be not,2,,,Hydrabad
+3,others,1.6,9575,1671.0,10,Furnished,,available,3,1,,Hydrabad
+3,others,0.6,6000,1000.0,1,,,May be not,3,,,Hydrabad
+3,Outer Ring Road,0.9500000000000001,5648,1682.0,4,Unfurnished,,May be not,2,,,Hydrabad
+2,NH 9,1.4,7479,1872.0,1,Unfurnished,,available,2,,,Hydrabad
+2,others,0.45,4945,910.0,3,Unfurnished,North,May be not,2,1,,Hydrabad
+4,NH 9,1.35,6136,2200.0,2,Unfurnished,,May be not,2,2,,Hydrabad
+3,others,1.0,5556,1800.0,5,Unfurnished,,May be not,3,,,Hydrabad
+3,others,1.85,10000,1850.0,1,Semi-Furnished,,May be not,3,,,Hydrabad
+2,others,0.9,7444,1209.0,1,Furnished,,May be not,2,,,Hydrabad
+3,others,0.77,5185,1485.0,1,Semi-Furnished,,May be not,3,,,Hydrabad
+2,Miyapur,1.25,10417,1200.0,1,Furnished,,May be not,2,,,Hydrabad
+2,others,1.3,10833,1200.0,2,Semi-Furnished,,May be not,2,,,Hydrabad
+2,Manikonda Jagir,1.15,9297,1237.0,1,Semi-Furnished,,May be not,2,,,Hydrabad
+3,Manikonda Jagir,1.0,,1500.0,4,Furnished,,May be not,3,2,,Hydrabad
+3,Kondapur,1.8,8491,2120.0,5,Semi-Furnished,,May be not,2,,,Hydrabad
+3,others,1.4,9272,1510.0,2,Semi-Furnished,,May be not,3,,,Hydrabad
+2,Kompally,0.726,6914,1050.0,4,Unfurnished,East,available,2,,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.3,7738,1680.0,5,Furnished,,May be not,3,,,Hydrabad
+2,Miyapur,0.85,7770,1094.0,1,Semi-Furnished,,May be not,2,,,Hydrabad
+4+,others,1.2,4000,3000.0,6,Semi-Furnished,,May be not,4,,,Hydrabad
+3,others,1.0,6061,1650.0,2,Semi-Furnished,,May be not,3,,,Hydrabad
+2,others,0.7000000000000001,6040,1159.0,3,Semi-Furnished,,May be not,2,,,Hydrabad
+2,others,1.2,9167,1309.0,3,Unfurnished,,May be not,2,,,Hydrabad
+3,others,1.22,23782,513.0,3,Furnished,,May be not,3,,,Hydrabad
+2,Kokapet,1.15,9055,1270.0,10+,Semi-Furnished,,May be not,2,3,,Hydrabad
+3,others,2.0,10753,1860.0,0,Semi-Furnished,,May be not,3,,,Hydrabad
+3,others,2.0,10753,1860.0,0,Semi-Furnished,,May be not,3,,,Hydrabad
+3,others,1.0,6789,1473.0,3,Furnished,,May be not,2,,,Hydrabad
+1,others,1.95,17411,1120.0,1,Unfurnished,North,May be not,,,,Hydrabad
+3,others,2.0,11409,1753.0,5,Furnished,,May be not,3,2,,Hydrabad
+3,Pragathi Nagar,1.2,9266,1295.0,8,Unfurnished,West,May be not,2,1,"Pool, Garden/Park, Main Road",Hydrabad
+2,Manikonda Jagir,1.03,7518,1370.0,5,Unfurnished,,May be not,2,1,,Hydrabad
+2,Pragathi Nagar,0.531,4827,1100.0,3,Unfurnished,,May be not,2,,,Hydrabad
+3,others,0.48,3556,1350.0,7,Unfurnished,,May be not,3,,,Hydrabad
+3,others,0.9,4972,1810.0,3,Furnished,,May be not,3,,,Hydrabad
+2,others,0.3,,695.0,3,Unfurnished,,May be not,2,,,Hydrabad
+3,others,0.915,5755,1590.0,3,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.8,7168,1116.0,2,Furnished,East,May be not,2,1,Main Road,Hydrabad
+4+,others,4.0,4762,8400.0,,Unfurnished,,available,,,,Hydrabad
+3,others,1.0,7018,1425.0,2,Semi-Furnished,,May be not,3,,,Hydrabad
+4,Puppalguda,2.1,8824,2380.0,4,Unfurnished,North,May be not,4,3,Main Road,Hydrabad
+3,others,1.1,7208,1526.0,4,Semi-Furnished,,May be not,3,,,Hydrabad
+4,others,1.21,5500,2200.0,1,Unfurnished,,May be not,3,,,Hydrabad
+2,others,0.55,5069,1085.0,2,Furnished,,May be not,2,1,,Hydrabad
+1,others,0.4,7782,514.0,0,Unfurnished,East,May be not,1,1,,Hydrabad
+2,Bandlaguda Jagir,0.659,5500,1199.0,3,Semi-Furnished,,May be not,2,,,Hydrabad
+2,others,0.34,4250,800.0,2,Unfurnished,,May be not,2,,,Hydrabad
+3,Kokapet,2.4,10738,2235.0,10+,Unfurnished,,May be not,3,,,Hydrabad
+3,Uppal,8.5,43590,1950.0,10+,Semi-Furnished,,May be not,2,,,Hydrabad
+3,others,0.85,6746,1260.0,4,Unfurnished,,May be not,2,,,Hydrabad
+3,Nizampet,1.5,7937,1890.0,3,Unfurnished,,May be not,2,,,Hydrabad
+3,Outer Ring Road,1.1,6587,1670.0,,Semi-Furnished,,available,3,,,Hydrabad
+2,others,0.55,5189,1060.0,3,Unfurnished,,May be not,2,,,Hydrabad
+2,others,0.55,,1000.0,4,Unfurnished,East,May be not,2,1,"Garden/Park, Main Road",Hydrabad
+2,others,0.58,5273,1100.0,5,Furnished,,May be not,2,,,Hydrabad
+3,others,1.85,10452,1770.0,10,Semi-Furnished,,May be not,3,,,Hydrabad
+2,Miyapur,0.77,6906,1115.0,2,Semi-Furnished,,May be not,2,1,,Hydrabad
+2,others,0.65,5417,1200.0,1,Semi-Furnished,,May be not,2,1,,Hydrabad
+3,others,1.1,8148,1350.0,10,Furnished,,May be not,2,,,Hydrabad
+2,others,0.45,3913,1150.0,0,Semi-Furnished,,May be not,2,,,Hydrabad
+2,Bachupally,0.65,5285,1230.0,1,Unfurnished,,May be not,2,,,Hydrabad
+3,others,0.5700000000000001,4008,1422.0,5,Unfurnished,West,May be not,3,2,Garden/Park,Hydrabad
+4,Banjara Hills,6.5,15015,4329.0,0,Unfurnished,East,May be not,4+,2,,Hydrabad
+3,NH 9,1.0,5000,2000.0,5,Unfurnished,,available,2,2,,Hydrabad
+3,Kompally,0.9500000000000001,5234,1815.0,5,Unfurnished,West,available,3,1,Main Road,Hydrabad
+3,others,1.1,6667,1650.0,1,Unfurnished,,May be not,3,,,Hydrabad
+2,Nizampet,0.55,4490,1225.0,1,Furnished,East,May be not,2,1,,Hydrabad
+3,Bachupally,0.65,4869,1335.0,4,Unfurnished,East,available,3,1,Main Road,Hydrabad
+3,others,1.69,9468,1785.0,10+,Unfurnished,East,May be not,3,1,Main Road,Hydrabad
+3,others,1.35,7500,1800.0,6,Unfurnished,,available,3,2,,Hydrabad
+2,others,0.85,6469,1314.0,7,Unfurnished,East,May be not,2,,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.62,5561,1115.0,3,Semi-Furnished,East,available,2,1,Garden/Park,Hydrabad
+3,NH 9,2.35,9404,2499.0,4,Semi-Furnished,East,available,4,2,Main Road,Hydrabad
+2,others,0.611,6465,945.0,5,Unfurnished,East,available,2,1,Garden/Park,Hydrabad
+3,others,1.39,6495,2140.0,5,Unfurnished,West,available,3,2,Garden/Park,Hydrabad
+4,others,8.1,13012,6225.0,10+,Unfurnished,West,May be not,4,3,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.49,4083,1200.0,2,Semi-Furnished,East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+2,Manikonda Jagir,0.36,3000,1200.0,5,Furnished,South,May be not,2,2,,Hydrabad
+3,Manikonda Jagir,1.48,6700,2209.0,9,Unfurnished,East,available,3,2,"Pool, Garden/Park, Main Road",Hydrabad
+3,Kondapur,1.84,10698,1720.0,10+,Unfurnished,East,available,3,2,Garden/Park,Hydrabad
+4+,others,1.75,8706,2010.0,9,Semi-Furnished,,May be not,3,,,Hydrabad
+2,others,0.56,4828,1160.0,4,Unfurnished,East,available,2,2,Main Road,Hydrabad
+3,Narsingi,1.48,7800,1905.0,10+,Unfurnished,East,available,3,1,Main Road,Hydrabad
+3,others,4.0,16495,2425.0,1,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road",Hydrabad
+3,others,0.65,4745,1370.0,4,Semi-Furnished,East,available,3,1,Main Road,Hydrabad
+4+,Kollur,1.52,4000,3800.0,10,Unfurnished,East,available,4+,2,"Pool, Garden/Park, Main Road",Hydrabad
+3,Narsingi,1.86,8750,2126.0,2,Unfurnished,West,available,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+3,Gachibowli,0.63,4500,1400.0,4,Unfurnished,East,available,2,2,Garden/Park,Hydrabad
+3,others,1.41,7465,1889.0,10+,Unfurnished,East,available,3,2,"Garden/Park, Pool, Main Road",Hydrabad
+2,NH 9,0.85,7083,1200.0,1,Unfurnished,East,May be not,2,1,"Garden/Park, Main Road",Hydrabad
+3,others,1.55,8683,1785.0,5,Furnished,East,available,3,2,,Hydrabad
+3,Kondapur,2.19,8111,2700.0,2,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+3,Narsingi,2.4,10300,2335.0,7,Unfurnished,,May be not,3,,,Hydrabad
+3,others,1.04,6200,1677.0,1,Unfurnished,North - West,available,3,2,,Hydrabad
+4,Narsingi,2.96,11856,2500.0,5,Semi-Furnished,,May be not,4,,,Hydrabad
+3,Narsingi,2.4,11881,2020.0,10+,Unfurnished,East,May be not,3,2,Main Road,Hydrabad
+4,others,0.65,4333,1500.0,6,Furnished,East,available,2,2,Main Road,Hydrabad
+3,others,1.78,8500,2100.0,,Unfurnished,,May be not,3,,,Hydrabad
+4,Gachibowli,2.35,7833,3000.0,5,Furnished,,May be not,3,,,Hydrabad
+3,others,1.9,10270,1850.0,10+,Unfurnished,East,available,3,3,"Garden/Park, Pool, Main Road",Hydrabad
+2,Narsingi,1.59,11606,1370.0,10+,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+2,Outer Ring Road,0.52,4581,1135.0,3,Furnished,North - East,May be not,2,1,Main Road,Hydrabad
+2,Kondapur,1.0,10000,1000.0,5,Furnished,,May be not,2,,,Hydrabad
+3,Narsingi,1.19,6800,1760.0,4,Unfurnished,,May be not,3,2,,Hydrabad
+3,others,0.65,5417,1200.0,3,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+3,Narsingi,2.3,9850,2335.0,5,Unfurnished,West,May be not,3,3,Garden/Park,Hydrabad
+3,others,0.75,5882,1275.0,1,Furnished,South,May be not,3,1,Main Road,Hydrabad
+3,others,0.55,4053,1357.0,5,Unfurnished,,May be not,3,,,Hydrabad
+4,others,2.5,8929,2800.0,10+,Unfurnished,West,May be not,4,2,"Garden/Park, Main Road",Hydrabad
+3,Kompally,1.15,6970,1650.0,5,Furnished,West,May be not,3,1,"Garden/Park, Main Road",Hydrabad
+3,Gachibowli,1.03,8078,1275.0,2,Semi-Furnished,South,available,2,2,Main Road,Hydrabad
+3,NH 9,0.98,6282,1560.0,4,Unfurnished,North - East,May be not,2,2,Main Road,Hydrabad
+3,Kollur,0.9,5625,1600.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,Bandlaguda Jagir,1.07,6800,1588.0,4,Unfurnished,West,available,3,1,Main Road,Hydrabad
+3,others,1.67,9298,1796.0,10+,Unfurnished,North - East,available,3,2,"Garden/Park, Pool",Hydrabad
+3,NH 9,1.25,7812,1600.0,1,Furnished,East,May be not,3,2,Main Road,Hydrabad
+2,others,0.7000000000000001,6167,1135.0,4,Unfurnished,East,May be not,2,3,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.87,8500,2200.0,2,Unfurnished,East,May be not,3,4,"Pool, Main Road",Hydrabad
+3,Nizampet,1.83,7957,2300.0,4,Furnished,West,May be not,4,2,Garden/Park,Hydrabad
+2,others,0.85,7203,1180.0,2,Semi-Furnished,East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+4,others,3.6,13139,2740.0,2,Unfurnished,West,May be not,3,2,Garden/Park,Hydrabad
+4,others,5.0,17019,2938.0,10+,Unfurnished,East,available,3,,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,0.87,6341,1372.0,5,Unfurnished,North,May be not,3,3,"Garden/Park, Pool, Main Road",Hydrabad
+3,Uppal,0.9500000000000001,6032,1575.0,1,Unfurnished,East,May be not,3,1,Garden/Park,Hydrabad
+3,others,1.05,7778,1350.0,3,Unfurnished,West,May be not,3,2,Main Road,Hydrabad
+3,others,0.96,6443,1490.0,4,Semi-Furnished,West,available,2,2,Garden/Park,Hydrabad
+3,others,0.45,4004,1124.0,3,Unfurnished,,May be not,3,,,Hydrabad
+2,Pragathi Nagar,0.746,5800,1287.0,,Unfurnished,,available,2,,,Hydrabad
+3,Manikonda Jagir,2.5,10870,2300.0,10+,Furnished,East,available,4+,,Garden/Park,Hydrabad
+2,Narsingi,1.7,12938,1314.0,10+,Semi-Furnished,East,available,2,1,"Pool, Garden/Park",Hydrabad
+3,others,2.2,11518,1910.0,10+,Unfurnished,East,May be not,3,1,"Garden/Park, Pool",Hydrabad
+2,Manikonda Jagir,0.64,5689,1125.0,4,Semi-Furnished,East,available,2,2,"Garden/Park, Main Road",Hydrabad
+2,Bandlaguda Jagir,0.7000000000000001,5650,1239.0,5,Unfurnished,East,May be not,2,2,,Hydrabad
+3,others,6.7,19534,3430.0,10+,Unfurnished,East,available,3,2,Main Road,Hydrabad
+2,Miyapur,0.52,5078,1024.0,2,Semi-Furnished,West,available,2,1,Main Road,Hydrabad
+3,others,2.0,9438,2119.0,10+,Furnished,East,available,4,,Main Road,Hydrabad
+2,others,0.74,7048,1050.0,3,Unfurnished,East,May be not,2,1,Garden/Park,Hydrabad
+2,others,0.45,4500,1000.0,2,Semi-Furnished,North - East,available,2,1,Main Road,Hydrabad
+4,others,3.36,11000,3055.0,1,Semi-Furnished,West,May be not,4,4,Main Road,Hydrabad
+3,Chanda Nagar,1.03,6890,1495.0,4,Unfurnished,,May be not,3,2,,Hydrabad
+2,Miyapur,0.9,7627,1180.0,8,Unfurnished,West,May be not,2,1,Main Road,Hydrabad
+3,Outer Ring Road,1.65,9694,1702.0,10+,Furnished,West,May be not,3,1,"Garden/Park, Pool, Main Road",Hydrabad
+2,Tellapur,0.904,6500,1391.0,9,Unfurnished,East,May be not,2,1,Main Road,Hydrabad
+3,others,2.1,7595,2765.0,2,Unfurnished,West,available,3,1,,Hydrabad
+3,Nizampet,1.35,7500,1800.0,4,Unfurnished,East,May be not,3,,Garden/Park,Hydrabad
+2,Kompally,0.55,5000,1100.0,3,Furnished,East,May be not,2,2,Main Road,Hydrabad
+3,Narsingi,1.95,8647,2255.0,10+,Unfurnished,West,May be not,3,3,"Garden/Park, Pool",Hydrabad
+2,others,0.48,4752,1010.0,8,Semi-Furnished,East,May be not,2,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,3.25,14069,2310.0,6,Semi-Furnished,East,May be not,3,1,"Garden/Park, Pool",Hydrabad
+2,others,0.78,6695,1165.0,3,Semi-Furnished,East,May be not,2,2,"Garden/Park, Main Road",Hydrabad
+3,Narsingi,1.27,9039,1405.0,1,Furnished,,May be not,2,1,,Hydrabad
+3,others,2.3,11735,1960.0,3,Semi-Furnished,South -West,available,3,2,"Pool, Garden/Park",Hydrabad
+2,others,0.78,6166,1265.0,5,Unfurnished,,May be not,2,1,,Hydrabad
+2,others,0.7000000000000001,,1162.0,4,Furnished,East,available,2,2,Garden/Park,Hydrabad
+2,others,0.56,4571,1225.0,3,Unfurnished,West,available,2,1,Garden/Park,Hydrabad
+3,Kompally,1.0,6897,1450.0,4,Furnished,East,May be not,2,1,Main Road,Hydrabad
+3,NH 9,1.8,11002,1636.0,8,Semi-Furnished,West,May be not,3,3,"Garden/Park, Pool, Main Road",Hydrabad
+3,others,1.55,10098,1535.0,5,Unfurnished,East,May be not,2,2,"Pool, Garden/Park, Main Road",Hydrabad
+3,Gachibowli,2.7,13547,1993.0,10+,Unfurnished,East,May be not,3,1,"Pool, Main Road",Hydrabad
+3,others,1.32,7952,1660.0,2,Semi-Furnished,North - East,May be not,2,2,Main Road,Hydrabad
+3,others,1.5,,1600.0,1,Furnished,East,May be not,3,3,,Hydrabad
+3,others,0.99,6429,1540.0,5,Unfurnished,West,May be not,2,2,,Hydrabad
+2,others,0.8,7648,1046.0,5,Unfurnished,North,May be not,2,1,Main Road,Hydrabad
+3,NH 9,1.88,10550,1782.0,10+,Unfurnished,West,available,3,1,"Garden/Park, Pool, Main Road",Hydrabad
+3,Gachibowli,1.96,,2009.0,10+,Unfurnished,East,available,3,,"Garden/Park, Pool, Main Road",Hydrabad
+2,others,0.55,,1071.0,0,Furnished,,May be not,2,2,,Hydrabad
+3,others,1.3,8713,1492.0,4,Furnished,East,May be not,3,1,"Main Road, Garden/Park, Pool",Hydrabad
+3,Manikonda Jagir,1.41,6730,2095.0,4,Unfurnished,West,May be not,3,1,Main Road,Hydrabad
+3,others,1.27,8000,1588.0,4,Unfurnished,West,available,3,2,Main Road,Hydrabad
+2,others,0.28,3916,715.0,2,Unfurnished,East,available,1,1,Main Road,Hydrabad
+4,Yapral,1.75,6322,2768.0,4,Furnished,West,available,4,1,Garden/Park,Hydrabad
+3,others,0.6900000000000001,5308,1300.0,3,Unfurnished,West,May be not,3,1,Garden/Park,Hydrabad
+2,Gachibowli,1.1,9091,1210.0,1,Semi-Furnished,East,available,2,2,Garden/Park,Hydrabad
+3,others,0.75,4545,1650.0,3,Semi-Furnished,East,May be not,3,1,,Hydrabad
+3,others,0.65,4407,1475.0,3,Semi-Furnished,West,available,2,2,Garden/Park,Hydrabad
+3,others,1.5,7500,2000.0,1,Unfurnished,East,available,3,2,Garden/Park,Hydrabad
